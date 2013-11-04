@@ -999,7 +999,7 @@
 "290O";"10";"Thyroid procedures, short therapy";"Thyroid procedures, short therapy";T;2003/05/25;"290O"
 "290X";"10";"Thyroid procedures";"Thyroid procedures";T;1996/12/31;"290"
 "291O";"10";"Thyroglossal procedures, short therapy";"Thyroglossal procedures, short therapy";F;2003/05/25;"291O"
-"291X";"10";"Thyroglossal procedures";"Thyroglossal procedures";F;1996/12/31;"291"
+"291X";"10";"Thyroglossal procedures";"Thyroglossal procedures";T;1996/12/31;"291"
 "292X";"10";"Other endocrine, nutritional or metabolic disease o. r. procedure w cc";"Other endocrine, nutrit & metab o. r. proc w cc";T;2003/06/25;"292"
 "293O";"10";"Other endocrine, nutritional or metabolic disease o. r. procedure, short therapy";"Other endocr, nut&metab o. r. procedure, sh th";T;2005/02/04;"293O"
 "293X";"10";"Other endocrine, nutritional or metabolic disease o. r. procedure w/o cc";"Other endocrine, nutrit & metab o. r. proc w/o cc";T;2003/06/25;"293"
