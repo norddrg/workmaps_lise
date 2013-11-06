@@ -474,7 +474,7 @@
 "10S09";"Pituitary procedure";T;"1";T;F;"10";/  /;"Aivolisäkkeen toimenpide";T
 "10S20";"Gastrointestinal procedure for obesity";T;"0";T;F;"10";/  /;"";T
 "10T03";"Special demanding medical therapy for endocrine, metabolic or nuttritional disease";F;"0";T;F;"";/  /;"";T
-"10T04";"Miglustat therapy";F;"0";T;F;"";/  /;"";T
+"10T04";"Miglustat therapy";F;"0";T;F;"";/  /;"";F
 "10V01";"Hormone profile determination";F;"0";T;F;"";/  /;"";F
 "10V02";"Puncture of endocrine organ";F;"0";T;F;"";2008/05/20;"";F
 "10V03";"Metabolic examination";F;"0";T;F;"";/  /;"";F
@@ -638,8 +638,8 @@
 "18T01";"Special medical therapy for infections";F;"0";T;F;"";2006/01/18;"";F
 "18T02";"Demanding medical therapy for infections";F;"0";T;F;"";2006/01/18;"";F
 "18T03";"Special demanding medical therapy for infections";F;"0";T;F;"";2006/01/18;"";F
-"18T04";"Gansiklovir";F;"0";T;F;"";/  /;"";T
-"18T05";"Special anfigungal agents";F;"0";T;F;"";/  /;"";T
+"18T04";"Gansiklovir";F;"0";T;F;"";/  /;"";F
+"18T05";"Special anfigungal agents";F;"0";T;F;"";/  /;"";F
 "18T50";"Linetsolid";F;"0";T;F;"";/  /;"";T
 "19O01";"Electroconvulsive therapy (ECT)";F;"0";T;F;"";/  /;"";F
 "19O02";"Antidepressive fototherapy";F;"0";T;F;"";/  /;"";F
@@ -767,7 +767,7 @@
 "90O01";"Acute intensive care";F;"0";T;F;"";/  /;"";F
 "90O02";"Allergy test";F;"0";T;F;"";2007/11/13;"";F
 "90O03";"Hypebar oxygen therapy";F;"0";T;F;"";/  /;"";F
-"90O10";"Specific biological drug treatment";F;"0";T;F;"";2009/07/06;"";T
+"90O10";"Specific biological drug treatment";F;"0";T;F;"";2009/07/06;"";F
 "90S01";"Parenteral administration";F;"0";T;F;"";/  /;"";F
 "90S02";"Intravenous administration";F;"0";T;F;"";/  /;"";F
 "90S03";"Intravesical administraiton";F;"0";T;F;"";/  /;"";F
