@@ -206,7 +206,7 @@
 "30X99";"Breast problem";T;2002/04/03;T;"";"";""
 "90X01";"Malignancy or history of malignancy";T;2004/08/09;F;"";"";"Pahanlaatuinen kasvain"
 "90X02";"Benign tumour";T;2012/03/10;F;"";"";""
-"90X10";"Siginificant intervention for complication";T;2004/08/25;T;"";"";""
+"90X10";"Siginificant intervention for complication";T;2004/08/25;F;"";"";""
 "90X11";"Severe or general pain";T;2008/05/20;F;"";"";""
 "90X12";"Examination";T;2007/11/21;F;"";"";""
 "90X13";"Patient education";T;2012/04/19;F;"";"";""
