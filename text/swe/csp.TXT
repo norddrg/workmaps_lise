@@ -1,113 +1,113 @@
-"A01AA";"Caries prophylactic agents";"A01AA";F;2013/09/25
-"A01AB";"Antiinfectives and antiseptics for local oral treatment";"A01AB";F;2013/09/25
-"A01AC";"Corticosteroids for local oral treatment";"A01AC";F;2013/09/25
-"A01AD";"Other agents for local oral treatment";"A01AD";F;2013/09/25
-"A02AA";"Magnesium compounds";"A02AA";F;2013/09/25
-"A02AB";"Aluminium compounds";"A02AB";F;2013/09/25
-"A02AC";"Calcium compounds";"A02AC";F;2013/09/25
-"A02AD";"Combinations and complexes of aluminium, calcium and magnesium compounds";"A02AD";F;2013/09/25
-"A02AF";"Antacids with antiflatulents";"A02AF";F;2013/09/25
-"A02AG";"Antacids with antispasmodics";"A02AG";F;2013/09/25
-"A02AH";"Antacids with sodium bicarbonate";"A02AH";F;2013/09/25
-"A02AX";"Antacids, other combinations";"A02AX";F;2013/09/25
-"A02BA";"H2-receptor antagonists";"A02BA";F;2013/09/25
-"A02BB";"Prostaglandins";"A02BB";F;2013/09/25
-"A02BC";"Proton pump inhibitors";"A02BC";F;2013/09/25
-"A02BD";"Combinations for eradication of Helicobacter pylori";"A02BD";F;2013/09/25
-"A02BX";"Other drugs for peptic ulcer and gastro-oesophageal reflux disease (GORD)";"A02BX";F;2013/09/25
-"A03AA";"Synthetic anticholinergics, esters with tertiary amino group";"A03AA";F;2013/09/25
-"A03AB";"Synthetic anticholinergics, quaternary ammonium compounds";"A03AB";F;2013/09/25
-"A03AC";"Synthetic antispasmodics, amides with tertiary amines";"A03AC";F;2013/09/25
-"A03AD";"Papaverine and derivatives";"A03AD";F;2013/09/25
-"A03AE";"Drugs acting on serotonin receptors";"A03AE";F;2013/09/25
-"A03AX";"Other drugs for functional bowel disorders";"A03AX";F;2013/09/25
-"A03BA";"Belladonna alkaloids, tertiary amines";"A03BA";F;2013/09/25
-"A03BB";"Belladonna alkaloids, semisynthetic, quaternary ammonium compounds";"A03BB";F;2013/09/25
-"A03CA";"Synthetic anticholinergic agents in combination with psycholeptics";"A03CA";F;2013/09/25
-"A03CB";"Belladonna and derivatives in combination with psycholeptics";"A03CB";F;2013/09/25
-"A03CC";"Other antispasmodics in combination with psycholeptics";"A03CC";F;2013/09/25
-"A03DA";"Synthetic anticholinergic agents in combination with analgesics";"A03DA";F;2013/09/25
-"A03DB";"Belladonna and derivatives in combination with analgesics";"A03DB";F;2013/09/25
-"A03DC";"Other antispasmodics in combination with analgesics";"A03DC";F;2013/09/25
-"A03EA";"Antispasmodics, psycholeptics and analgesics in combination";"A03EA";F;2013/09/25
-"A03ED";"Antispasmodics in combination with other drugs";"A03ED";F;2013/09/25
-"A03FA";"Propulsives";"A03FA";F;2013/09/25
-"A04AA";"Serotonin (5HT3) antagonists";"A04AA";F;2013/09/25
-"A04AD";"Other antiemetics";"A04AD";F;2013/09/25
-"A05AA";"Bile acid preparations";"A05AA";F;2013/09/25
-"A05AB";"Preparations for biliary tract therapy";"A05AB";F;2013/09/25
-"A05AX";"Other drugs for bile therapy";"A05AX";F;2013/09/25
-"A05BA";"Liver therapy";"A05BA";F;2013/09/25
-"A06AA";"Softeners, emollients";"A06AA";F;2013/09/25
-"A06AB";"Contact laxatives";"A06AB";F;2013/09/25
-"A06AC";"Bulk producers";"A06AC";F;2013/09/25
-"A06AD";"Osmotically acting laxatives";"A06AD";F;2013/09/25
-"A06AG";"Enemas";"A06AG";F;2013/09/25
-"A06AX";"Other laxatives";"A06AX";F;2013/09/25
-"A07AA";"Antibiotics";"A07AA";F;2013/09/25
-"A07AB";"Sulfonamides";"A07AB";F;2013/09/25
-"A07AC";"Imidazole derivatives";"A07AC";F;2013/09/25
-"A07AX";"Other intestinal antiinfectives";"A07AX";F;2013/09/25
-"A07BA";"Charcoal preparations";"A07BA";F;2013/09/25
-"A07BB";"Bismuth preparations";"A07BB";F;2013/09/25
-"A07BC";"Other intestinal adsorbents";"A07BC";F;2013/09/25
-"A07CA";"Oral rehydration salt formulations";"A07CA";F;2013/09/25
-"A07DA";"Antipropulsives";"A07DA";F;2013/09/25
-"A07EA";"Corticosteroids acting locally";"A07EA";F;2013/09/25
-"A07EB";"Antiallergic agents, excl. corticosteroids";"A07EB";F;2013/09/25
-"A07EC";"Aminosalicylic acid and similar agents";"A07EC";F;2013/09/25
-"A07FA";"Antidiarrheal microorganisms";"A07FA";F;2013/09/25
-"A07XA";"Other antidiarrheals";"A07XA";F;2013/09/25
-"A08AA";"Centrally acting antiobesity products";"A08AA";F;2013/09/25
-"A08AB";"Peripherally acting antiobesity products";"A08AB";F;2013/09/25
-"A09AA";"Enzyme preparations";"A09AA";F;2013/09/25
-"A09AB";"Acid preparations";"A09AB";F;2013/09/25
-"A09AC";"Enzyme and acid preparations, combinations";"A09AC";F;2013/09/25
-"A10AB";"Insulins and analogues, fast-acting";"A10AB";F;2013/09/25
-"A10AC";"Insulins and analogues, intermediate-acting";"A10AC";F;2013/09/25
-"A10AD";"Insulins and analogues, intermediate-acting combined with fast-acting";"A10AD";F;2013/09/25
-"A10AE";"Insulins and analogues, long-acting";"A10AE";F;2013/09/25
-"A10BA";"Biguanides";"A10BA";F;2013/09/25
-"A10BB";"Sulfonamides, urea derivatives";"A10BB";F;2013/09/25
-"A10BC";"Sulfonamides (heterocyclic)";"A10BC";F;2013/09/25
-"A10BD";"Combinations of oral blood glucose lowering drugs";"A10BD";F;2013/09/25
-"A10BF";"Alpha glucosidase inhibitors";"A10BF";F;2013/09/25
-"A10BG";"Thiazolidinediones";"A10BG";F;2013/09/25
-"A10BX";"Other oral blood glucose lowering drugs";"A10BX";F;2013/09/25
-"A10XA";"Aldose reductase inhibitors";"A10XA";F;2013/09/25
-"A11AA";"Multivitamins with minerals";"A11AA";F;2013/09/25
-"A11AB";"Multivitamins, other combinations";"A11AB";F;2013/09/25
-"A11BA";"Multivitamins, plain";"A11BA";F;2013/09/25
-"A11CA";"Vitamin A, plain";"A11CA";F;2013/09/25
-"A11CB";"Vitamin A and D in combination";"A11CB";F;2013/09/25
-"A11CC";"Vitamin D and analogues";"A11CC";F;2013/09/25
-"A11DA";"Vitamin B1, plain";"A11DA";F;2013/09/25
-"A11DB";"Vitamin B1 in combination with vitamin B6 and/or vitamin B12";"A11DB";F;2013/09/25
-"A11EA";"Vitamin B-complex, plain";"A11EA";F;2013/09/25
-"A11EB";"Vitamin B-complex with vitamin C";"A11EB";F;2013/09/25
-"A11EC";"Vitamin B-complex with minerals";"A11EC";F;2013/09/25
-"A11ED";"Vitamin B-complex with anabolic steroids";"A11ED";F;2013/09/25
-"A11EX";"Vitamin B-complex, other combinations";"A11EX";F;2013/09/25
-"A11GA";"Ascorbic acid (vitamin C), plain";"A11GA";F;2013/09/25
-"A11GB";"Ascorbic acid (vitamin C), combinations";"A11GB";F;2013/09/25
-"A11HA";"Other plain vitamin preparations";"A11HA";F;2013/09/25
-"A11JA";"Combinations of vitamins";"A11JA";F;2013/09/25
-"A11JB";"Vitamins with minerals";"A11JB";F;2013/09/25
-"A11JC";"Vitamins, other combinations";"A11JC";F;2013/09/25
-"A12AA";"Calcium";"A12AA";F;2013/09/25
-"A12AX";"Calcium, combinations with other drugs";"A12AX";F;2013/09/25
-"A12BA";"Potassium";"A12BA";F;2013/09/25
-"A12CA";"Sodium";"A12CA";F;2013/09/25
-"A12CB";"Zinc";"A12CB";F;2013/09/25
-"A12CC";"Magnesium";"A12CC";F;2013/09/25
-"A12CD";"Fluoride";"A12CD";F;2013/09/25
-"A12CE";"Selenium";"A12CE";F;2013/09/25
-"A12CX";"Other mineral products";"A12CX";F;2013/09/25
-"A14AA";"Androstan derivatives";"A14AA";F;2013/09/25
-"A14AB";"Estren derivatives";"A14AB";F;2013/09/25
-"A16AA";"Amino acids and derivatives";"A16AA";F;2013/09/25
-"A16AB";"Enzymes";"A16AB";F;2013/09/25
-"A16AX";"Various alimentary tract and metabolism products";"A16AX";F;2013/09/25
+"A01AA";"Caries prophylactic agents";"A01AA";F;2013/11/12
+"A01AB";"Antiinfectives and antiseptics for local oral treatment";"A01AB";F;2013/11/12
+"A01AC";"Corticosteroids for local oral treatment";"A01AC";F;2013/11/12
+"A01AD";"Other agents for local oral treatment";"A01AD";F;2013/11/12
+"A02AA";"Magnesium compounds";"A02AA";F;2013/11/12
+"A02AB";"Aluminium compounds";"A02AB";F;2013/11/12
+"A02AC";"Calcium compounds";"A02AC";F;2013/11/12
+"A02AD";"Combinations and complexes of aluminium, calcium and magnesium compounds";"A02AD";F;2013/11/12
+"A02AF";"Antacids with antiflatulents";"A02AF";F;2013/11/12
+"A02AG";"Antacids with antispasmodics";"A02AG";F;2013/11/12
+"A02AH";"Antacids with sodium bicarbonate";"A02AH";F;2013/11/12
+"A02AX";"Antacids, other combinations";"A02AX";F;2013/11/12
+"A02BA";"H2-receptor antagonists";"A02BA";F;2013/11/12
+"A02BB";"Prostaglandins";"A02BB";F;2013/11/12
+"A02BC";"Proton pump inhibitors";"A02BC";F;2013/11/12
+"A02BD";"Combinations for eradication of Helicobacter pylori";"A02BD";F;2013/11/12
+"A02BX";"Other drugs for peptic ulcer and gastro-oesophageal reflux disease (GORD)";"A02BX";F;2013/11/12
+"A03AA";"Synthetic anticholinergics, esters with tertiary amino group";"A03AA";F;2013/11/12
+"A03AB";"Synthetic anticholinergics, quaternary ammonium compounds";"A03AB";F;2013/11/12
+"A03AC";"Synthetic antispasmodics, amides with tertiary amines";"A03AC";F;2013/11/12
+"A03AD";"Papaverine and derivatives";"A03AD";F;2013/11/12
+"A03AE";"Drugs acting on serotonin receptors";"A03AE";F;2013/11/12
+"A03AX";"Other drugs for functional bowel disorders";"A03AX";F;2013/11/12
+"A03BA";"Belladonna alkaloids, tertiary amines";"A03BA";F;2013/11/12
+"A03BB";"Belladonna alkaloids, semisynthetic, quaternary ammonium compounds";"A03BB";F;2013/11/12
+"A03CA";"Synthetic anticholinergic agents in combination with psycholeptics";"A03CA";F;2013/11/12
+"A03CB";"Belladonna and derivatives in combination with psycholeptics";"A03CB";F;2013/11/12
+"A03CC";"Other antispasmodics in combination with psycholeptics";"A03CC";F;2013/11/12
+"A03DA";"Synthetic anticholinergic agents in combination with analgesics";"A03DA";F;2013/11/12
+"A03DB";"Belladonna and derivatives in combination with analgesics";"A03DB";F;2013/11/12
+"A03DC";"Other antispasmodics in combination with analgesics";"A03DC";F;2013/11/12
+"A03EA";"Antispasmodics, psycholeptics and analgesics in combination";"A03EA";F;2013/11/12
+"A03ED";"Antispasmodics in combination with other drugs";"A03ED";F;2013/11/12
+"A03FA";"Propulsives";"A03FA";F;2013/11/12
+"A04AA";"Serotonin (5HT3) antagonists";"A04AA";F;2013/11/12
+"A04AD";"Other antiemetics";"A04AD";F;2013/11/12
+"A05AA";"Bile acid preparations";"A05AA";F;2013/11/12
+"A05AB";"Preparations for biliary tract therapy";"A05AB";F;2013/11/12
+"A05AX";"Other drugs for bile therapy";"A05AX";F;2013/11/12
+"A05BA";"Liver therapy";"A05BA";F;2013/11/12
+"A06AA";"Softeners, emollients";"A06AA";F;2013/11/12
+"A06AB";"Contact laxatives";"A06AB";F;2013/11/12
+"A06AC";"Bulk producers";"A06AC";F;2013/11/12
+"A06AD";"Osmotically acting laxatives";"A06AD";F;2013/11/12
+"A06AG";"Enemas";"A06AG";F;2013/11/12
+"A06AX";"Other laxatives";"A06AX";F;2013/11/12
+"A07AA";"Antibiotics";"A07AA";F;2013/11/12
+"A07AB";"Sulfonamides";"A07AB";F;2013/11/12
+"A07AC";"Imidazole derivatives";"A07AC";F;2013/11/12
+"A07AX";"Other intestinal antiinfectives";"A07AX";F;2013/11/12
+"A07BA";"Charcoal preparations";"A07BA";F;2013/11/12
+"A07BB";"Bismuth preparations";"A07BB";F;2013/11/12
+"A07BC";"Other intestinal adsorbents";"A07BC";F;2013/11/12
+"A07CA";"Oral rehydration salt formulations";"A07CA";F;2013/11/12
+"A07DA";"Antipropulsives";"A07DA";F;2013/11/12
+"A07EA";"Corticosteroids acting locally";"A07EA";F;2013/11/12
+"A07EB";"Antiallergic agents, excl. corticosteroids";"A07EB";F;2013/11/12
+"A07EC";"Aminosalicylic acid and similar agents";"A07EC";F;2013/11/12
+"A07FA";"Antidiarrheal microorganisms";"A07FA";F;2013/11/12
+"A07XA";"Other antidiarrheals";"A07XA";F;2013/11/12
+"A08AA";"Centrally acting antiobesity products";"A08AA";F;2013/11/12
+"A08AB";"Peripherally acting antiobesity products";"A08AB";F;2013/11/12
+"A09AA";"Enzyme preparations";"A09AA";F;2013/11/12
+"A09AB";"Acid preparations";"A09AB";F;2013/11/12
+"A09AC";"Enzyme and acid preparations, combinations";"A09AC";F;2013/11/12
+"A10AB";"Insulins and analogues, fast-acting";"A10AB";F;2013/11/12
+"A10AC";"Insulins and analogues, intermediate-acting";"A10AC";F;2013/11/12
+"A10AD";"Insulins and analogues, intermediate-acting combined with fast-acting";"A10AD";F;2013/11/12
+"A10AE";"Insulins and analogues, long-acting";"A10AE";F;2013/11/12
+"A10BA";"Biguanides";"A10BA";F;2013/11/12
+"A10BB";"Sulfonamides, urea derivatives";"A10BB";F;2013/11/12
+"A10BC";"Sulfonamides (heterocyclic)";"A10BC";F;2013/11/12
+"A10BD";"Combinations of oral blood glucose lowering drugs";"A10BD";F;2013/11/12
+"A10BF";"Alpha glucosidase inhibitors";"A10BF";F;2013/11/12
+"A10BG";"Thiazolidinediones";"A10BG";F;2013/11/12
+"A10BX";"Other oral blood glucose lowering drugs";"A10BX";F;2013/11/12
+"A10XA";"Aldose reductase inhibitors";"A10XA";F;2013/11/12
+"A11AA";"Multivitamins with minerals";"A11AA";F;2013/11/12
+"A11AB";"Multivitamins, other combinations";"A11AB";F;2013/11/12
+"A11BA";"Multivitamins, plain";"A11BA";F;2013/11/12
+"A11CA";"Vitamin A, plain";"A11CA";F;2013/11/12
+"A11CB";"Vitamin A and D in combination";"A11CB";F;2013/11/12
+"A11CC";"Vitamin D and analogues";"A11CC";F;2013/11/12
+"A11DA";"Vitamin B1, plain";"A11DA";F;2013/11/12
+"A11DB";"Vitamin B1 in combination with vitamin B6 and/or vitamin B12";"A11DB";F;2013/11/12
+"A11EA";"Vitamin B-complex, plain";"A11EA";F;2013/11/12
+"A11EB";"Vitamin B-complex with vitamin C";"A11EB";F;2013/11/12
+"A11EC";"Vitamin B-complex with minerals";"A11EC";F;2013/11/12
+"A11ED";"Vitamin B-complex with anabolic steroids";"A11ED";F;2013/11/12
+"A11EX";"Vitamin B-complex, other combinations";"A11EX";F;2013/11/12
+"A11GA";"Ascorbic acid (vitamin C), plain";"A11GA";F;2013/11/12
+"A11GB";"Ascorbic acid (vitamin C), combinations";"A11GB";F;2013/11/12
+"A11HA";"Other plain vitamin preparations";"A11HA";F;2013/11/12
+"A11JA";"Combinations of vitamins";"A11JA";F;2013/11/12
+"A11JB";"Vitamins with minerals";"A11JB";F;2013/11/12
+"A11JC";"Vitamins, other combinations";"A11JC";F;2013/11/12
+"A12AA";"Calcium";"A12AA";F;2013/11/12
+"A12AX";"Calcium, combinations with other drugs";"A12AX";F;2013/11/12
+"A12BA";"Potassium";"A12BA";F;2013/11/12
+"A12CA";"Sodium";"A12CA";F;2013/11/12
+"A12CB";"Zinc";"A12CB";F;2013/11/12
+"A12CC";"Magnesium";"A12CC";F;2013/11/12
+"A12CD";"Fluoride";"A12CD";F;2013/11/12
+"A12CE";"Selenium";"A12CE";F;2013/11/12
+"A12CX";"Other mineral products";"A12CX";F;2013/11/12
+"A14AA";"Androstan derivatives";"A14AA";F;2013/11/12
+"A14AB";"Estren derivatives";"A14AB";F;2013/11/12
+"A16AA";"Amino acids and derivatives";"A16AA";F;2013/11/12
+"A16AB";"Enzymes";"A16AB";F;2013/11/12
+"A16AX";"Various alimentary tract and metabolism products";"A16AX";F;2013/11/12
 "AA001";"Adenosintest";"AXFB30";F;2006/01/01
 "AA002";"Algometri";"AXFB10";F;2006/01/01
 "AA003";"Amplitudintegrerat EEG, långtidsövervakning";"AAFE10";F;2006/01/01
@@ -655,6 +655,7 @@
 "AE019";"Skintigrafi, tårkanal";"CCIA00";F;2006/01/01
 "AE020";"Undersökning av oralmotorik";"EXFA00";F;2006/01/01
 "AE021";"Videofluoroskopi av orofaryngeal sväljning";"ENDA20";F;2006/01/01
+"AE022";"Deleted 2009/12/31 - Sialoskopi";"ELEA00";F;2007/01/01
 "AEA00";"Byte av impulsgenerator i stimuleringsutrustning i nervsystemet";"AESA00";F;2002/01/01
 "AEA20";"Borttagande av impulsgenerator i stimuleringsutrustning i nervsystemet";"AESA20";F;2002/01/01
 "AEA23";"Borttagande av intrakraniell elektrod";"AESA23";F;2002/01/01
@@ -824,6 +825,7 @@
 "AJ015";"Duodenografi, hypoton";"JDDB2B";F;2006/01/01
 "AJ016";"Esofagusmanometri med provokationstest";"JCFC02";F;2006/01/01
 "AJ017";"Herniografi";"JADB1C";F;2006/01/01
+"AJ018";"Deleted 2009/12/31 - Kapselenteroskopi";"JFE092";F;2006/01/01
 "AJ019";"Klinisk undersökning av buk";"JXFX90";F;2006/01/01
 "AJ020";"Klinisk undersökning av ändtarm";"JGFX90";F;2006/01/01
 "AJ021";"Kolangiografi, postoperativ";"JKDB3M";F;2006/01/01
@@ -1010,6 +1012,7 @@
 "AM030";"Obstetrisk ultraljudsundersökning för bedömning av moderns njurbäcken";"KADE1B";F;2008/01/01
 "AM035";"Ultraljudsundersökning av lakterande kvinnas bröst";"HADE1B";F;2008/01/01
 "AM040";"Undersökning pga. misstänkt vattenavgång, ej verifierad";"MXXX99";F;2010/01/01
+"AM041";"Undersökning p.g.a. minskade fosterrörelser";"MXXX99";F;2014/01/01
 "AN001";"Bentermografi";"XXFC00";F;2006/01/01
 "AN002";"Bentäthetsmätning, annan kroppsdel";"NXDA6P";F;2006/01/01
 "AN003";"Bentäthetsmätning, arm";"NXDA6P";F;2006/01/01
@@ -1228,16 +1231,16 @@
 "AU009";"Klinisk undersökning av psykiskt tillstånd";"AAF899";F;2006/01/01
 "AU010";"Allmän skattning av behov eller funktionsförmåga";"R1R100";F;2006/01/01
 "AU011";"Skattning av psykiska symptom";"AAF899";F;2006/01/01
-"AU012";"Deleted 2010/09/30-Suicidriskbedömning, enklare";"AAF899";F;2010/01/01
-"AU113";"Deleted 2011/12/05-Motiverande samtal, MI";"ZYZX90";F;2011/01/01
-"AU114";"Deleted 2011/12/05-Återfallsprevention, ÅFP";"ZYZX90";F;2011/01/01
+"AU012";"Deleted 2010/09/30 - Suicidriskbedömning, enklare";"AAF899";F;2010/01/01
+"AU113";"Deleted 2011/12/05 - Motiverande samtal, MI";"ZYZX90";F;2011/01/01
+"AU114";"Deleted 2011/12/05 - Återfallsprevention, ÅFP";"ZYZX90";F;2011/01/01
 "AU115";"Sprututbyte";"WTXX00";F;2011/01/01
 "AU116";"Övervakning av läkemedelsintag";"WTXX00";F;2011/01/01
 "AU117";"12-stegsbehandling";"R4R140";F;2011/01/01
 "AU118";"Strukturerad suicidriskbedömning";"AAF899";F;2011/01/01
 "AU119";"Strukturerad bedömning av alkohol- och drogvanor";"AAF899";F;2011/01/01
 "AU120";"Upprättande av strukturerad vård- och omsorgsplan";"AAF899";F;2011/01/01
-"AU121";"Deleted 2013/12/31-Beardslee familjeintervention";"R4R140";F;2011/01/01
+"AU121";"Deleted 2013/12/31 - Beardslee familjeintervention";"R4R140";F;2011/01/01
 "AU122";"Strukturerad farlighetsbedömning";"AAF899";F;2011/01/01
 "AU123";"Upprättande av krisplan";"WSZE00";F;2012/01/01
 "AV001";"Annan specificerad skintigrafi";"XXIX00";F;2006/01/01
@@ -1249,7 +1252,7 @@
 "AV007";"Bestämning av kroppssammansättning med impedansmätning";"XXFX00";F;2006/01/01
 "AV008";"Bilddokumentation UNS";"WZZ999";F;2006/01/01
 "AV009";"Biopsi UNS";"ZVXA00";F;2006/01/01
-"AV010";"Deleted 2010/09/29-Datortomografi för radioterapibruk";"XXDD9V";F;2006/01/01
+"AV010";"Deleted 2010/09/29 - Datortomografi för radioterapibruk";"XXDD9V";F;2006/01/01
 "AV011";"Datorarbetsplatsutredning";"R1R282";F;2006/01/01
 "AV012";"Datorarbetsplatsutredning, omfattande";"R1R282";F;2006/01/01
 "AV013";"Datortomografi UNS";"XXDD9X";F;2006/01/01
@@ -1365,44 +1368,44 @@
 "AWE00";"Reoperation för djup blödning";"AWSE00";F;1997/01/01
 "AWW99";"Annan reoperation på nervsystemet";"AWSW99";F;1997/01/01
 "AX999";"Ospecificerad utredning";"ZYZX90";F;2006/01/01
-"B01AA";"Vitamin K antagonists";"B01AA";F;2013/09/25
-"B01AB";"Heparin group";"B01AB";F;2013/09/25
-"B01AC";"Platelet aggregation inhibitors excl. heparin";"B01AC";F;2013/09/25
-"B01AD";"Enzymes";"B01AD";F;2013/09/25
-"B01AE";"Direct thrombin inhibitors";"B01AE";F;2013/09/25
-"B01AX";"Other antithrombotic agents";"B01AX";F;2013/09/25
-"B02AA";"Amino acids";"B02AA";F;2013/09/25
-"B02AB";"Proteinase inhibitors";"B02AB";F;2013/09/25
-"B02BA";"Vitamin K";"B02BA";F;2013/09/25
-"B02BB";"Fibrinogen";"B02BB";F;2013/09/25
-"B02BC";"Local hemostatics";"B02BC";F;2013/09/25
-"B02BD";"Blood coagulation factors";"B02BD";F;2013/09/25
-"B02BX";"Other systemic hemostatics";"B02BX";F;2013/09/25
-"B03AA";"Iron bivalent, oral preparations";"B03AA";F;2013/09/25
-"B03AB";"Iron trivalent, oral preparations";"B03AB";F;2013/09/25
-"B03AC";"Iron trivalent, parenteral preparations";"B03AC";F;2013/09/25
-"B03AD";"Iron in combination with folic acid";"B03AD";F;2013/09/25
-"B03AE";"Iron in other combinations";"B03AE";F;2013/09/25
-"B03BA";"Vitamin B12 (cyanocobalamin and analogues)";"B03BA";F;2013/09/25
-"B03BB";"Folic acid and derivatives";"B03BB";F;2013/09/25
-"B03XA";"Other antianemic preparations";"B03XA";F;2013/09/25
-"B05AA";"Blood substitutes and plasma protein fractions";"B05AA";F;2013/09/25
-"B05BA";"Solutions for parenteral nutrition";"B05BA";F;2013/09/25
-"B05BB";"Solutions affecting the electrolyte balance";"B05BB";F;2013/09/25
-"B05BC";"Solutions producing osmotic diuresis";"B05BC";F;2013/09/25
-"B05CA";"Antiinfectives";"B05CA";F;2013/09/25
-"B05CB";"Salt solutions";"B05CB";F;2013/09/25
-"B05CX";"Other irrigating solutions";"B05CX";F;2013/09/25
-"B05DA";"Isotonic solutions";"B05DA";F;2013/09/25
-"B05DB";"Hypertonic solutions";"B05DB";F;2013/09/25
-"B05XA";"Electrolyte solutions";"B05XA";F;2013/09/25
-"B05XB";"Amino acids";"B05XB";F;2013/09/25
-"B05XC";"Vitamins";"B05XC";F;2013/09/25
-"B05XX";"Other i.v. solution additives";"B05XX";F;2013/09/25
-"B05ZA";"Hemodialytics, concentrates";"B05ZA";F;2013/09/25
-"B05ZB";"Hemofiltrates";"B05ZB";F;2013/09/25
-"B06AA";"Enzymes";"B06AA";F;2013/09/25
-"B06AB";"Other hem products";"B06AB";F;2013/09/25
+"B01AA";"Vitamin K antagonists";"B01AA";F;2013/11/12
+"B01AB";"Heparin group";"B01AB";F;2013/11/12
+"B01AC";"Platelet aggregation inhibitors excl. heparin";"B01AC";F;2013/11/12
+"B01AD";"Enzymes";"B01AD";F;2013/11/12
+"B01AE";"Direct thrombin inhibitors";"B01AE";F;2013/11/12
+"B01AX";"Other antithrombotic agents";"B01AX";F;2013/11/12
+"B02AA";"Amino acids";"B02AA";F;2013/11/12
+"B02AB";"Proteinase inhibitors";"B02AB";F;2013/11/12
+"B02BA";"Vitamin K";"B02BA";F;2013/11/12
+"B02BB";"Fibrinogen";"B02BB";F;2013/11/12
+"B02BC";"Local hemostatics";"B02BC";F;2013/11/12
+"B02BD";"Blood coagulation factors";"B02BD";F;2013/11/12
+"B02BX";"Other systemic hemostatics";"B02BX";F;2013/11/12
+"B03AA";"Iron bivalent, oral preparations";"B03AA";F;2013/11/12
+"B03AB";"Iron trivalent, oral preparations";"B03AB";F;2013/11/12
+"B03AC";"Iron trivalent, parenteral preparations";"B03AC";F;2013/11/12
+"B03AD";"Iron in combination with folic acid";"B03AD";F;2013/11/12
+"B03AE";"Iron in other combinations";"B03AE";F;2013/11/12
+"B03BA";"Vitamin B12 (cyanocobalamin and analogues)";"B03BA";F;2013/11/12
+"B03BB";"Folic acid and derivatives";"B03BB";F;2013/11/12
+"B03XA";"Other antianemic preparations";"B03XA";F;2013/11/12
+"B05AA";"Blood substitutes and plasma protein fractions";"B05AA";F;2013/11/12
+"B05BA";"Solutions for parenteral nutrition";"B05BA";F;2013/11/12
+"B05BB";"Solutions affecting the electrolyte balance";"B05BB";F;2013/11/12
+"B05BC";"Solutions producing osmotic diuresis";"B05BC";F;2013/11/12
+"B05CA";"Antiinfectives";"B05CA";F;2013/11/12
+"B05CB";"Salt solutions";"B05CB";F;2013/11/12
+"B05CX";"Other irrigating solutions";"B05CX";F;2013/11/12
+"B05DA";"Isotonic solutions";"B05DA";F;2013/11/12
+"B05DB";"Hypertonic solutions";"B05DB";F;2013/11/12
+"B05XA";"Electrolyte solutions";"B05XA";F;2013/11/12
+"B05XB";"Amino acids";"B05XB";F;2013/11/12
+"B05XC";"Vitamins";"B05XC";F;2013/11/12
+"B05XX";"Other i.v. solution additives";"B05XX";F;2013/11/12
+"B05ZA";"Hemodialytics, concentrates";"B05ZA";F;2013/11/12
+"B05ZB";"Hemofiltrates";"B05ZB";F;2013/11/12
+"B06AA";"Enzymes";"B06AA";F;2013/11/12
+"B06AB";"Other hem products";"B06AB";F;2013/11/12
 "BAA00";"Biopsi av sköldkörteln";"BASA00";F;1997/01/01
 "BAA05";"Exploration av sköldkörteln";"BASA05";F;1997/01/01
 "BAA10";"Incision i sköldkörteln";"BASA10";F;1997/01/01
@@ -1436,119 +1439,119 @@
 "BWD00";"Reoperation för ytlig blödning";"BWSD00";F;1997/01/01
 "BWE00";"Reoperation för djup blödning";"BWSE00";F;1997/01/01
 "BWW99";"Annan reoperation på endokrina organ";"BWSW99";F;1997/01/01
-"C01AA";"Digitalis glycosides";"C01AA";F;2013/09/25
-"C01AB";"Scilla glycosides";"C01AB";F;2013/09/25
-"C01AC";"Strophantus glycosides";"C01AC";F;2013/09/25
-"C01AX";"Other cardiac glycosides";"C01AX";F;2013/09/25
-"C01BA";"Antiarrhythmics, class Ia";"C01BA";F;2013/09/25
-"C01BB";"Antiarrhythmics, class Ib";"C01BB";F;2013/09/25
-"C01BC";"Antiarrhythmics, class Ic";"C01BC";F;2013/09/25
-"C01BD";"Antiarrhythmics, class III";"C01BD";F;2013/09/25
-"C01BG";"Other class I antiarrhythmics";"C01BG";F;2013/09/25
-"C01CA";"Adrenergic and dopaminergic agents";"C01CA";F;2013/09/25
-"C01CE";"Phosphodiesterase inhibitors";"C01CE";F;2013/09/25
-"C01CX";"Other cardiac stimulants";"C01CX";F;2013/09/25
-"C01DA";"Organic nitrates";"C01DA";F;2013/09/25
-"C01DB";"Quinolone vasodilators";"C01DB";F;2013/09/25
-"C01DX";"Other vasodilators used in cardiac diseases";"C01DX";F;2013/09/25
-"C01EA";"Prostaglandins";"C01EA";F;2013/09/25
-"C01EB";"Other cardiac preparations";"C01EB";F;2013/09/25
-"C01EX";"Other cardiac combination products";"C01EX";F;2013/09/25
-"C02AA";"Rauwolfia alkaloids";"C02AA";F;2013/09/25
-"C02AB";"Methyldopa";"C02AB";F;2013/09/25
-"C02AC";"Imidazoline receptor agonists";"C02AC";F;2013/09/25
-"C02BA";"Sulfonium derivatives";"C02BA";F;2013/09/25
-"C02BB";"Secondary and tertiary amines";"C02BB";F;2013/09/25
-"C02BC";"Bisquaternary ammonium compounds";"C02BC";F;2013/09/25
-"C02CA";"Alpha-adrenoreceptor antagonists";"C02CA";F;2013/09/25
-"C02CC";"Guanidine derivatives";"C02CC";F;2013/09/25
-"C02DA";"Thiazide derivatives";"C02DA";F;2013/09/25
-"C02DB";"Hydrazinophthalazine derivatives";"C02DB";F;2013/09/25
-"C02DC";"Pyrimidine derivatives";"C02DC";F;2013/09/25
-"C02DD";"Nitroferricyanide derivatives";"C02DD";F;2013/09/25
-"C02DG";"Guanidine derivatives";"C02DG";F;2013/09/25
-"C02KA";"Alkaloids, excl. rauwolfia";"C02KA";F;2013/09/25
-"C02KB";"Tyrosine hydroxylase inhibitors";"C02KB";F;2013/09/25
-"C02KC";"MAO inhibitors";"C02KC";F;2013/09/25
-"C02KD";"Serotonin antagonists";"C02KD";F;2013/09/25
-"C02KX";"Other antihypertensives";"C02KX";F;2013/09/25
-"C02LA";"Rauwolfia alkaloids and diuretics in combination";"C02LA";F;2013/09/25
-"C02LB";"Methyldopa and diuretics in combination";"C02LB";F;2013/09/25
-"C02LC";"Imidazoline receptor agonists in combination with diuretics";"C02LC";F;2013/09/25
-"C02LE";"Alpha-adrenoreceptor antagonists and diuretics";"C02LE";F;2013/09/25
-"C02LF";"Guanidine derivatives and diuretics";"C02LF";F;2013/09/25
-"C02LG";"Hydrazinophthalazine derivatives and diuretics";"C02LG";F;2013/09/25
-"C02LK";"Alkaloids, excl. rauwolfia, in combination with diuretics";"C02LK";F;2013/09/25
-"C02LL";"MAO inhibitors and diuretics";"C02LL";F;2013/09/25
-"C02LN";"Serotonin antagonists and diuretics";"C02LN";F;2013/09/25
-"C02LX";"Other antihypertensives and diuretics";"C02LX";F;2013/09/25
-"C03AA";"Thiazides, plain";"C03AA";F;2013/09/25
-"C03AB";"Thiazides and potassium in combination";"C03AB";F;2013/09/25
-"C03AH";"Thiazides, combinations with psycholeptics and/or analgesics";"C03AH";F;2013/09/25
-"C03AX";"Thiazides, combinations with other drugs";"C03AX";F;2013/09/25
-"C03BA";"Sulfonamides, plain";"C03BA";F;2013/09/25
-"C03BB";"Sulfonamides and potassium in combination";"C03BB";F;2013/09/25
-"C03BC";"Mercurial diuretics";"C03BC";F;2013/09/25
-"C03BD";"Xanthine derivatives";"C03BD";F;2013/09/25
-"C03BK";"Sulfonamides, combinations with other drugs";"C03BK";F;2013/09/25
-"C03BX";"Other low-ceiling diuretics";"C03BX";F;2013/09/25
-"C03CA";"Sulfonamides, plain";"C03CA";F;2013/09/25
-"C03CB";"Sulfonamides and potassium in combination";"C03CB";F;2013/09/25
-"C03CC";"Aryloxyacetic acid derivatives";"C03CC";F;2013/09/25
-"C03CD";"Pyrazolone derivatives";"C03CD";F;2013/09/25
-"C03CX";"Other high-ceiling diuretics";"C03CX";F;2013/09/25
-"C03DA";"Aldosterone antagonists";"C03DA";F;2013/09/25
-"C03DB";"Other potassium-sparing agents";"C03DB";F;2013/09/25
-"C03EA";"Low-ceiling diuretics and potassium-sparing agents";"C03EA";F;2013/09/25
-"C03EB";"High-ceiling diuretics and potassium-sparing agents";"C03EB";F;2013/09/25
-"C04AA";"2-amino-1-phenylethanol derivatives";"C04AA";F;2013/09/25
-"C04AB";"Imidazoline derivatives";"C04AB";F;2013/09/25
-"C04AC";"Nicotinic acid and derivatives";"C04AC";F;2013/09/25
-"C04AD";"Purine derivatives";"C04AD";F;2013/09/25
-"C04AE";"Ergot alkaloids";"C04AE";F;2013/09/25
-"C04AF";"Enzymes";"C04AF";F;2013/09/25
-"C04AX";"Other peripheral vasodilators";"C04AX";F;2013/09/25
-"C05AA";"Products containing corticosteroids";"C05AA";F;2013/09/25
-"C05AB";"Products containing antibiotics";"C05AB";F;2013/09/25
-"C05AD";"Products containing local anesthetics";"C05AD";F;2013/09/25
-"C05AX";"Other antihemorrhoidals for topical use";"C05AX";F;2013/09/25
-"C05BA";"Heparins or heparinoids for topical use";"C05BA";F;2013/09/25
-"C05BB";"Sclerosing agents for local injection";"C05BB";F;2013/09/25
-"C05BX";"Other sclerosing agents";"C05BX";F;2013/09/25
-"C05CA";"Bioflavonoids";"C05CA";F;2013/09/25
-"C05CX";"Other capillary stabilizing agents";"C05CX";F;2013/09/25
-"C07AA";"Beta blocking agents, non-selective";"C07AA";F;2013/09/25
-"C07AB";"Beta blocking agents, selective";"C07AB";F;2013/09/25
-"C07AG";"Alpha and beta blocking agents";"C07AG";F;2013/09/25
-"C07BA";"Beta blocking agents, non-selective, and thiazides";"C07BA";F;2013/09/25
-"C07BB";"Beta blocking agents, selective, and thiazides";"C07BB";F;2013/09/25
-"C07BG";"Alpha and beta blocking agents and thiazides";"C07BG";F;2013/09/25
-"C07CA";"Beta blocking agents, non-selective, and other diuretics";"C07CA";F;2013/09/25
-"C07CB";"Beta blocking agents, selective, and other diuretics";"C07CB";F;2013/09/25
-"C07CG";"Alpha and beta blocking agents and other diuretics";"C07CG";F;2013/09/25
-"C07DA";"Beta blocking agents, non-selective, thiazides and other diuretics";"C07DA";F;2013/09/25
-"C07DB";"Beta blocking agents, selective, thiazides and other diuretics";"C07DB";F;2013/09/25
-"C07EA";"Beta blocking agents, non-selective, and vasodilators";"C07EA";F;2013/09/25
-"C07EB";"Beta blocking agents, selective, and vasodilators";"C07EB";F;2013/09/25
-"C07FA";"Beta blocking agents, non-selective, and other antihypertensives";"C07FA";F;2013/09/25
-"C07FB";"Beta blocking agents, selective, and other antihypertensives";"C07FB";F;2013/09/25
-"C08CA";"Dihydropyridine derivatives";"C08CA";F;2013/09/25
-"C08CX";"Other selective calcium channel blockers with mainly vascular effects";"C08CX";F;2013/09/25
-"C08DA";"Phenylalkylamine derivatives";"C08DA";F;2013/09/25
-"C08DB";"Benzothiazepine derivatives";"C08DB";F;2013/09/25
-"C08EA";"Phenylalkylamine derivatives";"C08EA";F;2013/09/25
-"C08EX";"Other non-selective calcium channel blockers";"C08EX";F;2013/09/25
-"C08GA";"Calcium channel blockers and diuretics";"C08GA";F;2013/09/25
-"C09AA";"ACE inhibitors, plain";"C09AA";F;2013/09/25
-"C09BA";"ACE inhibitors and diuretics";"C09BA";F;2013/09/25
-"C09BB";"ACE inhibitors and calcium channel blockers";"C09BB";F;2013/09/25
-"C09CA";"Angiotensin II antagonists, plain";"C09CA";F;2013/09/25
-"C09DA";"Angiotensin II antagonists and diuretics";"C09DA";F;2013/09/25
-"C10AA";"HMG CoA reductase inhibitors";"C10AA";F;2013/09/25
-"C10AB";"Fibrates";"C10AB";F;2013/09/25
-"C10AC";"Bile acid sequestrants";"C10AC";F;2013/09/25
-"C10AD";"Nicotinic acid and derivatives";"C10AD";F;2013/09/25
-"C10AX";"Other cholesterol and triglyceride reducers";"C10AX";F;2013/09/25
+"C01AA";"Digitalis glycosides";"C01AA";F;2013/11/12
+"C01AB";"Scilla glycosides";"C01AB";F;2013/11/12
+"C01AC";"Strophantus glycosides";"C01AC";F;2013/11/12
+"C01AX";"Other cardiac glycosides";"C01AX";F;2013/11/12
+"C01BA";"Antiarrhythmics, class Ia";"C01BA";F;2013/11/12
+"C01BB";"Antiarrhythmics, class Ib";"C01BB";F;2013/11/12
+"C01BC";"Antiarrhythmics, class Ic";"C01BC";F;2013/11/12
+"C01BD";"Antiarrhythmics, class III";"C01BD";F;2013/11/12
+"C01BG";"Other class I antiarrhythmics";"C01BG";F;2013/11/12
+"C01CA";"Adrenergic and dopaminergic agents";"C01CA";F;2013/11/12
+"C01CE";"Phosphodiesterase inhibitors";"C01CE";F;2013/11/12
+"C01CX";"Other cardiac stimulants";"C01CX";F;2013/11/12
+"C01DA";"Organic nitrates";"C01DA";F;2013/11/12
+"C01DB";"Quinolone vasodilators";"C01DB";F;2013/11/12
+"C01DX";"Other vasodilators used in cardiac diseases";"C01DX";F;2013/11/12
+"C01EA";"Prostaglandins";"C01EA";F;2013/11/12
+"C01EB";"Other cardiac preparations";"C01EB";F;2013/11/12
+"C01EX";"Other cardiac combination products";"C01EX";F;2013/11/12
+"C02AA";"Rauwolfia alkaloids";"C02AA";F;2013/11/12
+"C02AB";"Methyldopa";"C02AB";F;2013/11/12
+"C02AC";"Imidazoline receptor agonists";"C02AC";F;2013/11/12
+"C02BA";"Sulfonium derivatives";"C02BA";F;2013/11/12
+"C02BB";"Secondary and tertiary amines";"C02BB";F;2013/11/12
+"C02BC";"Bisquaternary ammonium compounds";"C02BC";F;2013/11/12
+"C02CA";"Alpha-adrenoreceptor antagonists";"C02CA";F;2013/11/12
+"C02CC";"Guanidine derivatives";"C02CC";F;2013/11/12
+"C02DA";"Thiazide derivatives";"C02DA";F;2013/11/12
+"C02DB";"Hydrazinophthalazine derivatives";"C02DB";F;2013/11/12
+"C02DC";"Pyrimidine derivatives";"C02DC";F;2013/11/12
+"C02DD";"Nitroferricyanide derivatives";"C02DD";F;2013/11/12
+"C02DG";"Guanidine derivatives";"C02DG";F;2013/11/12
+"C02KA";"Alkaloids, excl. rauwolfia";"C02KA";F;2013/11/12
+"C02KB";"Tyrosine hydroxylase inhibitors";"C02KB";F;2013/11/12
+"C02KC";"MAO inhibitors";"C02KC";F;2013/11/12
+"C02KD";"Serotonin antagonists";"C02KD";F;2013/11/12
+"C02KX";"Other antihypertensives";"C02KX";F;2013/11/12
+"C02LA";"Rauwolfia alkaloids and diuretics in combination";"C02LA";F;2013/11/12
+"C02LB";"Methyldopa and diuretics in combination";"C02LB";F;2013/11/12
+"C02LC";"Imidazoline receptor agonists in combination with diuretics";"C02LC";F;2013/11/12
+"C02LE";"Alpha-adrenoreceptor antagonists and diuretics";"C02LE";F;2013/11/12
+"C02LF";"Guanidine derivatives and diuretics";"C02LF";F;2013/11/12
+"C02LG";"Hydrazinophthalazine derivatives and diuretics";"C02LG";F;2013/11/12
+"C02LK";"Alkaloids, excl. rauwolfia, in combination with diuretics";"C02LK";F;2013/11/12
+"C02LL";"MAO inhibitors and diuretics";"C02LL";F;2013/11/12
+"C02LN";"Serotonin antagonists and diuretics";"C02LN";F;2013/11/12
+"C02LX";"Other antihypertensives and diuretics";"C02LX";F;2013/11/12
+"C03AA";"Thiazides, plain";"C03AA";F;2013/11/12
+"C03AB";"Thiazides and potassium in combination";"C03AB";F;2013/11/12
+"C03AH";"Thiazides, combinations with psycholeptics and/or analgesics";"C03AH";F;2013/11/12
+"C03AX";"Thiazides, combinations with other drugs";"C03AX";F;2013/11/12
+"C03BA";"Sulfonamides, plain";"C03BA";F;2013/11/12
+"C03BB";"Sulfonamides and potassium in combination";"C03BB";F;2013/11/12
+"C03BC";"Mercurial diuretics";"C03BC";F;2013/11/12
+"C03BD";"Xanthine derivatives";"C03BD";F;2013/11/12
+"C03BK";"Sulfonamides, combinations with other drugs";"C03BK";F;2013/11/12
+"C03BX";"Other low-ceiling diuretics";"C03BX";F;2013/11/12
+"C03CA";"Sulfonamides, plain";"C03CA";F;2013/11/12
+"C03CB";"Sulfonamides and potassium in combination";"C03CB";F;2013/11/12
+"C03CC";"Aryloxyacetic acid derivatives";"C03CC";F;2013/11/12
+"C03CD";"Pyrazolone derivatives";"C03CD";F;2013/11/12
+"C03CX";"Other high-ceiling diuretics";"C03CX";F;2013/11/12
+"C03DA";"Aldosterone antagonists";"C03DA";F;2013/11/12
+"C03DB";"Other potassium-sparing agents";"C03DB";F;2013/11/12
+"C03EA";"Low-ceiling diuretics and potassium-sparing agents";"C03EA";F;2013/11/12
+"C03EB";"High-ceiling diuretics and potassium-sparing agents";"C03EB";F;2013/11/12
+"C04AA";"2-amino-1-phenylethanol derivatives";"C04AA";F;2013/11/12
+"C04AB";"Imidazoline derivatives";"C04AB";F;2013/11/12
+"C04AC";"Nicotinic acid and derivatives";"C04AC";F;2013/11/12
+"C04AD";"Purine derivatives";"C04AD";F;2013/11/12
+"C04AE";"Ergot alkaloids";"C04AE";F;2013/11/12
+"C04AF";"Enzymes";"C04AF";F;2013/11/12
+"C04AX";"Other peripheral vasodilators";"C04AX";F;2013/11/12
+"C05AA";"Products containing corticosteroids";"C05AA";F;2013/11/12
+"C05AB";"Products containing antibiotics";"C05AB";F;2013/11/12
+"C05AD";"Products containing local anesthetics";"C05AD";F;2013/11/12
+"C05AX";"Other antihemorrhoidals for topical use";"C05AX";F;2013/11/12
+"C05BA";"Heparins or heparinoids for topical use";"C05BA";F;2013/11/12
+"C05BB";"Sclerosing agents for local injection";"C05BB";F;2013/11/12
+"C05BX";"Other sclerosing agents";"C05BX";F;2013/11/12
+"C05CA";"Bioflavonoids";"C05CA";F;2013/11/12
+"C05CX";"Other capillary stabilizing agents";"C05CX";F;2013/11/12
+"C07AA";"Beta blocking agents, non-selective";"C07AA";F;2013/11/12
+"C07AB";"Beta blocking agents, selective";"C07AB";F;2013/11/12
+"C07AG";"Alpha and beta blocking agents";"C07AG";F;2013/11/12
+"C07BA";"Beta blocking agents, non-selective, and thiazides";"C07BA";F;2013/11/12
+"C07BB";"Beta blocking agents, selective, and thiazides";"C07BB";F;2013/11/12
+"C07BG";"Alpha and beta blocking agents and thiazides";"C07BG";F;2013/11/12
+"C07CA";"Beta blocking agents, non-selective, and other diuretics";"C07CA";F;2013/11/12
+"C07CB";"Beta blocking agents, selective, and other diuretics";"C07CB";F;2013/11/12
+"C07CG";"Alpha and beta blocking agents and other diuretics";"C07CG";F;2013/11/12
+"C07DA";"Beta blocking agents, non-selective, thiazides and other diuretics";"C07DA";F;2013/11/12
+"C07DB";"Beta blocking agents, selective, thiazides and other diuretics";"C07DB";F;2013/11/12
+"C07EA";"Beta blocking agents, non-selective, and vasodilators";"C07EA";F;2013/11/12
+"C07EB";"Beta blocking agents, selective, and vasodilators";"C07EB";F;2013/11/12
+"C07FA";"Beta blocking agents, non-selective, and other antihypertensives";"C07FA";F;2013/11/12
+"C07FB";"Beta blocking agents, selective, and other antihypertensives";"C07FB";F;2013/11/12
+"C08CA";"Dihydropyridine derivatives";"C08CA";F;2013/11/12
+"C08CX";"Other selective calcium channel blockers with mainly vascular effects";"C08CX";F;2013/11/12
+"C08DA";"Phenylalkylamine derivatives";"C08DA";F;2013/11/12
+"C08DB";"Benzothiazepine derivatives";"C08DB";F;2013/11/12
+"C08EA";"Phenylalkylamine derivatives";"C08EA";F;2013/11/12
+"C08EX";"Other non-selective calcium channel blockers";"C08EX";F;2013/11/12
+"C08GA";"Calcium channel blockers and diuretics";"C08GA";F;2013/11/12
+"C09AA";"ACE inhibitors, plain";"C09AA";F;2013/11/12
+"C09BA";"ACE inhibitors and diuretics";"C09BA";F;2013/11/12
+"C09BB";"ACE inhibitors and calcium channel blockers";"C09BB";F;2013/11/12
+"C09CA";"Angiotensin II antagonists, plain";"C09CA";F;2013/11/12
+"C09DA";"Angiotensin II antagonists and diuretics";"C09DA";F;2013/11/12
+"C10AA";"HMG CoA reductase inhibitors";"C10AA";F;2013/11/12
+"C10AB";"Fibrates";"C10AB";F;2013/11/12
+"C10AC";"Bile acid sequestrants";"C10AC";F;2013/11/12
+"C10AD";"Nicotinic acid and derivatives";"C10AD";F;2013/11/12
+"C10AX";"Other cholesterol and triglyceride reducers";"C10AX";F;2013/11/12
 "CAA00";"Punktion av orbitaabscess";"CASA00";F;1997/01/01
 "CAA10";"Explorativ främre orbitotomi";"CASA10";F;1997/01/01
 "CAA20";"Explorativ lateral orbitotomi";"CASA20";F;1997/01/01
@@ -1578,6 +1581,8 @@
 "CBB20";"Resektion av hud och fettprolaps";"CBSB20";F;1997/01/01
 "CBB30";"Exstirpation av tumör eller lokal förändring i ögonlock";"CBSB30";F;1997/01/01
 "CBB32";"Destruktion av lokal förändring i ögonlock";"CBSB32";F;2010/01/01
+"CBB35";"Deleted 2009/12/31 - Kryoterapi av tumör eller lokal förändring i ögonlock";"CBSB35";F;1997/01/01
+"CBB40";"Deleted 2009/12/31 - Elektrokoagulation av tumör eller lokal förändring i ögonlock";"CBSB37";F;1997/01/01
 "CBB50";"Exstirpation av tumör eller lokal förändring i ögonlock, rekonstruktion med transplantat eller lambå";"CBSB50";F;1997/01/01
 "CBB99";"Annat avlägsnande av tumör eller lokal förändring i ögonlock";"CBSB99";F;1997/01/01
 "CBC00";"Sutur av ögonlock";"CBSC00";F;1997/01/01
@@ -1587,6 +1592,18 @@
 "CBD10";"Rekonstruktion av ögonlock med transplantat eller lambå";"CBSD10";F;1997/01/01
 "CBD11";"Öppning av lambå efter ögonlocksrekonstruktion";"CBSD11";F;2010/01/01
 "CBD99";"Annan rekonstruktion av ögonlock";"CBSD99";F;1997/01/01
+"CBE00";"Deleted 2009/12/31 - Sutur för entropium";"CBSN00";F;1997/01/01
+"CBE10";"Deleted 2009/12/31 - Flyttning och sträckning av m. orbicularis oculi vid entropium";"CBSN10";F;1997/01/01
+"CBE20";"Deleted 2009/12/31 - Sträckning av ögonlocksretraktorer för entropium";"CBSN20";F;1997/01/01
+"CBE30";"Deleted 2009/12/31 - Horisontell sträckning för entropium";"CBSN30";F;1997/01/01
+"CBE40";"Deleted 2009/12/31 - Kombinerad korrektion av entropium";"CBSN60";F;1997/01/01
+"CBE99";"Deleted 2009/12/31 - Annan operation för entropium";"CBSN99";F;1997/01/01
+"CBF00";"Deleted 2009/12/31 - Elektrokoagulation för ektropium";"CBSN40";F;1997/01/01
+"CBF10";"Deleted 2009/12/31 - Stramning av mediala eller laterala ligament";"CBSN30";F;1997/01/01
+"CBF20";"Deleted 2009/12/31 - Excision av tarsus för ektropium";"CBSN30";F;1997/01/01
+"CBF30";"Deleted 2009/12/31 - Excision av tarsus och hud för ektropium";"CBSN50";F;1997/01/01
+"CBF40";"Deleted 2009/12/31 - Rekonstruktion för ärrektropium";"CBSN60";F;1997/01/01
+"CBF99";"Deleted 2009/12/31 - Annan operation för ektropium";"CBSN99";F;1997/01/01
 "CBG00";"Elektrolysepilation av cilier";"CBSG00";F;1997/01/01
 "CBG10";"Kryobehandling för trikiasis";"CBSG10";F;1997/01/01
 "CBG20";"Rekonstruktion av ögonlockskanten vid trikiasis";"CBSG20";F;1997/01/01
@@ -1594,7 +1611,9 @@
 "CBH00";"Kantotomi";"CBSH00";F;1997/01/01
 "CBH05";"Kantopexi";"CBSH05";F;1997/01/01
 "CBH10";"Rekonstruktion av kantus, eventuellt med transplantation";"CBSH10";F;1997/01/01
+"CBH20";"Deleted 2009/12/31 - Central tarsorafi";"CBSH25";F;1997/01/01
 "CBH25";"Tarsorafi";"CBSH25";F;2010/01/01
+"CBH30";"Deleted 2009/12/31 - Lateral eller medial tarsorafi";"CBSH25";F;1997/01/01
 "CBH40";"Uppklippning av tarsorafi";"CBSH40";F;1997/01/01
 "CBH50";"Rekonstruktiv operation för epikantus";"CBSH50";F;1997/01/01
 "CBH99";"Annan operation på kantus eller ögonlockskant";"CBSH99";F;1997/01/01
@@ -1679,9 +1698,11 @@
 "CFB00";"Sutur av sår i bindehinna";"CFSB00";F;1997/01/01
 "CFB10";"Avlägsnande av främmande kropp i bindehinna";"CFSB10";F;1997/01/01
 "CFC00";"Exstirpation av tumör i bindehinna";"CFSC00";F;1997/01/01
+"CFC10";"Deleted 2009/12/31 - Laserbehandling av förändringar i bindehinna";"CFSC15";F;1997/01/01
 "CFC15";"Destruktion av förändring i bindehinna";"CFSC15";F;2010/01/01
-"CFC16";"Deleted 2010/09/29-Destruktion av förändring i hornhinna";"CFSC16";F;2010/01/01
-"CFC26";"Deleted 2010/09/29-Destruktion av förändring i sklera";"CFSC26";F;2010/01/01
+"CFC16";"Deleted 2010/09/29 - Destruktion av förändring i hornhinna";"CFSC16";F;2010/01/01
+"CFC20";"Deleted 2009/12/31 - Kryoterapi av tumör i bindehinna";"CFSC15";F;1997/01/01
+"CFC26";"Deleted 2010/09/29 - Destruktion av förändring i sklera";"CFSC26";F;2010/01/01
 "CFC30";"Exstirpation av trakomfolliklar";"CFSC30";F;1997/01/01
 "CFD00";"Rekonstruktion av bindehinnan utan transplantat";"CFSD00";F;1997/01/01
 "CFD10";"Rekonstruktion av bindehinnan med transplantat";"CFSD10";F;1997/01/01
@@ -1702,8 +1723,13 @@
 "CGD99";"Annan operation för refraktionsanomali";"CGSD99";F;1997/01/01
 "CGE05";"Destruktion av förändring i hornhinna";"CFSC16";F;2011/01/01
 "CGE10";"Excision av hornhinna";"CGSE10";F;1997/01/01
+"CGE15";"Deleted 2009/12/31 - Laserbehandling av hornhinna";"CGSE10";F;1997/01/01
+"CGE20";"Deleted 2009/12/31 - Termokauterisering av vävnadsförändring i hornhinna";"CGSE10";F;1997/01/01
+"CGE25";"Deleted 2009/12/31 - Kryoterapi av hornhinna";"CGSE10";F;1997/01/01
 "CGE30";"Excision av sklera";"CGSE30";F;1997/01/01
 "CGE32";"Destruktion av förändring i sklera";"CFSC26";F;2011/01/01
+"CGE35";"Deleted 2009/12/31 - Laserbehandling av sklera";"CGSE30";F;1997/01/01
+"CGE40";"Deleted 2009/12/31 - Termokauterisering av vävnadsförändring i sklera";"CGSE30";F;1997/01/01
 "CGE45";"Täckning av hornhinna med limbal stamcellstransplantat";"CGSE45";F;2010/01/01
 "CGE50";"Excision av pterygium";"CGSE50";F;1997/01/01
 "CGE55";"Excision av pterygium med konjunktival transplantation";"CGSE55";F;1997/01/01
@@ -1878,81 +1904,81 @@
 "CWE00";"Reoperation för djup blödning";"CWSE00";F;1997/01/01
 "CWF00";"Reoperation för anastomos- eller suturinsufficiens";"CWSF00";F;1997/01/01
 "CWW99";"Annan reoperation i ögonregion";"CWSW99";F;1997/01/01
-"D01AA";"Antibiotics";"D01AA";F;2013/09/25
-"D01AC";"Imidazole and triazole derivatives";"D01AC";F;2013/09/25
-"D01AE";"Other antifungals for topical use";"D01AE";F;2013/09/25
-"D01BA";"Antifungals for systemic use";"D01BA";F;2013/09/25
-"D02AA";"Silicone products";"D02AA";F;2013/09/25
-"D02AB";"Zinc products";"D02AB";F;2013/09/25
-"D02AC";"Soft paraffin and fat products";"D02AC";F;2013/09/25
-"D02AD";"Liquid plasters";"D02AD";F;2013/09/25
-"D02AE";"Carbamide products";"D02AE";F;2013/09/25
-"D02AF";"Salicylic acid preparations";"D02AF";F;2013/09/25
-"D02AX";"Other emollients and protectives";"D02AX";F;2013/09/25
-"D02BA";"Protectives against UV-radiation for topical use";"D02BA";F;2013/09/25
-"D02BB";"Protectives against UV-radiation for systemic use";"D02BB";F;2013/09/25
-"D03AA";"Cod-liver oil ointments";"D03AA";F;2013/09/25
-"D03AX";"Other cicatrizants";"D03AX";F;2013/09/25
-"D03BA";"Proteolytic enzymes";"D03BA";F;2013/09/25
-"D04AA";"Antihistamines for topical use";"D04AA";F;2013/09/25
-"D04AB";"Anesthetics for topical use";"D04AB";F;2013/09/25
-"D04AX";"Other antipruritics";"D04AX";F;2013/09/25
-"D05AA";"Tars";"D05AA";F;2013/09/25
-"D05AC";"Antracen derivatives";"D05AC";F;2013/09/25
-"D05AD";"Psoralens for topical use";"D05AD";F;2013/09/25
-"D05AX";"Other antipsoriatics for topical use";"D05AX";F;2013/09/25
-"D05BA";"Psoralens for systemic use";"D05BA";F;2013/09/25
-"D05BB";"Retinoids for treatment of psoriasis";"D05BB";F;2013/09/25
-"D05BX";"Other antipsoriatics for systemic use";"D05BX";F;2013/09/25
-"D06AA";"Tetracycline and derivatives";"D06AA";F;2013/09/25
-"D06AX";"Other antibiotics for topical use";"D06AX";F;2013/09/25
-"D06BA";"Sulfonamides";"D06BA";F;2013/09/25
-"D06BB";"Antivirals";"D06BB";F;2013/09/25
-"D06BX";"Other chemotherapeutics";"D06BX";F;2013/09/25
-"D07AA";"Corticosteroids, weak (group I)";"D07AA";F;2013/09/25
-"D07AB";"Corticosteroids, moderately potent (group II)";"D07AB";F;2013/09/25
-"D07AC";"Corticosteroids, potent (group III)";"D07AC";F;2013/09/25
-"D07AD";"Corticosteroids, very potent (group IV)";"D07AD";F;2013/09/25
-"D07BA";"Corticosteroids, weak, combinations with antiseptics";"D07BA";F;2013/09/25
-"D07BB";"Corticosteroids, moderately potent, combinations with antiseptics";"D07BB";F;2013/09/25
-"D07BC";"Corticosteroids, potent, combinations with antiseptics";"D07BC";F;2013/09/25
-"D07BD";"Corticosteroids, very potent, combinations with antiseptics";"D07BD";F;2013/09/25
-"D07CA";"Corticosteroids, weak, combinations with antibiotics";"D07CA";F;2013/09/25
-"D07CB";"Corticosteroids, moderately potent, combinations with antibiotics";"D07CB";F;2013/09/25
-"D07CC";"Corticosteroids, potent, combinations with antibiotics";"D07CC";F;2013/09/25
-"D07CD";"Corticosteroids, very potent, combinations with antibiotics";"D07CD";F;2013/09/25
-"D07XA";"Corticosteroids, weak, other combinations";"D07XA";F;2013/09/25
-"D07XB";"Corticosteroids, moderately potent, other combinations";"D07XB";F;2013/09/25
-"D07XC";"Corticosteroids, potent, other combinations";"D07XC";F;2013/09/25
-"D07XD";"Corticosteroids, very potent, other combinations";"D07XD";F;2013/09/25
-"D08AA";"Acridine derivatives";"D08AA";F;2013/09/25
-"D08AB";"Aluminium agents";"D08AB";F;2013/09/25
-"D08AC";"Biguanides and amidines";"D08AC";F;2013/09/25
-"D08AD";"Boric acid products";"D08AD";F;2013/09/25
-"D08AE";"Phenol and derivatives";"D08AE";F;2013/09/25
-"D08AF";"Nitrofuran derivatives";"D08AF";F;2013/09/25
-"D08AG";"Iodine products";"D08AG";F;2013/09/25
-"D08AH";"Quinoline derivatives";"D08AH";F;2013/09/25
-"D08AJ";"Quaternary ammonium compounds";"D08AJ";F;2013/09/25
-"D08AK";"Mercurial products";"D08AK";F;2013/09/25
-"D08AL";"Silver compounds";"D08AL";F;2013/09/25
-"D08AX";"Other antiseptics and disinfectants";"D08AX";F;2013/09/25
-"D09AA";"Ointment dressings with antiinfectives";"D09AA";F;2013/09/25
-"D09AB";"Zinc bandages";"D09AB";F;2013/09/25
-"D09AX";"Soft paraffin dressings";"D09AX";F;2013/09/25
-"D10AA";"Corticosteroids, combinations for treatment of acne";"D10AA";F;2013/09/25
-"D10AB";"Preparations containing sulfur";"D10AB";F;2013/09/25
-"D10AD";"Retinoids for topical use in acne";"D10AD";F;2013/09/25
-"D10AE";"Peroxides";"D10AE";F;2013/09/25
-"D10AF";"Antiinfectives for treatment of acne";"D10AF";F;2013/09/25
-"D10AX";"Other anti-acne preparations for topical use";"D10AX";F;2013/09/25
-"D10BA";"Retinoids for treatment of acne";"D10BA";F;2013/09/25
-"D10BX";"Other anti-acne preparations for systemic use";"D10BX";F;2013/09/25
-"D11AA";"Antihidrotics";"D11AA";F;2013/09/25
-"D11AC";"Medicated shampoos";"D11AC";F;2013/09/25
-"D11AE";"Androgens for topical use";"D11AE";F;2013/09/25
-"D11AF";"Wart and anti-corn preparations";"D11AF";F;2013/09/25
-"D11AX";"Other dermatologicals";"D11AX";F;2013/09/25
+"D01AA";"Antibiotics";"D01AA";F;2013/11/12
+"D01AC";"Imidazole and triazole derivatives";"D01AC";F;2013/11/12
+"D01AE";"Other antifungals for topical use";"D01AE";F;2013/11/12
+"D01BA";"Antifungals for systemic use";"D01BA";F;2013/11/12
+"D02AA";"Silicone products";"D02AA";F;2013/11/12
+"D02AB";"Zinc products";"D02AB";F;2013/11/12
+"D02AC";"Soft paraffin and fat products";"D02AC";F;2013/11/12
+"D02AD";"Liquid plasters";"D02AD";F;2013/11/12
+"D02AE";"Carbamide products";"D02AE";F;2013/11/12
+"D02AF";"Salicylic acid preparations";"D02AF";F;2013/11/12
+"D02AX";"Other emollients and protectives";"D02AX";F;2013/11/12
+"D02BA";"Protectives against UV-radiation for topical use";"D02BA";F;2013/11/12
+"D02BB";"Protectives against UV-radiation for systemic use";"D02BB";F;2013/11/12
+"D03AA";"Cod-liver oil ointments";"D03AA";F;2013/11/12
+"D03AX";"Other cicatrizants";"D03AX";F;2013/11/12
+"D03BA";"Proteolytic enzymes";"D03BA";F;2013/11/12
+"D04AA";"Antihistamines for topical use";"D04AA";F;2013/11/12
+"D04AB";"Anesthetics for topical use";"D04AB";F;2013/11/12
+"D04AX";"Other antipruritics";"D04AX";F;2013/11/12
+"D05AA";"Tars";"D05AA";F;2013/11/12
+"D05AC";"Antracen derivatives";"D05AC";F;2013/11/12
+"D05AD";"Psoralens for topical use";"D05AD";F;2013/11/12
+"D05AX";"Other antipsoriatics for topical use";"D05AX";F;2013/11/12
+"D05BA";"Psoralens for systemic use";"D05BA";F;2013/11/12
+"D05BB";"Retinoids for treatment of psoriasis";"D05BB";F;2013/11/12
+"D05BX";"Other antipsoriatics for systemic use";"D05BX";F;2013/11/12
+"D06AA";"Tetracycline and derivatives";"D06AA";F;2013/11/12
+"D06AX";"Other antibiotics for topical use";"D06AX";F;2013/11/12
+"D06BA";"Sulfonamides";"D06BA";F;2013/11/12
+"D06BB";"Antivirals";"D06BB";F;2013/11/12
+"D06BX";"Other chemotherapeutics";"D06BX";F;2013/11/12
+"D07AA";"Corticosteroids, weak (group I)";"D07AA";F;2013/11/12
+"D07AB";"Corticosteroids, moderately potent (group II)";"D07AB";F;2013/11/12
+"D07AC";"Corticosteroids, potent (group III)";"D07AC";F;2013/11/12
+"D07AD";"Corticosteroids, very potent (group IV)";"D07AD";F;2013/11/12
+"D07BA";"Corticosteroids, weak, combinations with antiseptics";"D07BA";F;2013/11/12
+"D07BB";"Corticosteroids, moderately potent, combinations with antiseptics";"D07BB";F;2013/11/12
+"D07BC";"Corticosteroids, potent, combinations with antiseptics";"D07BC";F;2013/11/12
+"D07BD";"Corticosteroids, very potent, combinations with antiseptics";"D07BD";F;2013/11/12
+"D07CA";"Corticosteroids, weak, combinations with antibiotics";"D07CA";F;2013/11/12
+"D07CB";"Corticosteroids, moderately potent, combinations with antibiotics";"D07CB";F;2013/11/12
+"D07CC";"Corticosteroids, potent, combinations with antibiotics";"D07CC";F;2013/11/12
+"D07CD";"Corticosteroids, very potent, combinations with antibiotics";"D07CD";F;2013/11/12
+"D07XA";"Corticosteroids, weak, other combinations";"D07XA";F;2013/11/12
+"D07XB";"Corticosteroids, moderately potent, other combinations";"D07XB";F;2013/11/12
+"D07XC";"Corticosteroids, potent, other combinations";"D07XC";F;2013/11/12
+"D07XD";"Corticosteroids, very potent, other combinations";"D07XD";F;2013/11/12
+"D08AA";"Acridine derivatives";"D08AA";F;2013/11/12
+"D08AB";"Aluminium agents";"D08AB";F;2013/11/12
+"D08AC";"Biguanides and amidines";"D08AC";F;2013/11/12
+"D08AD";"Boric acid products";"D08AD";F;2013/11/12
+"D08AE";"Phenol and derivatives";"D08AE";F;2013/11/12
+"D08AF";"Nitrofuran derivatives";"D08AF";F;2013/11/12
+"D08AG";"Iodine products";"D08AG";F;2013/11/12
+"D08AH";"Quinoline derivatives";"D08AH";F;2013/11/12
+"D08AJ";"Quaternary ammonium compounds";"D08AJ";F;2013/11/12
+"D08AK";"Mercurial products";"D08AK";F;2013/11/12
+"D08AL";"Silver compounds";"D08AL";F;2013/11/12
+"D08AX";"Other antiseptics and disinfectants";"D08AX";F;2013/11/12
+"D09AA";"Ointment dressings with antiinfectives";"D09AA";F;2013/11/12
+"D09AB";"Zinc bandages";"D09AB";F;2013/11/12
+"D09AX";"Soft paraffin dressings";"D09AX";F;2013/11/12
+"D10AA";"Corticosteroids, combinations for treatment of acne";"D10AA";F;2013/11/12
+"D10AB";"Preparations containing sulfur";"D10AB";F;2013/11/12
+"D10AD";"Retinoids for topical use in acne";"D10AD";F;2013/11/12
+"D10AE";"Peroxides";"D10AE";F;2013/11/12
+"D10AF";"Antiinfectives for treatment of acne";"D10AF";F;2013/11/12
+"D10AX";"Other anti-acne preparations for topical use";"D10AX";F;2013/11/12
+"D10BA";"Retinoids for treatment of acne";"D10BA";F;2013/11/12
+"D10BX";"Other anti-acne preparations for systemic use";"D10BX";F;2013/11/12
+"D11AA";"Antihidrotics";"D11AA";F;2013/11/12
+"D11AC";"Medicated shampoos";"D11AC";F;2013/11/12
+"D11AE";"Androgens for topical use";"D11AE";F;2013/11/12
+"D11AF";"Wart and anti-corn preparations";"D11AF";F;2013/11/12
+"D11AX";"Other dermatologicals";"D11AX";F;2013/11/12
 "DA001";"Akupunktur";"AXXA00";F;2006/01/01
 "DA002";"Inläggning av epiduralkateter";"ABX011";F;2006/01/01
 "DA003";"Avlägsnande av spinal injektionsport";"ABX028";F;2006/01/01
@@ -2020,6 +2046,7 @@
 "DD006";"Hörsel- och talträning vid kokleaimplantat";"DFXA02";F;2006/01/01
 "DD007";"Hörselrehabilitering";"R4R136";F;2006/01/01
 "DD008";"Manipulationsbehandling vid yrsel";"DFXX00";F;2006/01/01
+"DD009";"Deleted 2009/12/31 - Perkutan trakeotomi";"GBSA00";F;2006/01/01
 "DD010";"Postoperativ elektrodkontroll efter kokleaimplantat";"DFXA02";F;2006/01/01
 "DD011";"Rengöring av radikalopererat öra";"DAXC00";F;2006/01/01
 "DD012";"Röstbehandling";"R4R130";F;2006/01/01
@@ -2427,7 +2454,7 @@
 "DU026";"Familjebehandling med miljöterapeutiska inslag";"R4R140";F;2009/01/01
 "DU027";"Samspelsbehandling förälder och barn";"R4R140";F;2009/01/01
 "DU028";"Föräldraträning utifrån manualiserad metod";"R4R162";F;2009/01/01
-"DU029";"Deleted 2012/12/31-Gruppbehandling utifrån manualiserad metod";"ZZZA10";F;2009/01/01
+"DU029";"Deleted 2012/12/31 - Gruppbehandling utifrån manualiserad metod";"ZZZA10";F;2009/01/01
 "DU030";"Marte Meo";"R4R162";F;2009/01/01
 "DU031";"Bildterapi";"R4R140";F;2009/01/01
 "DU032";"Mindfulness";"R4R142";F;2012/01/01
@@ -2495,7 +2522,7 @@
 "DV056";"Nutritionsbehandling, specialkost";"WMFX00";F;2006/01/01
 "DV057";"Omhändertagande av patient både före och efter undersökning eller behandling som utförs på annan klinik eller inom annan specialitet";"ZYZX82";F;2006/01/01
 "DV058";"Omprogrammering och utprovning av läkemedelspump";"WHX302";F;2006/01/01
-"DV059";"Deleted 2010/09/29-Ospecificerad behandling";"WZZ998";F;2006/01/01
+"DV059";"Deleted 2010/09/29 - Ospecificerad behandling";"WZZ998";F;2006/01/01
 "DV061";"Resemedicinsk rådgivning";"ZYZX90";F;2006/01/01
 "DV063";"Rådgivande samtal";"ZYZX90";F;2006/01/01
 "DV064";"Simulering inför strålbehandling";"ZXOX30";F;2006/01/01
@@ -3323,60 +3350,60 @@
 "FXM00";"Avlägsnande av extra-, para- eller intrakorporeal VAD";"FZSM00";F;1997/01/01
 "FXN00";"Implantation av konstgjort hjärta (TAH)";"FZSN00";F;1997/01/01
 "FXP00";"Hemofiltration eller hemodialys under kardiopulmonal bypass";"FZSP00";F;1997/01/01
-"G01AA";"Antibiotics";"G01AA";F;2013/09/25
-"G01AB";"Arsenic compounds";"G01AB";F;2013/09/25
-"G01AC";"Quinoline derivatives";"G01AC";F;2013/09/25
-"G01AD";"Organic acids";"G01AD";F;2013/09/25
-"G01AE";"Sulfonamides";"G01AE";F;2013/09/25
-"G01AF";"Imidazole derivatives";"G01AF";F;2013/09/25
-"G01AG";"Triazole derivatives";"G01AG";F;2013/09/25
-"G01AX";"Other antiinfectives and antiseptics";"G01AX";F;2013/09/25
-"G01BA";"Antibiotics and corticosteroids";"G01BA";F;2013/09/25
-"G01BC";"Quinoline derivatives and corticosteroids";"G01BC";F;2013/09/25
-"G01BD";"Antiseptics and corticosteroids";"G01BD";F;2013/09/25
-"G01BE";"Sulfonamides and corticosteroids";"G01BE";F;2013/09/25
-"G01BF";"Imidazole derivatives and corticosteroids";"G01BF";F;2013/09/25
-"G02AB";"Ergot alkaloids";"G02AB";F;2013/09/25
-"G02AC";"Ergot alkaloids and oxytocin incl. analogues, in combination";"G02AC";F;2013/09/25
-"G02AD";"Prostaglandins";"G02AD";F;2013/09/25
-"G02AX";"Other oxytocics";"G02AX";F;2013/09/25
-"G02BA";"Intrauterine contraceptives";"G02BA";F;2013/09/25
-"G02BB";"Intravaginal contraceptives";"G02BB";F;2013/09/25
-"G02CA";"Sympathomimetics, labour repressants";"G02CA";F;2013/09/25
-"G02CB";"Prolactine inhibitors";"G02CB";F;2013/09/25
-"G02CC";"Antiinflammatory products for vaginal administration";"G02CC";F;2013/09/25
-"G02CX";"Other gynecologicals";"G02CX";F;2013/09/25
-"G03AA";"Progestogens and estrogens, fixed combinations";"G03AA";F;2013/09/25
-"G03AB";"Progestogens and estrogens, sequential preparations";"G03AB";F;2013/09/25
-"G03AC";"Progestogens";"G03AC";F;2013/09/25
-"G03BA";"3-oxoandrosten (4) derivatives";"G03BA";F;2013/09/25
-"G03BB";"5-androstanon (3) derivatives";"G03BB";F;2013/09/25
-"G03CA";"Natural and semisynthetic estrogens, plain";"G03CA";F;2013/09/25
-"G03CB";"Synthetic estrogens, plain";"G03CB";F;2013/09/25
-"G03CC";"Estrogens, combinations with other drugs";"G03CC";F;2013/09/25
-"G03DA";"Pregnen (4) derivatives";"G03DA";F;2013/09/25
-"G03DB";"Pregnadien derivatives";"G03DB";F;2013/09/25
-"G03DC";"Estren derivatives";"G03DC";F;2013/09/25
-"G03EA";"Androgens and estrogens";"G03EA";F;2013/09/25
-"G03EB";"Androgen, progestogen and estrogen in combination";"G03EB";F;2013/09/25
-"G03EK";"Androgens and female sex hormones in combination with other drugs";"G03EK";F;2013/09/25
-"G03FA";"Progestogens and estrogens, fixed combinations";"G03FA";F;2013/09/25
-"G03FB";"Progestogens and estrogens, sequential preparations";"G03FB";F;2013/09/25
-"G03GA";"Gonadotropins";"G03GA";F;2013/09/25
-"G03GB";"Ovulation stimulants, synthetic";"G03GB";F;2013/09/25
-"G03HA";"Antiandrogens, plain";"G03HA";F;2013/09/25
-"G03HB";"Antiandrogens and estrogens";"G03HB";F;2013/09/25
-"G03XA";"Antigonadotropins and similar agents";"G03XA";F;2013/09/25
-"G03XB";"Antiprogestogens";"G03XB";F;2013/09/25
-"G03XC";"Selective estrogen receptor modulators";"G03XC";F;2013/09/25
-"G04BA";"Acidifiers";"G04BA";F;2013/09/25
-"G04BC";"Urinary concrement solvents";"G04BC";F;2013/09/25
-"G04BD";"Urinary antispasmodics";"G04BD";F;2013/09/25
-"G04BE";"Drugs used in erectile dysfunction";"G04BE";F;2013/09/25
-"G04BX";"Other urologicals";"G04BX";F;2013/09/25
-"G04CA";"Alpha-adrenoreceptor antagonists";"G04CA";F;2013/09/25
-"G04CB";"Testosterone-5-alpha reductase inhibitors";"G04CB";F;2013/09/25
-"G04CX";"Other drugs used in benign prostatic hypertrophy";"G04CX";F;2013/09/25
+"G01AA";"Antibiotics";"G01AA";F;2013/11/12
+"G01AB";"Arsenic compounds";"G01AB";F;2013/11/12
+"G01AC";"Quinoline derivatives";"G01AC";F;2013/11/12
+"G01AD";"Organic acids";"G01AD";F;2013/11/12
+"G01AE";"Sulfonamides";"G01AE";F;2013/11/12
+"G01AF";"Imidazole derivatives";"G01AF";F;2013/11/12
+"G01AG";"Triazole derivatives";"G01AG";F;2013/11/12
+"G01AX";"Other antiinfectives and antiseptics";"G01AX";F;2013/11/12
+"G01BA";"Antibiotics and corticosteroids";"G01BA";F;2013/11/12
+"G01BC";"Quinoline derivatives and corticosteroids";"G01BC";F;2013/11/12
+"G01BD";"Antiseptics and corticosteroids";"G01BD";F;2013/11/12
+"G01BE";"Sulfonamides and corticosteroids";"G01BE";F;2013/11/12
+"G01BF";"Imidazole derivatives and corticosteroids";"G01BF";F;2013/11/12
+"G02AB";"Ergot alkaloids";"G02AB";F;2013/11/12
+"G02AC";"Ergot alkaloids and oxytocin incl. analogues, in combination";"G02AC";F;2013/11/12
+"G02AD";"Prostaglandins";"G02AD";F;2013/11/12
+"G02AX";"Other oxytocics";"G02AX";F;2013/11/12
+"G02BA";"Intrauterine contraceptives";"G02BA";F;2013/11/12
+"G02BB";"Intravaginal contraceptives";"G02BB";F;2013/11/12
+"G02CA";"Sympathomimetics, labour repressants";"G02CA";F;2013/11/12
+"G02CB";"Prolactine inhibitors";"G02CB";F;2013/11/12
+"G02CC";"Antiinflammatory products for vaginal administration";"G02CC";F;2013/11/12
+"G02CX";"Other gynecologicals";"G02CX";F;2013/11/12
+"G03AA";"Progestogens and estrogens, fixed combinations";"G03AA";F;2013/11/12
+"G03AB";"Progestogens and estrogens, sequential preparations";"G03AB";F;2013/11/12
+"G03AC";"Progestogens";"G03AC";F;2013/11/12
+"G03BA";"3-oxoandrosten (4) derivatives";"G03BA";F;2013/11/12
+"G03BB";"5-androstanon (3) derivatives";"G03BB";F;2013/11/12
+"G03CA";"Natural and semisynthetic estrogens, plain";"G03CA";F;2013/11/12
+"G03CB";"Synthetic estrogens, plain";"G03CB";F;2013/11/12
+"G03CC";"Estrogens, combinations with other drugs";"G03CC";F;2013/11/12
+"G03DA";"Pregnen (4) derivatives";"G03DA";F;2013/11/12
+"G03DB";"Pregnadien derivatives";"G03DB";F;2013/11/12
+"G03DC";"Estren derivatives";"G03DC";F;2013/11/12
+"G03EA";"Androgens and estrogens";"G03EA";F;2013/11/12
+"G03EB";"Androgen, progestogen and estrogen in combination";"G03EB";F;2013/11/12
+"G03EK";"Androgens and female sex hormones in combination with other drugs";"G03EK";F;2013/11/12
+"G03FA";"Progestogens and estrogens, fixed combinations";"G03FA";F;2013/11/12
+"G03FB";"Progestogens and estrogens, sequential preparations";"G03FB";F;2013/11/12
+"G03GA";"Gonadotropins";"G03GA";F;2013/11/12
+"G03GB";"Ovulation stimulants, synthetic";"G03GB";F;2013/11/12
+"G03HA";"Antiandrogens, plain";"G03HA";F;2013/11/12
+"G03HB";"Antiandrogens and estrogens";"G03HB";F;2013/11/12
+"G03XA";"Antigonadotropins and similar agents";"G03XA";F;2013/11/12
+"G03XB";"Antiprogestogens";"G03XB";F;2013/11/12
+"G03XC";"Selective estrogen receptor modulators";"G03XC";F;2013/11/12
+"G04BA";"Acidifiers";"G04BA";F;2013/11/12
+"G04BC";"Urinary concrement solvents";"G04BC";F;2013/11/12
+"G04BD";"Urinary antispasmodics";"G04BD";F;2013/11/12
+"G04BE";"Drugs used in erectile dysfunction";"G04BE";F;2013/11/12
+"G04BX";"Other urologicals";"G04BX";F;2013/11/12
+"G04CA";"Alpha-adrenoreceptor antagonists";"G04CA";F;2013/11/12
+"G04CB";"Testosterone-5-alpha reductase inhibitors";"G04CB";F;2013/11/12
+"G04CX";"Other drugs used in benign prostatic hypertrophy";"G04CX";F;2013/11/12
 "GA001";"Analpluggsutprovning";"KXXX10";F;2006/01/01
 "GA002";"Extra tillsyn (extravak)";"ZZZB00";F;2006/01/01
 "GA003";"Inkoppling kokleaimplantat";"DFXA00";F;2006/01/01
@@ -3620,28 +3647,28 @@
 "GWW96";"Annan reoperation på bröstvägg, pleura, mediastinum, diafragma, trakea, bronker eller lungor";"GWSW96";F;1997/01/01
 "GWW97";"Annan perkutan endoskopisk reoperation på bröstvägg, pleura, mediastinum, diafragma, trakea, bronker eller lungor";"GWSW97";F;1997/01/01
 "GWW98";"Annan transluminal endoskopisk reoperation på bröstvägg, pleura, mediastinum, diafragma, trakea, bronker eller lungor";"GWSW98";F;1997/01/01
-"H01AA";"ACTH";"H01AA";F;2013/09/25
-"H01AB";"Thyrotropin";"H01AB";F;2013/09/25
-"H01AC";"Somatropin and somatropin agonists";"H01AC";F;2013/09/25
-"H01AX";"Other anterior pituitary lobe hormones and analogues";"H01AX";F;2013/09/25
-"H01BA";"Vasopressin and analogues";"H01BA";F;2013/09/25
-"H01BB";"Oxytocin and analogues";"H01BB";F;2013/09/25
-"H01CA";"Gonadotropin-releasing hormones";"H01CA";F;2013/09/25
-"H01CB";"Antigrowth hormone";"H01CB";F;2013/09/25
-"H01CC";"Anti-gonadotropin-releasing hormones";"H01CC";F;2013/09/25
-"H02AA";"Mineralocorticoids";"H02AA";F;2013/09/25
-"H02AB";"Glucocorticoids";"H02AB";F;2013/09/25
-"H02BX";"Corticosteroids for systemic use, combinations";"H02BX";F;2013/09/25
-"H02CA";"Anticorticosteroids";"H02CA";F;2013/09/25
-"H03AA";"Thyroid hormones";"H03AA";F;2013/09/25
-"H03BA";"Thiouracils";"H03BA";F;2013/09/25
-"H03BB";"Sulfur-containing imidazole derivatives";"H03BB";F;2013/09/25
-"H03BC";"Perchlorates";"H03BC";F;2013/09/25
-"H03BX";"Other antithyroid preparations";"H03BX";F;2013/09/25
-"H03CA";"Iodine therapy";"H03CA";F;2013/09/25
-"H04AA";"Glycogenolytic hormones";"H04AA";F;2013/09/25
-"H05AA";"Parathyroid hormones and analogues";"H05AA";F;2013/09/25
-"H05BA";"Calcitonin preparations";"H05BA";F;2013/09/25
+"H01AA";"ACTH";"H01AA";F;2013/11/12
+"H01AB";"Thyrotropin";"H01AB";F;2013/11/12
+"H01AC";"Somatropin and somatropin agonists";"H01AC";F;2013/11/12
+"H01AX";"Other anterior pituitary lobe hormones and analogues";"H01AX";F;2013/11/12
+"H01BA";"Vasopressin and analogues";"H01BA";F;2013/11/12
+"H01BB";"Oxytocin and analogues";"H01BB";F;2013/11/12
+"H01CA";"Gonadotropin-releasing hormones";"H01CA";F;2013/11/12
+"H01CB";"Antigrowth hormone";"H01CB";F;2013/11/12
+"H01CC";"Anti-gonadotropin-releasing hormones";"H01CC";F;2013/11/12
+"H02AA";"Mineralocorticoids";"H02AA";F;2013/11/12
+"H02AB";"Glucocorticoids";"H02AB";F;2013/11/12
+"H02BX";"Corticosteroids for systemic use, combinations";"H02BX";F;2013/11/12
+"H02CA";"Anticorticosteroids";"H02CA";F;2013/11/12
+"H03AA";"Thyroid hormones";"H03AA";F;2013/11/12
+"H03BA";"Thiouracils";"H03BA";F;2013/11/12
+"H03BB";"Sulfur-containing imidazole derivatives";"H03BB";F;2013/11/12
+"H03BC";"Perchlorates";"H03BC";F;2013/11/12
+"H03BX";"Other antithyroid preparations";"H03BX";F;2013/11/12
+"H03CA";"Iodine therapy";"H03CA";F;2013/11/12
+"H04AA";"Glycogenolytic hormones";"H04AA";F;2013/11/12
+"H05AA";"Parathyroid hormones and analogues";"H05AA";F;2013/11/12
+"H05BA";"Calcitonin preparations";"H05BA";F;2013/11/12
 "HAA00";"Incision i bröstkörtel";"HASA00";F;1997/01/01
 "HAA01";"Sutur av bröstkörtel";"HASA01";F;1997/01/01
 "HAA10";"Biopsi av bröstkörtel";"HASA10";F;1997/01/01
@@ -3685,86 +3712,86 @@
 "HWE00";"Reoperation för djup blödning";"HWSE00";F;1997/01/01
 "HWF00";"Reoperation för anastomos- eller suturinsufficiens";"HWSF00";F;1997/01/01
 "HWW99";"Annan reoperation på bröstkörtel";"HWSW99";F;1997/01/01
-"J01AA";"Tetracyclines";"J01AA";F;2013/09/25
-"J01BA";"Amphenicols";"J01BA";F;2013/09/25
-"J01CA";"Penicillins with extended spectrum";"J01CA";F;2013/09/25
-"J01CE";"Beta-lactamase sensitive penicillins";"J01CE";F;2013/09/25
-"J01CF";"Beta-lactamase resistant penicillins";"J01CF";F;2013/09/25
-"J01CG";"Beta-lactamase inhibitors";"J01CG";F;2013/09/25
-"J01CR";"Combinations of penicillins, incl. beta-lactamase inhibitors";"J01CR";F;2013/09/25
-"J01DA";"Cephalosporins and related substances";"J01DA";F;2013/09/25
-"J01DF";"Monobactams";"J01DF";F;2013/09/25
-"J01DH";"Carbapenems";"J01DH";F;2013/09/25
-"J01EA";"Trimethoprim and derivatives";"J01EA";F;2013/09/25
-"J01EB";"Short-acting sulfonamides";"J01EB";F;2013/09/25
-"J01EC";"Intermediate-acting sulfonamides";"J01EC";F;2013/09/25
-"J01ED";"Long-acting sulfonamides";"J01ED";F;2013/09/25
-"J01EE";"Combinations of sulfonamides and trimethoprim, incl. derivatives";"J01EE";F;2013/09/25
-"J01FA";"Macrolides";"J01FA";F;2013/09/25
-"J01FF";"Lincosamides";"J01FF";F;2013/09/25
-"J01FG";"Streptogramins";"J01FG";F;2013/09/25
-"J01GA";"Streptomycins";"J01GA";F;2013/09/25
-"J01GB";"Other aminoglycosides";"J01GB";F;2013/09/25
-"J01MA";"Fluoroquinolones";"J01MA";F;2013/09/25
-"J01MB";"Other quinolones";"J01MB";F;2013/09/25
-"J01RA";"Combinations of antibacterials";"J01RA";F;2013/09/25
-"J01XA";"Glycopeptide antibacterials";"J01XA";F;2013/09/25
-"J01XB";"Polymyxins";"J01XB";F;2013/09/25
-"J01XC";"Steroid antibacterials";"J01XC";F;2013/09/25
-"J01XD";"Imidazole derivatives";"J01XD";F;2013/09/25
-"J01XE";"Nitrofuran derivatives";"J01XE";F;2013/09/25
-"J01XX";"Other antibacterials";"J01XX";F;2013/09/25
-"J02AA";"Antibiotics";"J02AA";F;2013/09/25
-"J02AB";"Imidazole derivatives";"J02AB";F;2013/09/25
-"J02AC";"Triazole derivatives";"J02AC";F;2013/09/25
-"J02AX";"Other antimycotics for systemic use";"J02AX";F;2013/09/25
-"J04AA";"Aminosalicylic acid and derivatives";"J04AA";F;2013/09/25
-"J04AB";"Antibiotics";"J04AB";F;2013/09/25
-"J04AC";"Hydrazides";"J04AC";F;2013/09/25
-"J04AD";"Thiocarbamide derivatives";"J04AD";F;2013/09/25
-"J04AK";"Other drugs for treatment of tuberculosis";"J04AK";F;2013/09/25
-"J04AM";"Combinations of drugs for treatment of tuberculosis";"J04AM";F;2013/09/25
-"J04BA";"Drugs for treatment of lepra";"J04BA";F;2013/09/25
-"J05AA";"Thiosemicarbazones";"J05AA";F;2013/09/25
-"J05AB";"Nucleosides and nucleotides excl. reverse transcriptase inhibitors";"J05AB";F;2013/09/25
-"J05AC";"Cyclic amines";"J05AC";F;2013/09/25
-"J05AD";"Phosphonic acid derivatives";"J05AD";F;2013/09/25
-"J05AE";"Protease inhibitors";"J05AE";F;2013/09/25
-"J05AF";"Nucleoside and nucleotide reverse transcriptase inhibitors";"J05AF";F;2013/09/25
-"J05AG";"Non-nucleoside reverse transcriptase inhibitors";"J05AG";F;2013/09/25
-"J05AH";"Neuraminidase inhibitors";"J05AH";F;2013/09/25
-"J05AX";"Other antivirals";"J05AX";F;2013/09/25
-"J06AA";"Immune sera";"J06AA";F;2013/09/25
-"J06BA";"Immunoglobulins, normal human";"J06BA";F;2013/09/25
-"J06BB";"Specific immunoglobulins";"J06BB";F;2013/09/25
-"J06BC";"Other immunoglobulins";"J06BC";F;2013/09/25
-"J07AC";"Anthrax vaccines";"J07AC";F;2013/09/25
-"J07AD";"Brucellosis vaccines";"J07AD";F;2013/09/25
-"J07AE";"Cholera vaccines";"J07AE";F;2013/09/25
-"J07AF";"Diphtheria vaccines";"J07AF";F;2013/09/25
-"J07AG";"Hemophilus influenzae B vaccines";"J07AG";F;2013/09/25
-"J07AH";"Meningococcal vaccines";"J07AH";F;2013/09/25
-"J07AJ";"Pertussis vaccines";"J07AJ";F;2013/09/25
-"J07AK";"Plague vaccines";"J07AK";F;2013/09/25
-"J07AL";"Pneumococcal vaccines";"J07AL";F;2013/09/25
-"J07AM";"Tetanus vaccines";"J07AM";F;2013/09/25
-"J07AN";"Tuberculosis vaccines";"J07AN";F;2013/09/25
-"J07AP";"Typhoid vaccines";"J07AP";F;2013/09/25
-"J07AR";"Typhus (exanthematicus) vaccines";"J07AR";F;2013/09/25
-"J07AX";"Other bacterial vaccines";"J07AX";F;2013/09/25
-"J07BA";"Encephalitis vaccines";"J07BA";F;2013/09/25
-"J07BB";"Influenza vaccines";"J07BB";F;2013/09/25
-"J07BC";"Hepatitis vaccines";"J07BC";F;2013/09/25
-"J07BD";"Morbilli vaccines";"J07BD";F;2013/09/25
-"J07BE";"Parotitis vaccines";"J07BE";F;2013/09/25
-"J07BF";"Poliomyelitis vaccines";"J07BF";F;2013/09/25
-"J07BG";"Rabies vaccines";"J07BG";F;2013/09/25
-"J07BH";"Rota virus diarrhea vaccines";"J07BH";F;2013/09/25
-"J07BJ";"Rubella vaccines";"J07BJ";F;2013/09/25
-"J07BK";"Varicella vaccines";"J07BK";F;2013/09/25
-"J07BL";"Yellow fever vaccines";"J07BL";F;2013/09/25
-"J07BX";"Other viral vaccines";"J07BX";F;2013/09/25
-"J07CA";"Bacterial and viral vaccines, combined";"J07CA";F;2013/09/25
+"J01AA";"Tetracyclines";"J01AA";F;2013/11/12
+"J01BA";"Amphenicols";"J01BA";F;2013/11/12
+"J01CA";"Penicillins with extended spectrum";"J01CA";F;2013/11/12
+"J01CE";"Beta-lactamase sensitive penicillins";"J01CE";F;2013/11/12
+"J01CF";"Beta-lactamase resistant penicillins";"J01CF";F;2013/11/12
+"J01CG";"Beta-lactamase inhibitors";"J01CG";F;2013/11/12
+"J01CR";"Combinations of penicillins, incl. beta-lactamase inhibitors";"J01CR";F;2013/11/12
+"J01DA";"Cephalosporins and related substances";"J01DA";F;2013/11/12
+"J01DF";"Monobactams";"J01DF";F;2013/11/12
+"J01DH";"Carbapenems";"J01DH";F;2013/11/12
+"J01EA";"Trimethoprim and derivatives";"J01EA";F;2013/11/12
+"J01EB";"Short-acting sulfonamides";"J01EB";F;2013/11/12
+"J01EC";"Intermediate-acting sulfonamides";"J01EC";F;2013/11/12
+"J01ED";"Long-acting sulfonamides";"J01ED";F;2013/11/12
+"J01EE";"Combinations of sulfonamides and trimethoprim, incl. derivatives";"J01EE";F;2013/11/12
+"J01FA";"Macrolides";"J01FA";F;2013/11/12
+"J01FF";"Lincosamides";"J01FF";F;2013/11/12
+"J01FG";"Streptogramins";"J01FG";F;2013/11/12
+"J01GA";"Streptomycins";"J01GA";F;2013/11/12
+"J01GB";"Other aminoglycosides";"J01GB";F;2013/11/12
+"J01MA";"Fluoroquinolones";"J01MA";F;2013/11/12
+"J01MB";"Other quinolones";"J01MB";F;2013/11/12
+"J01RA";"Combinations of antibacterials";"J01RA";F;2013/11/12
+"J01XA";"Glycopeptide antibacterials";"J01XA";F;2013/11/12
+"J01XB";"Polymyxins";"J01XB";F;2013/11/12
+"J01XC";"Steroid antibacterials";"J01XC";F;2013/11/12
+"J01XD";"Imidazole derivatives";"J01XD";F;2013/11/12
+"J01XE";"Nitrofuran derivatives";"J01XE";F;2013/11/12
+"J01XX";"Other antibacterials";"J01XX";F;2013/11/12
+"J02AA";"Antibiotics";"J02AA";F;2013/11/12
+"J02AB";"Imidazole derivatives";"J02AB";F;2013/11/12
+"J02AC";"Triazole derivatives";"J02AC";F;2013/11/12
+"J02AX";"Other antimycotics for systemic use";"J02AX";F;2013/11/12
+"J04AA";"Aminosalicylic acid and derivatives";"J04AA";F;2013/11/12
+"J04AB";"Antibiotics";"J04AB";F;2013/11/12
+"J04AC";"Hydrazides";"J04AC";F;2013/11/12
+"J04AD";"Thiocarbamide derivatives";"J04AD";F;2013/11/12
+"J04AK";"Other drugs for treatment of tuberculosis";"J04AK";F;2013/11/12
+"J04AM";"Combinations of drugs for treatment of tuberculosis";"J04AM";F;2013/11/12
+"J04BA";"Drugs for treatment of lepra";"J04BA";F;2013/11/12
+"J05AA";"Thiosemicarbazones";"J05AA";F;2013/11/12
+"J05AB";"Nucleosides and nucleotides excl. reverse transcriptase inhibitors";"J05AB";F;2013/11/12
+"J05AC";"Cyclic amines";"J05AC";F;2013/11/12
+"J05AD";"Phosphonic acid derivatives";"J05AD";F;2013/11/12
+"J05AE";"Protease inhibitors";"J05AE";F;2013/11/12
+"J05AF";"Nucleoside and nucleotide reverse transcriptase inhibitors";"J05AF";F;2013/11/12
+"J05AG";"Non-nucleoside reverse transcriptase inhibitors";"J05AG";F;2013/11/12
+"J05AH";"Neuraminidase inhibitors";"J05AH";F;2013/11/12
+"J05AX";"Other antivirals";"J05AX";F;2013/11/12
+"J06AA";"Immune sera";"J06AA";F;2013/11/12
+"J06BA";"Immunoglobulins, normal human";"J06BA";F;2013/11/12
+"J06BB";"Specific immunoglobulins";"J06BB";F;2013/11/12
+"J06BC";"Other immunoglobulins";"J06BC";F;2013/11/12
+"J07AC";"Anthrax vaccines";"J07AC";F;2013/11/12
+"J07AD";"Brucellosis vaccines";"J07AD";F;2013/11/12
+"J07AE";"Cholera vaccines";"J07AE";F;2013/11/12
+"J07AF";"Diphtheria vaccines";"J07AF";F;2013/11/12
+"J07AG";"Hemophilus influenzae B vaccines";"J07AG";F;2013/11/12
+"J07AH";"Meningococcal vaccines";"J07AH";F;2013/11/12
+"J07AJ";"Pertussis vaccines";"J07AJ";F;2013/11/12
+"J07AK";"Plague vaccines";"J07AK";F;2013/11/12
+"J07AL";"Pneumococcal vaccines";"J07AL";F;2013/11/12
+"J07AM";"Tetanus vaccines";"J07AM";F;2013/11/12
+"J07AN";"Tuberculosis vaccines";"J07AN";F;2013/11/12
+"J07AP";"Typhoid vaccines";"J07AP";F;2013/11/12
+"J07AR";"Typhus (exanthematicus) vaccines";"J07AR";F;2013/11/12
+"J07AX";"Other bacterial vaccines";"J07AX";F;2013/11/12
+"J07BA";"Encephalitis vaccines";"J07BA";F;2013/11/12
+"J07BB";"Influenza vaccines";"J07BB";F;2013/11/12
+"J07BC";"Hepatitis vaccines";"J07BC";F;2013/11/12
+"J07BD";"Morbilli vaccines";"J07BD";F;2013/11/12
+"J07BE";"Parotitis vaccines";"J07BE";F;2013/11/12
+"J07BF";"Poliomyelitis vaccines";"J07BF";F;2013/11/12
+"J07BG";"Rabies vaccines";"J07BG";F;2013/11/12
+"J07BH";"Rota virus diarrhea vaccines";"J07BH";F;2013/11/12
+"J07BJ";"Rubella vaccines";"J07BJ";F;2013/11/12
+"J07BK";"Varicella vaccines";"J07BK";F;2013/11/12
+"J07BL";"Yellow fever vaccines";"J07BL";F;2013/11/12
+"J07BX";"Other viral vaccines";"J07BX";F;2013/11/12
+"J07CA";"Bacterial and viral vaccines, combined";"J07CA";F;2013/11/12
 "JAA00";"Incision i bukvägg";"JASA00";F;1997/01/01
 "JAA10";"Exstirpation av förändring i bukvägg";"JASA10";F;1997/01/01
 "JAA11";"Laparoskopisk biopsi eller lokal exstirpation av förändring i bukvägg";"JASA11";F;1997/01/01
@@ -3795,8 +3822,8 @@
 "JAB80";"Annan öppen operation av ljumskbråck";"JASB40";F;2012/01/01
 "JAB81";"Annan laparoskopisk operation av ljumskbråck";"JASB41";F;2012/01/01
 "JAB84";"Annan endoskopisk extraperitoneal operation av ljumskbråck";"JASB44";F;2012/01/01
-"JAB96";"Deleted 2011/12/05-Annan operation för ljumskbråck";"JASB96";F;1997/01/01
-"JAB97";"Deleted 2011/12/05-Annan laparoskopisk operation för ljumskbråck";"JASB97";F;1997/01/01
+"JAB96";"Deleted 2011/12/05 - Annan operation för ljumskbråck";"JASB96";F;1997/01/01
+"JAB97";"Deleted 2011/12/05 - Annan laparoskopisk operation för ljumskbråck";"JASB97";F;1997/01/01
 "JAC10";"Öppen operation av femoralbråck med suturplastik";"JASC10";F;1997/01/01
 "JAC11";"Laparoskopisk operation av femoralbråck med suturplastik";"JASC11";F;1997/01/01
 "JAC14";"Endoskopisk operation av femoralbråck med extraperitoneal suturplasik";"JASC14";F;2012/01/01
@@ -3814,8 +3841,8 @@
 "JAC80";"Annan öppen operation av femoralbråck";"JASC30";F;2012/01/01
 "JAC81";"Annan laparoskopisk operation av femoralbråck";"JASC31";F;2012/01/01
 "JAC84";"Annan endoskopisk extraperitoneal operation av femoralbråck";"JASC34";F;2012/01/01
-"JAC96";"Deleted 2011/12/05-Annan operation för femoralbråck";"JASC96";F;1997/01/01
-"JAC97";"Deleted 2011/12/05-Annan laparoskopisk operation för femoralbråck";"JASC97";F;1997/01/01
+"JAC96";"Deleted 2011/12/05 - Annan operation för femoralbråck";"JASC96";F;1997/01/01
+"JAC97";"Deleted 2011/12/05 - Annan laparoskopisk operation för femoralbråck";"JASC97";F;1997/01/01
 "JAD10";"Öppen operation av ärrbråck med suturplastik";"JASD10";F;1997/01/01
 "JAD11";"Laparoskopisk operation av ärrbråck med suturplastik";"JASD11";F;2002/01/01
 "JAD13";"Öppen operation av ärrbråck med suturplastik och avlastande incision";"JASD10";F;2012/01/01
@@ -3840,8 +3867,8 @@
 "JAD81";"Annan laparoskopisk operation av ärrbråck";"JASD31";F;2012/01/01
 "JAD84";"Annan endoskopisk extraperitoneal operation av ärrbråck";"JASD34";F;2012/01/01
 "JAD87";"Annan laparoskopisk operation av ärrbråck med avlastande incision";"JASD97";F;2012/01/01
-"JAD96";"Deleted 2011/12/05-Annan operation för ärrbråck";"JASD96";F;1997/01/01
-"JAD97";"Deleted 2011/12/05-Annan laparoskopisk operation för ärrbråck";"JASD97";F;1997/01/01
+"JAD96";"Deleted 2011/12/05 - Annan operation för ärrbråck";"JASD96";F;1997/01/01
+"JAD97";"Deleted 2011/12/05 - Annan laparoskopisk operation för ärrbråck";"JASD97";F;1997/01/01
 "JAE10";"Öppen operation av epigastrikabråck med suturplastik";"JASE10";F;1997/01/01
 "JAE11";"Laparoskopisk operation av epigastrikabråck med suturplastik";"JASE11";F;2012/01/01
 "JAE20";"Öppen operation av epigastrikabråck med implantat framför bukväggens aponeuros (onlay)";"JASE10";F;2012/01/01
@@ -3872,10 +3899,10 @@
 "JAF80";"Annan öppen operation av navelbråck";"JASF30";F;2012/01/01
 "JAF81";"Annan laparoskopisk operation av navelbråck";"JASF31";F;2012/01/01
 "JAF84";"Annan endoskopisk extraperitoneal operation av navelbråck";"JASF34";F;2012/01/01
-"JAF96";"Deleted 2011/12/05-Annan operation för navelbråck";"JASF96";F;1997/01/01
-"JAF97";"Deleted 2011/12/05-Annan laparoskopisk operation för navelbråck";"JASF97";F;1997/01/01
-"JAG00";"Deleted 2011/12/05-Operation av annat bråck";"JASG08";F;1997/01/01
-"JAG01";"Deleted 2011/12/05-Laparoskopisk operation av annat bråck";"JASG09";F;1997/01/01
+"JAF96";"Deleted 2011/12/05 - Annan operation för navelbråck";"JASF96";F;1997/01/01
+"JAF97";"Deleted 2011/12/05 - Annan laparoskopisk operation för navelbråck";"JASF97";F;1997/01/01
+"JAG00";"Deleted 2011/12/05 - Operation av annat bråck";"JASG08";F;1997/01/01
+"JAG01";"Deleted 2011/12/05 - Laparoskopisk operation av annat bråck";"JASG09";F;1997/01/01
 "JAG10";"Öppen operation av andra bukväggsbråck och defekter med suturplastik";"JASG10";F;1997/01/01
 "JAG11";"Laparoskopisk operation av andra bukväggsbråck och defekter med suturplastik";"JASG11";F;2012/01/01
 "JAG20";"Öppen operation av andra bukväggsbråck och defekter med implantat framför bukväggens aponeuros (onlay)";"JASG60";F;1997/01/01
@@ -3891,8 +3918,8 @@
 "JAG80";"Annan öppen operation av andra bukväggsbråck och defekter";"JASG60";F;2012/01/01
 "JAG81";"Annan laparoskopisk operation av andra bukväggsbråck och defekter";"JASG61";F;2012/01/01
 "JAG84";"Annan endoskopisk extraperitoneal operation av andra bukväggsbråck och defekter";"JASG64";F;2012/01/01
-"JAG96";"Deleted 2011/12/05-Annan bukväggsrekonstruktion";"JASG96";F;1997/01/01
-"JAG97";"Deleted 2011/12/05-Annan laparoskopisk bukväggsrekonstruktion";"JASG97";F;1997/01/01
+"JAG96";"Deleted 2011/12/05 - Annan bukväggsrekonstruktion";"JASG96";F;1997/01/01
+"JAG97";"Deleted 2011/12/05 - Annan laparoskopisk bukväggsrekonstruktion";"JASG97";F;1997/01/01
 "JAH00";"Explorativ laparotomi";"JASH00";F;1997/01/01
 "JAH01";"Laparoskopi";"JASH01";F;1997/01/01
 "JAH20";"Laparotomi med biopsier för stadieindelning av maligna tumörer";"JASH20";F;1997/01/01
@@ -4729,8 +4756,8 @@
 "KFD16";"Resektion av epididymis";"KFSD16";F;1997/01/01
 "KFD20";"Operation för hydrocele";"KFSD20";F;1997/01/01
 "KFD46";"Resektion eller ligatur av vas deferens";"KFSD46";F;1997/01/01
-"KFD50";"Deleted 2011/12/05-Resektion eller ligatur av vasa spermatica";"KFSD50";F;1997/01/01
-"KFD51";"Deleted 2011/12/05-Laparoskopisk resektion eller ligatur av vasa spermatica";"KFSD51";F;1997/01/01
+"KFD50";"Deleted 2011/12/05 - Resektion eller ligatur av vasa spermatica";"KFSD50";F;1997/01/01
+"KFD51";"Deleted 2011/12/05 - Laparoskopisk resektion eller ligatur av vasa spermatica";"KFSD51";F;1997/01/01
 "KFD56";"Exstirpation av varikocele";"KFSD56";F;1997/01/01
 "KFD60";"Exstirpation av skrotalfistel";"KFSD60";F;1997/01/01
 "KFD63";"Resektion av skrotum";"KFSD63";F;2009/01/01
@@ -4794,42 +4821,42 @@
 "KXK00";"Intralesionell excision av omfattande tumör i retroperitoneum (utan definierat ursprung i kapitel K, på avsnittsnivå)";"KXSK00";F;2010/01/01
 "KXK03";"Marginell excision av omfattande tumör i retroperitoneum (utan definierat ursprung i kapitel K, på avsnittsnivå)";"KXSK03";F;2010/01/01
 "KXK06";"Utvidgad excision av omfattande tumör i retroperitoneum (utan definierat ursprung i kapitel K, på avsnittsnivå)";"KXSK06";F;2010/01/01
-"L01AA";"Nitrogen mustard analogues";"L01AA";F;2013/09/25
-"L01AB";"Alkyl sulfonates";"L01AB";F;2013/09/25
-"L01AC";"Ethylene imines";"L01AC";F;2013/09/25
-"L01AD";"Nitrosoureas";"L01AD";F;2013/09/25
-"L01AG";"Epoxides";"L01AG";F;2013/09/25
-"L01AX";"Other alkylating agents";"L01AX";F;2013/09/25
-"L01BA";"Folic acid analogues";"L01BA";F;2013/09/25
-"L01BB";"Purine analogues";"L01BB";F;2013/09/25
-"L01BC";"Pyrimidine analogues";"L01BC";F;2013/09/25
-"L01CA";"Vinca alkaloids and analogues";"L01CA";F;2013/09/25
-"L01CB";"Podophyllotoxin derivatives";"L01CB";F;2013/09/25
-"L01CC";"Colchicine derivatives";"L01CC";F;2013/09/25
-"L01CD";"Taxanes";"L01CD";F;2013/09/25
-"L01CX";"Other plant alkaloids and natural products";"L01CX";F;2013/09/25
-"L01DA";"Actinomycines";"L01DA";F;2013/09/25
-"L01DB";"Anthracyclines and related substances";"L01DB";F;2013/09/25
-"L01DC";"Other cytotoxic antibiotics";"L01DC";F;2013/09/25
-"L01XA";"Platinum compounds";"L01XA";F;2013/09/25
-"L01XB";"Methylhydrazines";"L01XB";F;2013/09/25
-"L01XC";"Monoclonal antibodies";"L01XC";F;2013/09/25
-"L01XD";"Agents used in photodynamic therapy";"L01XD";F;2013/09/25
-"L01XX";"Other antineoplastic agents";"L01XX";F;2013/09/25
-"L01XY";"Combinations of antineoplastic agents";"L01XY";F;2013/09/25
-"L02AA";"Estrogens";"L02AA";F;2013/09/25
-"L02AB";"Progestogens";"L02AB";F;2013/09/25
-"L02AE";"Gonadotropin releasing hormone analogues";"L02AE";F;2013/09/25
-"L02AX";"Other hormones";"L02AX";F;2013/09/25
-"L02BA";"Anti-estrogens";"L02BA";F;2013/09/25
-"L02BB";"Anti-androgens";"L02BB";F;2013/09/25
-"L02BG";"Enzyme inhibitors";"L02BG";F;2013/09/25
-"L03AA";"Colony stimulating factors";"L03AA";F;2013/09/25
-"L03AB";"Interferons";"L03AB";F;2013/09/25
-"L03AC";"Interleukins";"L03AC";F;2013/09/25
-"L03AX";"Other cytokines and immunomodulators";"L03AX";F;2013/09/25
-"L04AA";"Selective immunosuppressive agents";"L04AA";F;2013/09/25
-"L04AX";"Other immunosuppressive agents";"L04AX";F;2013/09/25
+"L01AA";"Nitrogen mustard analogues";"L01AA";F;2013/11/12
+"L01AB";"Alkyl sulfonates";"L01AB";F;2013/11/12
+"L01AC";"Ethylene imines";"L01AC";F;2013/11/12
+"L01AD";"Nitrosoureas";"L01AD";F;2013/11/12
+"L01AG";"Epoxides";"L01AG";F;2013/11/12
+"L01AX";"Other alkylating agents";"L01AX";F;2013/11/12
+"L01BA";"Folic acid analogues";"L01BA";F;2013/11/12
+"L01BB";"Purine analogues";"L01BB";F;2013/11/12
+"L01BC";"Pyrimidine analogues";"L01BC";F;2013/11/12
+"L01CA";"Vinca alkaloids and analogues";"L01CA";F;2013/11/12
+"L01CB";"Podophyllotoxin derivatives";"L01CB";F;2013/11/12
+"L01CC";"Colchicine derivatives";"L01CC";F;2013/11/12
+"L01CD";"Taxanes";"L01CD";F;2013/11/12
+"L01CX";"Other plant alkaloids and natural products";"L01CX";F;2013/11/12
+"L01DA";"Actinomycines";"L01DA";F;2013/11/12
+"L01DB";"Anthracyclines and related substances";"L01DB";F;2013/11/12
+"L01DC";"Other cytotoxic antibiotics";"L01DC";F;2013/11/12
+"L01XA";"Platinum compounds";"L01XA";F;2013/11/12
+"L01XB";"Methylhydrazines";"L01XB";F;2013/11/12
+"L01XC";"Monoclonal antibodies";"L01XC";F;2013/11/12
+"L01XD";"Agents used in photodynamic therapy";"L01XD";F;2013/11/12
+"L01XX";"Other antineoplastic agents";"L01XX";F;2013/11/12
+"L01XY";"Combinations of antineoplastic agents";"L01XY";F;2013/11/12
+"L02AA";"Estrogens";"L02AA";F;2013/11/12
+"L02AB";"Progestogens";"L02AB";F;2013/11/12
+"L02AE";"Gonadotropin releasing hormone analogues";"L02AE";F;2013/11/12
+"L02AX";"Other hormones";"L02AX";F;2013/11/12
+"L02BA";"Anti-estrogens";"L02BA";F;2013/11/12
+"L02BB";"Anti-androgens";"L02BB";F;2013/11/12
+"L02BG";"Enzyme inhibitors";"L02BG";F;2013/11/12
+"L03AA";"Colony stimulating factors";"L03AA";F;2013/11/12
+"L03AB";"Interferons";"L03AB";F;2013/11/12
+"L03AC";"Interleukins";"L03AC";F;2013/11/12
+"L03AX";"Other cytokines and immunomodulators";"L03AX";F;2013/11/12
+"L04AA";"Selective immunosuppressive agents";"L04AA";F;2013/11/12
+"L04AX";"Other immunosuppressive agents";"L04AX";F;2013/11/12
 "LAA00";"Punktion av ovarialcysta";"LASA00";F;1997/01/01
 "LAA01";"Laparoskopisk punktion av ovarialcysta";"LASA01";F;1997/01/01
 "LAA03";"Perkutan punktion av ovarialcysta";"LASA03";F;1997/01/01
@@ -5085,43 +5112,43 @@
 "LWW96";"Annan reoperation på kvinnliga könsorgan";"LWSW96";F;1997/01/01
 "LWW97";"Annan perkutan endoskopisk reoperation på kvinnliga könsorgan";"LWSW97";F;1997/01/01
 "LWW98";"Annan transluminal endoskopisk reoperation på kvinnliga könsorgan";"LWSW98";F;1997/01/01
-"M01AA";"Butylpyrazolidines";"M01AA";F;2013/09/25
-"M01AB";"Acetic acid derivatives and related substances";"M01AB";F;2013/09/25
-"M01AC";"Oxicams";"M01AC";F;2013/09/25
-"M01AE";"Propionic acid derivatives";"M01AE";F;2013/09/25
-"M01AG";"Fenamates";"M01AG";F;2013/09/25
-"M01AH";"Coxibs";"M01AH";F;2013/09/25
-"M01AX";"Other antiinflammatory and antirheumatic agents, non-steroids";"M01AX";F;2013/09/25
-"M01BA";"Antiinflammatory/antirheumatic agents in combination with corticosteroids";"M01BA";F;2013/09/25
-"M01BX";"Other antiinflammatory/antirheumatic agents in combination with other drugs";"M01BX";F;2013/09/25
-"M01CA";"Quinolines";"M01CA";F;2013/09/25
-"M01CB";"Gold preparations";"M01CB";F;2013/09/25
-"M01CC";"Penicillamine and similar agents";"M01CC";F;2013/09/25
-"M01CX";"Other specific antirheumatic agents";"M01CX";F;2013/09/25
-"M02AA";"Antiinflammatory preparations, non-steroids for topical use";"M02AA";F;2013/09/25
-"M02AB";"Capsicum preparations and similar agents";"M02AB";F;2013/09/25
-"M02AC";"Preparations with salicylic acid derivatives";"M02AC";F;2013/09/25
-"M02AX";"Other topical products for joint and muscular pain";"M02AX";F;2013/09/25
-"M03AA";"Curare alkaloids";"M03AA";F;2013/09/25
-"M03AB";"Choline derivatives";"M03AB";F;2013/09/25
-"M03AC";"Other quaternary ammonium compounds";"M03AC";F;2013/09/25
-"M03AX";"Other muscle relaxants, peripherally acting agents";"M03AX";F;2013/09/25
-"M03BA";"Carbamic acid esters";"M03BA";F;2013/09/25
-"M03BB";"Oxazol, thiazine, and triazine derivatives";"M03BB";F;2013/09/25
-"M03BC";"Ethers, chemically close to antihistamines";"M03BC";F;2013/09/25
-"M03BX";"Other centrally acting agents";"M03BX";F;2013/09/25
-"M03CA";"Dantrolene and derivatives";"M03CA";F;2013/09/25
-"M04AA";"Preparations inhibiting uric acid production";"M04AA";F;2013/09/25
-"M04AB";"Preparations increasing uric acid excretion";"M04AB";F;2013/09/25
-"M04AC";"Preparations with no effect on uric acid metabolism";"M04AC";F;2013/09/25
-"M04AX";"Other antigout preparations";"M04AX";F;2013/09/25
-"M05BA";"Bisphosphonates";"M05BA";F;2013/09/25
-"M05BB";"Bisphosphonates and calcium, sequential preparations";"M05BB";F;2013/09/25
-"M05BC";"Bone morphogenetic proteins";"M05BC";F;2013/09/25
-"M05BX";"Other drugs affecting bone structure and mineralization";"M05BX";F;2013/09/25
-"M09AA";"Quinine and derivatives";"M09AA";F;2013/09/25
-"M09AB";"Enzymes";"M09AB";F;2013/09/25
-"M09AX";"Other drugs for disorders of the musculo-skeletal system";"M09AX";F;2013/09/25
+"M01AA";"Butylpyrazolidines";"M01AA";F;2013/11/12
+"M01AB";"Acetic acid derivatives and related substances";"M01AB";F;2013/11/12
+"M01AC";"Oxicams";"M01AC";F;2013/11/12
+"M01AE";"Propionic acid derivatives";"M01AE";F;2013/11/12
+"M01AG";"Fenamates";"M01AG";F;2013/11/12
+"M01AH";"Coxibs";"M01AH";F;2013/11/12
+"M01AX";"Other antiinflammatory and antirheumatic agents, non-steroids";"M01AX";F;2013/11/12
+"M01BA";"Antiinflammatory/antirheumatic agents in combination with corticosteroids";"M01BA";F;2013/11/12
+"M01BX";"Other antiinflammatory/antirheumatic agents in combination with other drugs";"M01BX";F;2013/11/12
+"M01CA";"Quinolines";"M01CA";F;2013/11/12
+"M01CB";"Gold preparations";"M01CB";F;2013/11/12
+"M01CC";"Penicillamine and similar agents";"M01CC";F;2013/11/12
+"M01CX";"Other specific antirheumatic agents";"M01CX";F;2013/11/12
+"M02AA";"Antiinflammatory preparations, non-steroids for topical use";"M02AA";F;2013/11/12
+"M02AB";"Capsicum preparations and similar agents";"M02AB";F;2013/11/12
+"M02AC";"Preparations with salicylic acid derivatives";"M02AC";F;2013/11/12
+"M02AX";"Other topical products for joint and muscular pain";"M02AX";F;2013/11/12
+"M03AA";"Curare alkaloids";"M03AA";F;2013/11/12
+"M03AB";"Choline derivatives";"M03AB";F;2013/11/12
+"M03AC";"Other quaternary ammonium compounds";"M03AC";F;2013/11/12
+"M03AX";"Other muscle relaxants, peripherally acting agents";"M03AX";F;2013/11/12
+"M03BA";"Carbamic acid esters";"M03BA";F;2013/11/12
+"M03BB";"Oxazol, thiazine, and triazine derivatives";"M03BB";F;2013/11/12
+"M03BC";"Ethers, chemically close to antihistamines";"M03BC";F;2013/11/12
+"M03BX";"Other centrally acting agents";"M03BX";F;2013/11/12
+"M03CA";"Dantrolene and derivatives";"M03CA";F;2013/11/12
+"M04AA";"Preparations inhibiting uric acid production";"M04AA";F;2013/11/12
+"M04AB";"Preparations increasing uric acid excretion";"M04AB";F;2013/11/12
+"M04AC";"Preparations with no effect on uric acid metabolism";"M04AC";F;2013/11/12
+"M04AX";"Other antigout preparations";"M04AX";F;2013/11/12
+"M05BA";"Bisphosphonates";"M05BA";F;2013/11/12
+"M05BB";"Bisphosphonates and calcium, sequential preparations";"M05BB";F;2013/11/12
+"M05BC";"Bone morphogenetic proteins";"M05BC";F;2013/11/12
+"M05BX";"Other drugs affecting bone structure and mineralization";"M05BX";F;2013/11/12
+"M09AA";"Quinine and derivatives";"M09AA";F;2013/11/12
+"M09AB";"Enzymes";"M09AB";F;2013/11/12
+"M09AX";"Other drugs for disorders of the musculo-skeletal system";"M09AX";F;2013/11/12
 "MAA00";"Amniocentes";"MASA00";F;1997/01/01
 "MAA03";"Amnioninfusion";"MASA03";F;1997/01/01
 "MAA06";"Amnioreduktion";"MASA01";F;2008/01/01
@@ -5206,99 +5233,99 @@
 "MWW96";"Annan reoperation efter obstetriskt ingrepp";"MWSW96";F;1997/01/01
 "MWW97";"Annan perkutan endoskopisk reoperation efter obstetriskt ingrepp";"MWSW97";F;1997/01/01
 "MWW98";"Annan transluminal endoskopisk reoperation efter obstetriskt ingrepp";"MWSW98";F;1997/01/01
-"N01AA";"Ethers";"N01AA";F;2013/09/25
-"N01AB";"Halogenated hydrocarbons";"N01AB";F;2013/09/25
-"N01AF";"Barbiturates, plain";"N01AF";F;2013/09/25
-"N01AG";"Barbiturates in combination with other drugs";"N01AG";F;2013/09/25
-"N01AH";"Opioid anesthetics";"N01AH";F;2013/09/25
-"N01AX";"Other general anesthetics";"N01AX";F;2013/09/25
-"N01BA";"Esters of aminobenzoic acid";"N01BA";F;2013/09/25
-"N01BB";"Amides";"N01BB";F;2013/09/25
-"N01BC";"Esters of benzoic acid";"N01BC";F;2013/09/25
-"N01BX";"Other local anesthetics";"N01BX";F;2013/09/25
-"N02AA";"Natural opium alkaloids";"N02AA";F;2013/09/25
-"N02AB";"Phenylpiperidine derivatives";"N02AB";F;2013/09/25
-"N02AC";"Diphenylpropylamine derivatives";"N02AC";F;2013/09/25
-"N02AD";"Benzomorphan derivatives";"N02AD";F;2013/09/25
-"N02AE";"Oripavine derivatives";"N02AE";F;2013/09/25
-"N02AF";"Morphinan derivatives";"N02AF";F;2013/09/25
-"N02AG";"Opioids in combination with antispasmodics";"N02AG";F;2013/09/25
-"N02AX";"Other opioids";"N02AX";F;2013/09/25
-"N02BA";"Salicylic acid and derivatives";"N02BA";F;2013/09/25
-"N02BB";"Pyrazolones";"N02BB";F;2013/09/25
-"N02BE";"Anilides";"N02BE";F;2013/09/25
-"N02BG";"Other analgesics and antipyretics";"N02BG";F;2013/09/25
-"N02CA";"Ergot alkaloids";"N02CA";F;2013/09/25
-"N02CB";"Corticosteroid derivatives";"N02CB";F;2013/09/25
-"N02CC";"Selective serotonin (5HT1) agonists";"N02CC";F;2013/09/25
-"N02CX";"Other antimigraine preparations";"N02CX";F;2013/09/25
-"N03AA";"Barbiturates and derivatives";"N03AA";F;2013/09/25
-"N03AB";"Hydantoin derivatives";"N03AB";F;2013/09/25
-"N03AC";"Oxazolidine derivatives";"N03AC";F;2013/09/25
-"N03AD";"Succinimide derivatives";"N03AD";F;2013/09/25
-"N03AE";"Benzodiazepine derivatives";"N03AE";F;2013/09/25
-"N03AF";"Carboxamide derivatives";"N03AF";F;2013/09/25
-"N03AG";"Fatty acid derivatives";"N03AG";F;2013/09/25
-"N03AX";"Other antiepileptics";"N03AX";F;2013/09/25
-"N04AA";"Tertiary amines";"N04AA";F;2013/09/25
-"N04AB";"Ethers chemically close to antihistamines";"N04AB";F;2013/09/25
-"N04AC";"Ethers of tropine or tropine derivatives";"N04AC";F;2013/09/25
-"N04BA";"Dopa and dopa derivatives";"N04BA";F;2013/09/25
-"N04BB";"Adamantane derivatives";"N04BB";F;2013/09/25
-"N04BC";"Dopamine agonists";"N04BC";F;2013/09/25
-"N04BD";"Monoamine oxidase B inhibitors";"N04BD";F;2013/09/25
-"N04BX";"Other dopaminergic agents";"N04BX";F;2013/09/25
-"N05AA";"Phenothiazines with aliphatic side-chain";"N05AA";F;2013/09/25
-"N05AB";"Phenothiazines with piperazine structure";"N05AB";F;2013/09/25
-"N05AC";"Phenothiazines with piperidine structure";"N05AC";F;2013/09/25
-"N05AD";"Butyrophenone derivatives";"N05AD";F;2013/09/25
-"N05AE";"Indole derivatives";"N05AE";F;2013/09/25
-"N05AF";"Thioxanthene derivatives";"N05AF";F;2013/09/25
-"N05AG";"Diphenylbutylpiperidine derivatives";"N05AG";F;2013/09/25
-"N05AH";"Diazepines, oxazepines and thiazepines";"N05AH";F;2013/09/25
-"N05AK";"Neuroleptics, in tardive dyskinesia";"N05AK";F;2013/09/25
-"N05AL";"Benzamides";"N05AL";F;2013/09/25
-"N05AN";"Lithium";"N05AN";F;2013/09/25
-"N05AX";"Other antipsychotics";"N05AX";F;2013/09/25
-"N05BA";"Benzodiazepine derivatives";"N05BA";F;2013/09/25
-"N05BB";"Diphenylmethane derivatives";"N05BB";F;2013/09/25
-"N05BC";"Carbamates";"N05BC";F;2013/09/25
-"N05BD";"Dibenzo-bicyclo-octadiene derivatives";"N05BD";F;2013/09/25
-"N05BE";"Azaspirodecanedione derivatives";"N05BE";F;2013/09/25
-"N05BX";"Other anxiolytics";"N05BX";F;2013/09/25
-"N05CA";"Barbiturates, plain";"N05CA";F;2013/09/25
-"N05CB";"Barbiturates, combinations";"N05CB";F;2013/09/25
-"N05CC";"Aldehydes and derivatives";"N05CC";F;2013/09/25
-"N05CD";"Benzodiazepine derivatives";"N05CD";F;2013/09/25
-"N05CE";"Piperidinedione derivatives";"N05CE";F;2013/09/25
-"N05CF";"Benzodiazepine related drugs";"N05CF";F;2013/09/25
-"N05CM";"Other hypnotics and sedatives";"N05CM";F;2013/09/25
-"N05CX";"Hypnotics and sedatives in combination, excl. barbiturates";"N05CX";F;2013/09/25
-"N06AA";"Non-selective monoamine reuptake inhibitors";"N06AA";F;2013/09/25
-"N06AB";"Selective serotonin reuptake inhibitors";"N06AB";F;2013/09/25
-"N06AF";"Monoamine oxidase inhibitors, non-selective";"N06AF";F;2013/09/25
-"N06AG";"Monoamine oxidase A inhibitors";"N06AG";F;2013/09/25
-"N06AX";"Other antidepressants";"N06AX";F;2013/09/25
-"N06BA";"Centrally acting sympathomimetics";"N06BA";F;2013/09/25
-"N06BC";"Xanthine derivatives";"N06BC";F;2013/09/25
-"N06BX";"Other psychostimulants and nootropics";"N06BX";F;2013/09/25
-"N06CA";"Antidepressants in combination with psycholeptics";"N06CA";F;2013/09/25
-"N06CB";"Psychostimulants in combination with psycholeptics";"N06CB";F;2013/09/25
-"N06DA";"Anticholinesterases";"N06DA";F;2013/09/25
-"N06DX";"Other anti-dementia drugs";"N06DX";F;2013/09/25
-"N07AA";"Anticholinesterases";"N07AA";F;2013/09/25
-"N07AB";"Choline esters";"N07AB";F;2013/09/25
-"N07AX";"Other parasympathomimetics";"N07AX";F;2013/09/25
-"N07BA";"Drugs used in nicotine dependence";"N07BA";F;2013/09/25
-"N07BB";"Drugs used in alcohol dependence";"N07BB";F;2013/09/25
-"N07BC";"Drugs used in opioid dependence";"N07BC";F;2013/09/25
-"N07CA";"Antivertigo preparations";"N07CA";F;2013/09/25
-"N07XA";"Gangliosides and ganglioside derivatives";"N07XA";F;2013/09/25
-"N07XX";"Other nervous system drugs";"N07XX";F;2013/09/25
+"N01AA";"Ethers";"N01AA";F;2013/11/12
+"N01AB";"Halogenated hydrocarbons";"N01AB";F;2013/11/12
+"N01AF";"Barbiturates, plain";"N01AF";F;2013/11/12
+"N01AG";"Barbiturates in combination with other drugs";"N01AG";F;2013/11/12
+"N01AH";"Opioid anesthetics";"N01AH";F;2013/11/12
+"N01AX";"Other general anesthetics";"N01AX";F;2013/11/12
+"N01BA";"Esters of aminobenzoic acid";"N01BA";F;2013/11/12
+"N01BB";"Amides";"N01BB";F;2013/11/12
+"N01BC";"Esters of benzoic acid";"N01BC";F;2013/11/12
+"N01BX";"Other local anesthetics";"N01BX";F;2013/11/12
+"N02AA";"Natural opium alkaloids";"N02AA";F;2013/11/12
+"N02AB";"Phenylpiperidine derivatives";"N02AB";F;2013/11/12
+"N02AC";"Diphenylpropylamine derivatives";"N02AC";F;2013/11/12
+"N02AD";"Benzomorphan derivatives";"N02AD";F;2013/11/12
+"N02AE";"Oripavine derivatives";"N02AE";F;2013/11/12
+"N02AF";"Morphinan derivatives";"N02AF";F;2013/11/12
+"N02AG";"Opioids in combination with antispasmodics";"N02AG";F;2013/11/12
+"N02AX";"Other opioids";"N02AX";F;2013/11/12
+"N02BA";"Salicylic acid and derivatives";"N02BA";F;2013/11/12
+"N02BB";"Pyrazolones";"N02BB";F;2013/11/12
+"N02BE";"Anilides";"N02BE";F;2013/11/12
+"N02BG";"Other analgesics and antipyretics";"N02BG";F;2013/11/12
+"N02CA";"Ergot alkaloids";"N02CA";F;2013/11/12
+"N02CB";"Corticosteroid derivatives";"N02CB";F;2013/11/12
+"N02CC";"Selective serotonin (5HT1) agonists";"N02CC";F;2013/11/12
+"N02CX";"Other antimigraine preparations";"N02CX";F;2013/11/12
+"N03AA";"Barbiturates and derivatives";"N03AA";F;2013/11/12
+"N03AB";"Hydantoin derivatives";"N03AB";F;2013/11/12
+"N03AC";"Oxazolidine derivatives";"N03AC";F;2013/11/12
+"N03AD";"Succinimide derivatives";"N03AD";F;2013/11/12
+"N03AE";"Benzodiazepine derivatives";"N03AE";F;2013/11/12
+"N03AF";"Carboxamide derivatives";"N03AF";F;2013/11/12
+"N03AG";"Fatty acid derivatives";"N03AG";F;2013/11/12
+"N03AX";"Other antiepileptics";"N03AX";F;2013/11/12
+"N04AA";"Tertiary amines";"N04AA";F;2013/11/12
+"N04AB";"Ethers chemically close to antihistamines";"N04AB";F;2013/11/12
+"N04AC";"Ethers of tropine or tropine derivatives";"N04AC";F;2013/11/12
+"N04BA";"Dopa and dopa derivatives";"N04BA";F;2013/11/12
+"N04BB";"Adamantane derivatives";"N04BB";F;2013/11/12
+"N04BC";"Dopamine agonists";"N04BC";F;2013/11/12
+"N04BD";"Monoamine oxidase B inhibitors";"N04BD";F;2013/11/12
+"N04BX";"Other dopaminergic agents";"N04BX";F;2013/11/12
+"N05AA";"Phenothiazines with aliphatic side-chain";"N05AA";F;2013/11/12
+"N05AB";"Phenothiazines with piperazine structure";"N05AB";F;2013/11/12
+"N05AC";"Phenothiazines with piperidine structure";"N05AC";F;2013/11/12
+"N05AD";"Butyrophenone derivatives";"N05AD";F;2013/11/12
+"N05AE";"Indole derivatives";"N05AE";F;2013/11/12
+"N05AF";"Thioxanthene derivatives";"N05AF";F;2013/11/12
+"N05AG";"Diphenylbutylpiperidine derivatives";"N05AG";F;2013/11/12
+"N05AH";"Diazepines, oxazepines and thiazepines";"N05AH";F;2013/11/12
+"N05AK";"Neuroleptics, in tardive dyskinesia";"N05AK";F;2013/11/12
+"N05AL";"Benzamides";"N05AL";F;2013/11/12
+"N05AN";"Lithium";"N05AN";F;2013/11/12
+"N05AX";"Other antipsychotics";"N05AX";F;2013/11/12
+"N05BA";"Benzodiazepine derivatives";"N05BA";F;2013/11/12
+"N05BB";"Diphenylmethane derivatives";"N05BB";F;2013/11/12
+"N05BC";"Carbamates";"N05BC";F;2013/11/12
+"N05BD";"Dibenzo-bicyclo-octadiene derivatives";"N05BD";F;2013/11/12
+"N05BE";"Azaspirodecanedione derivatives";"N05BE";F;2013/11/12
+"N05BX";"Other anxiolytics";"N05BX";F;2013/11/12
+"N05CA";"Barbiturates, plain";"N05CA";F;2013/11/12
+"N05CB";"Barbiturates, combinations";"N05CB";F;2013/11/12
+"N05CC";"Aldehydes and derivatives";"N05CC";F;2013/11/12
+"N05CD";"Benzodiazepine derivatives";"N05CD";F;2013/11/12
+"N05CE";"Piperidinedione derivatives";"N05CE";F;2013/11/12
+"N05CF";"Benzodiazepine related drugs";"N05CF";F;2013/11/12
+"N05CM";"Other hypnotics and sedatives";"N05CM";F;2013/11/12
+"N05CX";"Hypnotics and sedatives in combination, excl. barbiturates";"N05CX";F;2013/11/12
+"N06AA";"Non-selective monoamine reuptake inhibitors";"N06AA";F;2013/11/12
+"N06AB";"Selective serotonin reuptake inhibitors";"N06AB";F;2013/11/12
+"N06AF";"Monoamine oxidase inhibitors, non-selective";"N06AF";F;2013/11/12
+"N06AG";"Monoamine oxidase A inhibitors";"N06AG";F;2013/11/12
+"N06AX";"Other antidepressants";"N06AX";F;2013/11/12
+"N06BA";"Centrally acting sympathomimetics";"N06BA";F;2013/11/12
+"N06BC";"Xanthine derivatives";"N06BC";F;2013/11/12
+"N06BX";"Other psychostimulants and nootropics";"N06BX";F;2013/11/12
+"N06CA";"Antidepressants in combination with psycholeptics";"N06CA";F;2013/11/12
+"N06CB";"Psychostimulants in combination with psycholeptics";"N06CB";F;2013/11/12
+"N06DA";"Anticholinesterases";"N06DA";F;2013/11/12
+"N06DX";"Other anti-dementia drugs";"N06DX";F;2013/11/12
+"N07AA";"Anticholinesterases";"N07AA";F;2013/11/12
+"N07AB";"Choline esters";"N07AB";F;2013/11/12
+"N07AX";"Other parasympathomimetics";"N07AX";F;2013/11/12
+"N07BA";"Drugs used in nicotine dependence";"N07BA";F;2013/11/12
+"N07BB";"Drugs used in alcohol dependence";"N07BB";F;2013/11/12
+"N07BC";"Drugs used in opioid dependence";"N07BC";F;2013/11/12
+"N07CA";"Antivertigo preparations";"N07CA";F;2013/11/12
+"N07XA";"Gangliosides and ganglioside derivatives";"N07XA";F;2013/11/12
+"N07XX";"Other nervous system drugs";"N07XX";F;2013/11/12
 "NAA00";"Perkutan eller sluten exploration av mjukdelar i rygg eller nacke";"WZZ998";F;1997/01/01
 "NAA01";"Artroskopisk eller endoskopisk exploration av mjukdelar i rygg eller nacke";"NASA01";F;1997/01/01
 "NAA02";"Öppen exploration av mjukdelar i rygg eller nacke";"NASA00";F;1997/01/01
-"NAA10";"Deleted 2012/12/31-Perkutan eller sluten exploration av led i rygg eller nacke";"WZZ998";F;1997/01/01
+"NAA10";"Deleted 2012/12/31 - Perkutan eller sluten exploration av led i rygg eller nacke";"WZZ998";F;1997/01/01
 "NAA11";"Artroskopisk eller endoskopisk exploration av led i rygg eller nacke";"NASA01";F;1997/01/01
 "NAA12";"Öppen exploration av led i rygg eller nacke";"NASA12";F;1997/01/01
 "NAA20";"Perkutan eller sluten biopsi av mjukdelar eller led i rygg eller nacke";"NAXX00";F;1997/01/01
@@ -5401,7 +5428,7 @@
 "NBA00";"Perkutan exploration av mjukdelar i axel eller överarm";"WZZ998";F;1997/01/01
 "NBA01";"Artroskopisk eller endoskopisk exploration av mjukdelar i axel eller överarm";"NBSA01";F;1997/01/01
 "NBA02";"Öppen exploration av mjukdelar i axel eller överarm";"NBSA00";F;1997/01/01
-"NBA10";"Deleted 2012/12/31-Perkutan exploration av axelled eller överarm";"WZZ998";F;1997/01/01
+"NBA10";"Deleted 2012/12/31 - Perkutan exploration av axelled eller överarm";"WZZ998";F;1997/01/01
 "NBA11";"Artroskopisk eller endoskopisk exploration av axelled eller överarm";"NBSA01";F;1997/01/01
 "NBA12";"Öppen exploration av axelled eller överarm";"NBSA12";F;1997/01/01
 "NBA20";"Perkutan biopsi av mjukdelar eller led i axel eller överarm";"NBXX00";F;1997/01/01
@@ -5425,25 +5452,25 @@
 "NBE00";"Perkutan eller sluten incision i eller sutur av ledkapsel i axel";"WZZ998";F;1997/01/01
 "NBE01";"Artroskopisk eller endoskopisk incision i eller sutur av ledkapsel i axel";"NBSE01";F;1997/01/01
 "NBE02";"Öppen incision i eller sutur av ledkapsel i axel";"NBSE02";F;1997/01/01
-"NBE10";"Deleted 2012/12/31-Perkutan eller sluten transcision eller excision av ligament i axel";"WZZ998";F;1997/01/01
+"NBE10";"Deleted 2012/12/31 - Perkutan eller sluten transcision eller excision av ligament i axel";"WZZ998";F;1997/01/01
 "NBE11";"Artroskopisk eller endoskopisk transcision eller excision av ligament i axel";"NBSE11";F;1997/01/01
 "NBE12";"Öppen transcision eller excision av ligament i axel";"NBSE12";F;1997/01/01
-"NBE20";"Deleted 2012/12/31-Perkutan eller sluten sutur eller replantation av ligament i axel";"WZZ998";F;1997/01/01
+"NBE20";"Deleted 2012/12/31 - Perkutan eller sluten sutur eller replantation av ligament i axel";"WZZ998";F;1997/01/01
 "NBE21";"Artroskopisk eller endoskopisk sutur eller replantation av ligament i axel";"NBSE21";F;1997/01/01
 "NBE22";"Öppen sutur eller replantation av ligament i axel";"NBSE22";F;1997/01/01
-"NBE30";"Deleted 2012/12/31-Perkutan eller sluten transposition av ligament i axel";"WZZ998";F;1997/01/01
+"NBE30";"Deleted 2012/12/31 - Perkutan eller sluten transposition av ligament i axel";"WZZ998";F;1997/01/01
 "NBE31";"Artroskopisk eller endoskopisk transposition av ligament i axel";"NBSE31";F;1997/01/01
 "NBE32";"Öppen transposition av ligament i axel";"NBSE32";F;1997/01/01
-"NBE40";"Deleted 2012/12/31-Perkutan eller sluten rekonstruktion av ligament i axel utan främmande material";"WZZ998";F;1997/01/01
+"NBE40";"Deleted 2012/12/31 - Perkutan eller sluten rekonstruktion av ligament i axel utan främmande material";"WZZ998";F;1997/01/01
 "NBE41";"Artroskopisk eller endoskopisk rekonstruktion av ligament i axel utan främmande material";"NBSE41";F;1997/01/01
 "NBE42";"Öppen rekonstruktion av ligament i axel utan främmande material";"NBSE42";F;1997/01/01
-"NBE50";"Deleted 2012/12/31-Perkutan eller sluten rekonstruktion av ligament i axel med främmande material";"WZZ998";F;1997/01/01
+"NBE50";"Deleted 2012/12/31 - Perkutan eller sluten rekonstruktion av ligament i axel med främmande material";"WZZ998";F;1997/01/01
 "NBE51";"Artroskopisk eller endoskopisk rekonstruktion av ligament i axel med främmande material";"NBSE51";F;1997/01/01
 "NBE52";"Öppen rekonstruktion av ligament i axel med främmande material";"NBSE52";F;1997/01/01
 "NBE90";"Annan perkutan eller sluten operation på ledkapsel eller ledband i skulderled";"WZZ999";F;1997/01/01
 "NBE91";"Annan artroskopisk eller endoskopisk operation på ledkapsel eller ledband i skulderled";"NBSE91";F;1997/01/01
 "NBE92";"Annan öppen operation på ledkapsel eller ledband i skulderled";"NBSE92";F;1997/01/01
-"NBF00";"Deleted 2012/12/31-Perkutan eller sluten total synovektomi i humeroskapularled";"WZZ998";F;1997/01/01
+"NBF00";"Deleted 2012/12/31 - Perkutan eller sluten total synovektomi i humeroskapularled";"WZZ998";F;1997/01/01
 "NBF01";"Artroskopisk eller endoskopisk total synovektomi i humeroskapularled";"NBSF01";F;1997/01/01
 "NBF02";"Öppen total synovektomi i humeroskapularled";"NBSF02";F;1997/01/01
 "NBF10";"Perkutan eller sluten partiell synovektomi i humeroskapularled";"WZZ998";F;1997/01/01
@@ -5452,7 +5479,7 @@
 "NBF20";"Fixation av ledytefragment i humeroskapularled, perkutan eller sluten";"NBSF20";F;1997/01/01
 "NBF21";"Fixation av ledytefragment i humeroskapularled, artroskopisk eller endoskopisk";"NBSF21";F;1997/01/01
 "NBF22";"Fixation av ledytefragment i humeroskapularled, öppen";"NBSF22";F;1997/01/01
-"NBF30";"Deleted 2012/12/31-Perkutan eller sluten partiell excision av brosk i humeroskapularled";"WZZ998";F;1997/01/01
+"NBF30";"Deleted 2012/12/31 - Perkutan eller sluten partiell excision av brosk i humeroskapularled";"WZZ998";F;1997/01/01
 "NBF31";"Artroskopisk eller endoskopisk partiell excision av brosk i humeroskapularled";"NBSF31";F;1997/01/01
 "NBF32";"Öppen partiell excision av ledbrosk i humeroskapularled";"NBSF32";F;1997/01/01
 "NBF90";"Annan perkutan eller sluten operation på ledhinnor eller ledytor i skulderled";"WZZ999";F;1997/01/01
@@ -5480,7 +5507,7 @@
 "NBH40";"Perkutan eller sluten extraktion av främmande eller fri kropp i humeroskapularled";"NBSH40";F;1997/01/01
 "NBH41";"Artroskopisk eller endoskopisk extraktion av främmande eller fri kropp i humeroskapularled";"NBSH41";F;1997/01/01
 "NBH42";"Öppen extraktion av främmande eller fri kropp i humeroskapularled";"NBSH42";F;1997/01/01
-"NBH50";"Deleted 2012/12/31-Perkutan eller sluten excision av intraartikulär exostos eller osteofyt i humeroskapularled";"WZZ998";F;1997/01/01
+"NBH50";"Deleted 2012/12/31 - Perkutan eller sluten excision av intraartikulär exostos eller osteofyt i humeroskapularled";"WZZ998";F;1997/01/01
 "NBH51";"Artroskopisk eller endoskopisk excision av intraartikulär exostos eller osteofyt i humeroskapularled";"NBSH51";F;1997/01/01
 "NBH52";"Öppen excision av intraartikulär exostos eller osteofyt i humeroskapularled";"NBSH52";F;1997/01/01
 "NBH70";"Perkutan eller sluten operation för recidiverande luxation eller instabilitet i humeroskapularled";"WZZ998";F;1997/01/01
@@ -5580,7 +5607,7 @@
 "NCA00";"Perkutan eller sluten exploration av mjukdelar i armbåge eller underarm";"WZZ998";F;1997/01/01
 "NCA01";"Artroskopisk eller endoskopisk exploration av mjukdelar i armbåge eller underarm";"NCSA01";F;1997/01/01
 "NCA02";"Öppen exploration av mjukdelar i armbåge eller underarm";"NCSA00";F;1997/01/01
-"NCA10";"Deleted 2012/12/31-Perkutan eller sluten exploration av armbågsled eller underarm";"WZZ998";F;1997/01/01
+"NCA10";"Deleted 2012/12/31 - Perkutan eller sluten exploration av armbågsled eller underarm";"WZZ998";F;1997/01/01
 "NCA11";"Artroskopisk eller endoskopisk exploration av armbågsled eller underarm";"NCSA01";F;1997/01/01
 "NCA12";"Öppen exploration av armbågsled eller underarm";"NCSA12";F;1997/01/01
 "NCA20";"Perkutan eller sluten biopsi av mjukdelar eller led i armbåge eller underarm";"NCXX00";F;1997/01/01
@@ -5603,44 +5630,44 @@
 "NCC49";"Sekundär totalprotes i armbågsled med cement";"NCSC49";F;1997/01/01
 "NCC59";"Sekundär interpositionsprotes i armbågsled";"NCSC59";F;1997/01/01
 "NCC99";"Annan sekundär ledprotesoperation i armbågsled";"NCSC99";F;1997/01/01
-"NCE00";"Deleted 2012/12/31-Perkutan eller sluten incision i eller sutur av kapsel av armbågsled";"WZZ998";F;1997/01/01
+"NCE00";"Deleted 2012/12/31 - Perkutan eller sluten incision i eller sutur av kapsel av armbågsled";"WZZ998";F;1997/01/01
 "NCE01";"Incision i eller sutur av kapsel av armbågsled";"NCSE01";F;1997/01/01
 "NCE02";"Öppen incision i eller sutur av ledkapsel av armbågsled";"NCSE02";F;1997/01/01
 "NCE09";"Incision i eller sutur av kapsel av armbågsled, ospecificerad";"WZZ998";F;1997/01/01
-"NCE10";"Deleted 2012/12/31-Perkutan eller sluten transcision eller excision av ligament i armbågsled";"WZZ998";F;1997/01/01
+"NCE10";"Deleted 2012/12/31 - Perkutan eller sluten transcision eller excision av ligament i armbågsled";"WZZ998";F;1997/01/01
 "NCE11";"Artroskopisk eller endoskopisk transcision eller excision av ligament i armbågsled";"NCSE11";F;1997/01/01
 "NCE12";"Öppen transcision eller excision av ligament i armbågsled";"NCSE12";F;1997/01/01
 "NCE19";"Transcision eller excision av ligament i armbågsled, ospecificerad";"WZZ998";F;1997/01/01
-"NCE20";"Deleted 2012/12/31-Perkutan eller sluten sutur eller replantation av ligament i armbågsled";"WZZ998";F;1997/01/01
+"NCE20";"Deleted 2012/12/31 - Perkutan eller sluten sutur eller replantation av ligament i armbågsled";"WZZ998";F;1997/01/01
 "NCE21";"Artroskopisk eller endoskopisk sutur eller replantation av ligament i armbågsled";"NCSE21";F;1997/01/01
 "NCE22";"Öppen sutur eller replantation av ligament i armbågsled";"NCSE22";F;1997/01/01
 "NCE29";"Sutur eller replantation av ligament i armbågsled, ospecificerad";"WZZ998";F;1997/01/01
-"NCE30";"Deleted 2012/12/31-Perkutan eller sluten transposition av ligament i armbågsled";"WZZ998";F;1997/01/01
+"NCE30";"Deleted 2012/12/31 - Perkutan eller sluten transposition av ligament i armbågsled";"WZZ998";F;1997/01/01
 "NCE31";"Artroskopisk eller endoskopisk transposition av ligament i armbågsled";"NCSE31";F;1997/01/01
 "NCE32";"Öppen transposition av ligament i armbågsled";"NCSE32";F;1997/01/01
 "NCE39";"Transposition av ligament i armbågsled, ospecificerad";"WZZ998";F;1997/01/01
-"NCE40";"Deleted 2012/12/31-Perkutan eller sluten rekonstruktion av ligament i armbågsled utan främmande material";"WZZ998";F;1997/01/01
+"NCE40";"Deleted 2012/12/31 - Perkutan eller sluten rekonstruktion av ligament i armbågsled utan främmande material";"WZZ998";F;1997/01/01
 "NCE41";"Artroskopisk eller endoskopisk rekonstruktion av ligament i armbågsled utan främmande material";"NCSE41";F;1997/01/01
 "NCE42";"Öppen rekonstruktion av ligament i armbågsled utan främmande material";"NCSE42";F;1997/01/01
 "NCE49";"Rekonstruktion av ligament i armbågsled utan främmande material, ospecificerad";"WZZ998";F;1997/01/01
-"NCE50";"Deleted 2012/12/31-Perkutan eller sluten rekonstruktion av ligament i armbågsled med främmande material";"WZZ998";F;1997/01/01
+"NCE50";"Deleted 2012/12/31 - Perkutan eller sluten rekonstruktion av ligament i armbågsled med främmande material";"WZZ998";F;1997/01/01
 "NCE51";"Artroskopisk eller endoskopisk rekonstruktion av ligament i armbågsled med främmande material";"NCSE51";F;1997/01/01
 "NCE52";"Öppen rekonstruktion av ligament i armbågsled med främmande material";"NCSE52";F;1997/01/01
 "NCE59";"Rekonstruktion av ligament i armbågsled med främmande material, ospecificerad";"WZZ998";F;1997/01/01
-"NCE90";"Deleted 2012/12/31-Annan perkutan eller sluten operation på ledkapsel eller ledband i armbågsled";"WZZ998";F;1997/01/01
+"NCE90";"Deleted 2012/12/31 - Annan perkutan eller sluten operation på ledkapsel eller ledband i armbågsled";"WZZ998";F;1997/01/01
 "NCE91";"Annan artroskopisk eller endoskopisk operation på ledkapsel eller ledband i armbågsled";"NCSE91";F;1997/01/01
 "NCE92";"Annan öppen operation på ledkapsel eller ledband i armbågsled";"NCSE92";F;1997/01/01
 "NCE99";"Annan operation på ledkapsel eller ledband i armbågsled, ospecificerad";"WZZ998";F;1997/01/01
-"NCF00";"Deleted 2012/12/31-Perkutan eller sluten total synovektomi i armbågsled";"WZZ998";F;1997/01/01
+"NCF00";"Deleted 2012/12/31 - Perkutan eller sluten total synovektomi i armbågsled";"WZZ998";F;1997/01/01
 "NCF01";"Artroskopisk eller endoskopisk total synovektomi i armbågsled";"NCSF01";F;1997/01/01
 "NCF02";"Öppen total synovektomi i armbågsled";"NCSF02";F;1997/01/01
-"NCF10";"Deleted 2012/12/31-Perkutan eller sluten partiell synovektomi i armbågsled";"WZZ998";F;1997/01/01
+"NCF10";"Deleted 2012/12/31 - Perkutan eller sluten partiell synovektomi i armbågsled";"WZZ998";F;1997/01/01
 "NCF11";"Artroskopisk eller endoskopisk partiell synovektomi i armbågsled";"NCSF11";F;1997/01/01
 "NCF12";"Öppen partiell synovektomi i armbågsled";"NCSF12";F;1997/01/01
 "NCF20";"Fixation av ledytefragment i armbågsled, perkutan eller sluten";"NCSF23";F;1997/01/01
 "NCF21";"Fixation av ledytefragment i armbågsled, artroskopisk eller endoskopisk";"NCSF21";F;1997/01/01
 "NCF22";"Fixation av ledytefragment i armbågsled, öppen";"NCSF22";F;1997/01/01
-"NCF30";"Deleted 2012/12/31-Perkutan eller sluten partiell excision av brosk i armbågsled";"WZZ998";F;1997/01/01
+"NCF30";"Deleted 2012/12/31 - Perkutan eller sluten partiell excision av brosk i armbågsled";"WZZ998";F;1997/01/01
 "NCF31";"Artroskopisk eller endoskopisk partiell excision av brosk i armbågsled";"NCSF31";F;1997/01/01
 "NCF32";"Öppen partiell excision av ledbrosk i armbågsled";"NCSF32";F;1997/01/01
 "NCF90";"Annan perkutan eller sluten operation på ledhinnor eller ledytor i armbågsled";"WZZ999";F;1997/01/01
@@ -5665,10 +5692,10 @@
 "NCH40";"Perkutan eller sluten extraktion av främmande eller fri kropp i armbågsled";"NCSH40";F;1997/01/01
 "NCH41";"Artroskopisk eller endoskopisk extraktion av främmande eller fri kropp i armbågsled";"NCSH41";F;1997/01/01
 "NCH42";"Öppen extraktion av främmande eller fri kropp i armbågsled";"NCSH42";F;1997/01/01
-"NCH50";"Deleted 2012/12/31-Perkutan eller sluten excision av intraartikulär exostos eller osteofyt i armbågsled";"WZZ998";F;1997/01/01
+"NCH50";"Deleted 2012/12/31 - Perkutan eller sluten excision av intraartikulär exostos eller osteofyt i armbågsled";"WZZ998";F;1997/01/01
 "NCH51";"Artroskopisk eller endoskopisk excision av intraartikulär exostos eller osteofyt i armbågsled";"NCSH51";F;1997/01/01
 "NCH52";"Öppen excision av intraartikulär exostos eller osteofyt i armbågsled";"NCSH52";F;1997/01/01
-"NCH70";"Deleted 2012/12/31-Perkutan eller sluten operation för recidiverande luxation av armbågsled";"WZZ998";F;1997/01/01
+"NCH70";"Deleted 2012/12/31 - Perkutan eller sluten operation för recidiverande luxation av armbågsled";"WZZ998";F;1997/01/01
 "NCH71";"Artroskopisk eller endoskopisk operation för recidiverande luxation av armbågsled";"NCSH71";F;1997/01/01
 "NCH72";"Öppen operation för recidiverande luxation av armbågsled";"NCSH72";F;1997/01/01
 "NCH90";"Annan perkutan eller sluten operation på armbågsled";"NCSH90";F;1997/01/01
@@ -5793,34 +5820,34 @@
 "NDE20";"Perkutan eller sluten sutur eller reinsertion av ligament i handens leder";"WZZ998";F;1997/01/01
 "NDE21";"Artroskopisk eller endoskopisk sutur eller reinsertion av ligament i handens leder";"NDSE21";F;1997/01/01
 "NDE22";"Öppen sutur eller reinsertion av ligament i handens leder";"NDSE20";F;1997/01/01
-"NDE40";"Deleted 2012/12/31-Perkutan eller sluten rekonstruktion av ligament i handens leder utan främmande material";"WZZ998";F;1997/01/01
+"NDE40";"Deleted 2012/12/31 - Perkutan eller sluten rekonstruktion av ligament i handens leder utan främmande material";"WZZ998";F;1997/01/01
 "NDE41";"Artroskopisk eller endoskopisk rekonstruktion av ligament i handens leder utan främmande material";"NDSE30";F;1997/01/01
 "NDE42";"Öppen rekonstruktion av ligament i handens leder utan främmande material";"NDSE30";F;1997/01/01
-"NDE50";"Deleted 2012/12/31-Perkutan eller sluten rekonstruktion av ligament i handens leder med främmande material";"WZZ998";F;1997/01/01
+"NDE50";"Deleted 2012/12/31 - Perkutan eller sluten rekonstruktion av ligament i handens leder med främmande material";"WZZ998";F;1997/01/01
 "NDE51";"Artroskopisk eller endoskopisk rekonstruktion av ligament i handens leder med främmande material";"NDSE99";F;1997/01/01
 "NDE52";"Öppen rekonstruktion av ligament i handens leder med främmande material";"NDSE99";F;1997/01/01
 "NDE90";"Annan perkutan eller sluten operation på ledkapsel eller ledband i hand- eller fingerleder";"WZZ998";F;1997/01/01
 "NDE91";"Annan artroskopisk eller endoskopisk operation på ledkapsel eller ledband i hand- eller fingerleder";"NDSE99";F;1997/01/01
 "NDE92";"Annan öppen operation på ledkapsel eller ledband i hand- eller fingerleder";"NDSE99";F;1997/01/01
-"NDF00";"Deleted 2012/12/31-Perkutan eller sluten total synovektomi i hand- eller fingerled";"WZZ998";F;1997/01/01
+"NDF00";"Deleted 2012/12/31 - Perkutan eller sluten total synovektomi i hand- eller fingerled";"WZZ998";F;1997/01/01
 "NDF01";"Artroskopisk eller endoskopisk total synovektomi i hand- eller fingerled";"NDSF01";F;1997/01/01
 "NDF02";"Öppen total synovektomi i hand- eller fingerled";"NDSF00";F;1997/01/01
-"NDF10";"Deleted 2012/12/31-Perkutan eller sluten partiell synovektomi i hand- eller fingerled";"WZZ998";F;1997/01/01
+"NDF10";"Deleted 2012/12/31 - Perkutan eller sluten partiell synovektomi i hand- eller fingerled";"WZZ998";F;1997/01/01
 "NDF11";"Artroskopisk eller endoskopisk partiell synovektomi i hand- eller fingerled";"NDSF01";F;1997/01/01
 "NDF12";"Öppen partiell synovektomi i hand- eller fingerled";"NDSF00";F;1997/01/01
-"NDF19";"Deleted 2012/12/31-Partiell synovektomi i hand- eller fingerled, ospecificerad";"WZZ998";F;1997/01/01
+"NDF19";"Deleted 2012/12/31 - Partiell synovektomi i hand- eller fingerled, ospecificerad";"NDSF01";F;2007/01/01
 "NDF20";"Fixation av ledytefragment i hand- eller fingerled, perkutan eller sluten";"NDSF12";F;1997/01/01
 "NDF21";"Fixation av ledytefragment i hand- eller fingerled, artroskopisk eller endoskopisk";"NDSF11";F;1997/01/01
 "NDF22";"Fixation av ledytefragment i hand- eller fingerled, öppen";"NDSF10";F;1997/01/01
-"NDF29";"Deleted 2012/12/31-Fixation av ledytefragment i hand- eller fingerled, ospecificerad";"WZZ998";F;1997/01/01
+"NDF29";"Deleted 2012/12/31 - Fixation av ledytefragment i hand- eller fingerled, ospecificerad";"NDSF11";F;2007/01/01
 "NDF30";"Perkutan eller sluten partiell excision av brosk i hand- eller fingerled";"WZZ998";F;1997/01/01
 "NDF31";"Artroskopisk eller endoskopisk partiell excision av brosk i hand- eller fingerled";"NDSF99";F;1997/01/01
 "NDF32";"Öppen partiell excision av ledbrosk i hand- eller fingerled";"NDSF99";F;1997/01/01
-"NDF39";"Deleted 2012/12/31-Partiell excision av brosk i hand- eller fingerled, ospecificerad";"WZZ998";F;1997/01/01
+"NDF39";"Deleted 2012/12/31 - Partiell excision av brosk i hand- eller fingerled, ospecificerad";"NDSF99";F;2007/01/01
 "NDF90";"Annan perkutan eller sluten operation på ledhinnor eller ledytor i hand- eller fingerled";"WZZ999";F;1997/01/01
 "NDF91";"Annan artroskopisk eller endoskopisk operation på ledhinnor eller ledytor i hand- eller fingerled";"NDSF99";F;1997/01/01
 "NDF92";"Annan öppen operation på ledhinnor eller ledytor i hand- eller fingerled";"NDSF99";F;1997/01/01
-"NDF99";"Deleted 2012/12/31-Annan operation på ledhinnor eller ledytor i hand- eller fingerled, ospecificerad";"NDSF99";F;1997/01/01
+"NDF99";"Deleted 2012/12/31 - Annan operation på ledhinnor eller ledytor i hand- eller fingerled, ospecificerad";"NDSF99";F;1997/01/01
 "NDG00";"Excisionsartroplastik i hand- eller fingerled, radiokarpalled";"NDSG00";F;1999/01/01
 "NDG01";"Excisionsartroplastik i hand- eller fingerled, interkarpalled";"NDSG00";F;1999/01/01
 "NDG02";"Excisionsartroplastik i hand- eller fingerled, första karpometakarpalled";"NDSG30";F;1999/01/01
@@ -5890,13 +5917,13 @@
 "NDH40";"Perkutan eller sluten extraktion av främmande eller fri kropp i hand- eller fingerled";"NDXA05";F;1997/01/01
 "NDH41";"Artroskopisk eller endoskopisk extraktion av främmande eller fri kropp i hand- eller fingerled";"NDSH99";F;1997/01/01
 "NDH42";"Öppen extraktion av främmande eller fri kropp i hand- eller fingerled";"NDSH99";F;1997/01/01
-"NDH50";"Deleted 2012/12/31-Perkutan eller sluten excision av intraartikulär exostos eller osteofyt i hand- eller fingerled";"WZZ998";F;1997/01/01
+"NDH50";"Deleted 2012/12/31 - Perkutan eller sluten excision av intraartikulär exostos eller osteofyt i hand- eller fingerled";"WZZ998";F;1997/01/01
 "NDH51";"Artroskopisk eller endoskopisk excision av intraartikulär exostos eller osteofyt i hand- eller fingerled";"NDSH99";F;1997/01/01
 "NDH52";"Öppen excision av intraartikulär exostos eller osteofyt i hand- eller fingerled";"NDSH99";F;1997/01/01
-"NDH70";"Deleted 2012/12/31-Perkutan eller sluten operation för recidiverande luxation av hand- eller fingerled";"WZZ998";F;1997/01/01
+"NDH70";"Deleted 2012/12/31 - Perkutan eller sluten operation för recidiverande luxation av hand- eller fingerled";"WZZ998";F;1997/01/01
 "NDH71";"Artroskopisk eller endoskopisk operation för recidiverande luxation av hand- eller fingerled";"NDSH99";F;1997/01/01
 "NDH72";"Öppen operation för recidiverande luxation av hand- eller fingerled";"NDSH99";F;1997/01/01
-"NDH90";"Deleted 2012/12/31-Annan perkutan eller sluten operation på handled eller hand";"WZZ998";F;1997/01/01
+"NDH90";"Deleted 2012/12/31 - Annan perkutan eller sluten operation på handled eller hand";"WZZ998";F;1997/01/01
 "NDH91";"Annan artroskopisk eller endoskopisk operation på handled eller hand";"NDSH99";F;1997/01/01
 "NDH92";"Annan öppen operation på handled eller hand";"NDSH99";F;1997/01/01
 "NDJ09";"Sluten reposition av fraktur i handled eller hand";"NDXJ00";F;1997/01/01
@@ -5993,10 +6020,10 @@
 "NDW79";"Reoperation för ytlig blödning i handled eller hand";"NDSW10";F;1997/01/01
 "NDW89";"Reoperation för djup blödning i handled eller hand";"NDSW10";F;1997/01/01
 "NDW99";"Annan reoperation på handled eller hand";"NDSW99";F;1997/01/01
-"NEA00";"Deleted 2012/12/31-Exploration av mjukdelar i bäckenet, perkutan";"WZZ998";F;2000/01/01
+"NEA00";"Deleted 2012/12/31 - Exploration av mjukdelar i bäckenet, perkutan";"WZZ998";F;2000/01/01
 "NEA01";"Exploration av mjukdelar i bäckenet, artroskopisk";"NESA01";F;2000/01/01
 "NEA02";"Exploration av mjukdelar i bäckenet, öppen";"NESA00";F;2000/01/01
-"NEA10";"Deleted 2012/12/31-Exploration av bäckenled, perkutan";"WZZ998";F;2000/01/01
+"NEA10";"Deleted 2012/12/31 - Exploration av bäckenled, perkutan";"WZZ998";F;2000/01/01
 "NEA11";"Exploration av bäckenled, artroskopisk";"NESA01";F;2000/01/01
 "NEA12";"Exploration av bäckenled, öppen";"NESA12";F;2000/01/01
 "NEA20";"Biopsi av mjukdelar eller led i bäckenet, perkutan";"NEXX00";F;2000/01/01
@@ -6110,20 +6137,20 @@
 "NFC99";"Annan sekundär ledprotesoperation i höftled";"NFSC99";F;1997/01/01
 "NFE91";"Operation på ledkapslar eller ligament i höftled, artroskopisk";"NFSE91";F;2000/01/01
 "NFE92";"Operation på ledkapslar eller ligament i höftled, öppen";"NFSE92";F;2000/01/01
-"NFE99";"Deleted 2012/12/31-Operation på ledkapslar eller ligament i höftled, ospecificerad";"WZZ998";F;2000/01/01
-"NFF00";"Deleted 2012/12/31-Perkutan eller sluten total synovektomi i höftled";"WZZ998";F;1997/01/01
+"NFE99";"Deleted 2012/12/31 - Operation på ledkapslar eller ligament i höftled, ospecificerad";"WZZ998";F;2000/01/01
+"NFF00";"Deleted 2012/12/31 - Perkutan eller sluten total synovektomi i höftled";"WZZ998";F;1997/01/01
 "NFF01";"Artroskopisk eller endoskopisk total synovektomi i höftled";"NFSF01";F;1997/01/01
 "NFF02";"Öppen total synovektomi i höftled";"NFSF02";F;1997/01/01
-"NFF10";"Deleted 2012/12/31-Perkutan eller sluten partiell synovektomi i höftled";"WZZ998";F;1997/01/01
+"NFF10";"Deleted 2012/12/31 - Perkutan eller sluten partiell synovektomi i höftled";"WZZ998";F;1997/01/01
 "NFF11";"Artroskopisk eller endoskopisk partiell synovektomi i höftled";"NFSF11";F;1997/01/01
 "NFF12";"Öppen partiell synovektomi i höftled";"NFSF12";F;1997/01/01
 "NFF20";"Fixation av ledytefragment i höftled, perkutan eller sluten";"NFSF23";F;1997/01/01
 "NFF21";"Fixation av ledytefragment i höftled, artroskopisk eller endoskopisk";"NFSF21";F;1997/01/01
 "NFF22";"Fixation av ledytefragment i höftled, öppen";"NFSF22";F;1997/01/01
-"NFF30";"Deleted 2012/12/31-Perkutan eller sluten partiell excision av ledbrosk i höftled";"WZZ998";F;1997/01/01
+"NFF30";"Deleted 2012/12/31 - Perkutan eller sluten partiell excision av ledbrosk i höftled";"WZZ998";F;1997/01/01
 "NFF31";"Artroskopisk eller endoskopisk partiell excision av ledbrosk i höftled";"NFSF31";F;1997/01/01
 "NFF32";"Öppen partiell excision av ledbrosk i höftled";"NFSF32";F;1997/01/01
-"NFF90";"Deleted 2012/12/31-Annan perkutan eller sluten operation på ledhinnor eller ledytor i höftled";"WZZ998";F;1997/01/01
+"NFF90";"Deleted 2012/12/31 - Annan perkutan eller sluten operation på ledhinnor eller ledytor i höftled";"WZZ998";F;1997/01/01
 "NFF91";"Annan artroskopisk eller endoskopisk operation på ledhinnor eller ledytor i höftled";"NFSF91";F;1997/01/01
 "NFF92";"Annan operation på ledhinnor eller ledytor i höftled";"NFSF92";F;1997/01/01
 "NFG09";"Excisionsartroplastik i höftled";"NFSG09";F;1997/01/01
@@ -6145,7 +6172,7 @@
 "NFH40";"Perkutan eller sluten extraktion av främmande eller fri kropp i höftled";"NFSH40";F;1997/01/01
 "NFH41";"Artroskopisk eller endoskopisk extraktion av främmande eller fri kropp i höftled";"NFSH41";F;1997/01/01
 "NFH42";"Öppen extraktion av främmande eller fri kropp i höftled";"NFSH42";F;1997/01/01
-"NFH50";"Deleted 2012/12/31-Perkutan eller sluten excision av intraartikulär exostos eller osteofyt i höftled";"WZZ998";F;1997/01/01
+"NFH50";"Deleted 2012/12/31 - Perkutan eller sluten excision av intraartikulär exostos eller osteofyt i höftled";"WZZ998";F;1997/01/01
 "NFH51";"Artroskopisk eller endoskopisk excision av intraartikulär exostos eller osteofyt i höftled";"NFSH51";F;1997/01/01
 "NFH52";"Öppen excision av intraartikulär exostos eller osteofyt i höftled";"NFSH52";F;1997/01/01
 "NFH70";"Perkutan eller sluten operation för recidiverande luxation av höftled";"WZZ998";F;1997/01/01
@@ -6269,7 +6296,7 @@
 "NGC53";"Sekundär patellofemoral protes";"NGSC10";F;1997/01/01
 "NGC59";"Sekundär patellaprotes";"NGSC10";F;1997/01/01
 "NGC99";"Annan sekundär ledprotesoperation i knäled";"NGSC99";F;1997/01/01
-"NGD00";"Deleted 2012/12/31-Perkutan eller sluten total excision av menisk i knäled";"WZZ998";F;1997/01/01
+"NGD00";"Deleted 2012/12/31 - Perkutan eller sluten total excision av menisk i knäled";"WZZ998";F;1997/01/01
 "NGD01";"Artroskopisk eller endoskopisk total excision av menisk i knäled";"NGSD01";F;1997/01/01
 "NGD02";"Öppen total excision av menisk i knäled";"NGSD02";F;1997/01/01
 "NGD10";"Perkutan eller sluten partiell excision av menisk i knäled";"WZZ998";F;1997/01/01
@@ -6288,28 +6315,28 @@
 "NGE10";"Perkutan eller sluten transcision eller excision av ligament i knäled";"WZZ998";F;1997/01/01
 "NGE11";"Artroskopisk eller endoskopisk transcision eller excision av ligament i knäled";"NGSE11";F;1997/01/01
 "NGE12";"Öppen transcision eller excision av ligament i knäled";"NGSE12";F;1997/01/01
-"NGE19";"Deleted 2012/12/31-Transcision eller excision av ligament i knäled, ospecificerad";"WZZ998";F;1997/01/01
+"NGE19";"Deleted 2012/12/31 - Transcision eller excision av ligament i knäled, ospecificerad";"WZZ998";F;1997/01/01
 "NGE20";"Perkutan eller sluten sutur eller replantation av ligament i knäled";"WZZ998";F;1997/01/01
 "NGE21";"Artroskopisk eller endoskopisk sutur eller replantation av ligament i knäled";"NGSE21";F;1997/01/01
 "NGE22";"Öppen sutur eller replantation av ligament i knäled";"NGSE22";F;1997/01/01
-"NGE29";"Deleted 2012/12/31-Sutur eller replantation av ligament i knäled, ospecificerad";"WZZ998";F;1997/01/01
-"NGE30";"Deleted 2012/12/31-Perkutan eller sluten transposition av ligament i knäled";"WZZ998";F;1997/01/01
+"NGE29";"Deleted 2012/12/31 - Sutur eller replantation av ligament i knäled, ospecificerad";"WZZ998";F;1997/01/01
+"NGE30";"Deleted 2012/12/31 - Perkutan eller sluten transposition av ligament i knäled";"WZZ998";F;1997/01/01
 "NGE31";"Artroskopisk eller endoskopisk transposition av ligament i knäled";"NGSE31";F;1997/01/01
 "NGE32";"Öppen transposition av ligament i knäled";"NGSE32";F;1997/01/01
 "NGE39";"Transposition av ligament i knäled, ospecificerad";"WZZ998";F;1997/01/01
-"NGE40";"Deleted 2012/12/31-Perkutan eller sluten rekonstruktion av ligament i knäled utan främmande material";"WZZ998";F;1997/01/01
+"NGE40";"Deleted 2012/12/31 - Perkutan eller sluten rekonstruktion av ligament i knäled utan främmande material";"WZZ998";F;1997/01/01
 "NGE41";"Artroskopisk eller endoskopisk rekonstruktion av ligament i knäled utan främmande material";"NGSE41";F;1997/01/01
 "NGE42";"Öppen rekonstruktion av ligament i knäled utan främmande material";"NGSE42";F;1997/01/01
 "NGE49";"Rekonstruktion av ligament i knäled utan främmande material, ospecificerad";"WZZ998";F;1997/01/01
-"NGE50";"Deleted 2012/12/31-Perkutan eller sluten rekonstruktion av ligament i knäled med främmande material";"WZZ998";F;1997/01/01
+"NGE50";"Deleted 2012/12/31 - Perkutan eller sluten rekonstruktion av ligament i knäled med främmande material";"WZZ998";F;1997/01/01
 "NGE51";"Artroskopisk eller endoskopisk rekonstruktion av ligament i knäled med främmande material";"NGSE51";F;1997/01/01
 "NGE52";"Öppen rekonstruktion av ligament i knäled med främmande material";"NGSE52";F;1997/01/01
-"NGE59";"Deleted 2012/12/31-Rekonstruktion av ligament i knäled med främmande material, ospecificerad";"WZZ998";F;1997/01/01
+"NGE59";"Deleted 2012/12/31 - Rekonstruktion av ligament i knäled med främmande material, ospecificerad";"WZZ998";F;1997/01/01
 "NGE90";"Annan perkutan eller sluten operation på ledkapsel eller ligament i knäled";"WZZ999";F;1997/01/01
 "NGE91";"Annan artroskopisk eller endoskopisk operation på ledkapsel eller ligament i knäled";"NGSE91";F;1997/01/01
 "NGE92";"Annan öppen operation på ledkapsel eller ligament i knäled";"NGSE92";F;1997/01/01
 "NGE99";"Annan operation på ledkapsel eller ligament i knäled, ospecificerad";"WZZ998";F;1997/01/01
-"NGF00";"Deleted 2012/12/31-Perkutan eller sluten total synovektomi i knäled";"WZZ998";F;1997/01/01
+"NGF00";"Deleted 2012/12/31 - Perkutan eller sluten total synovektomi i knäled";"WZZ998";F;1997/01/01
 "NGF01";"Artroskopisk eller endoskopisk total synovektomi i knäled";"NGSF01";F;1997/01/01
 "NGF02";"Öppen total synovektomi i knäled";"NGSF02";F;1997/01/01
 "NGF10";"Perkutan eller sluten partiell synovektomi i knäled";"WZZ998";F;1997/01/01
@@ -6321,7 +6348,7 @@
 "NGF30";"Perkutan eller sluten partiell excision av ledbrosk i knäled";"WZZ998";F;1997/01/01
 "NGF31";"Artroskopisk eller endoskopisk partiell excision av ledbrosk i knäled";"NGSF31";F;1997/01/01
 "NGF32";"Öppen partiell excision av ledbrosk i knäled";"NGSF32";F;1997/01/01
-"NGF90";"Deleted 2012/12/31-Annan perkutan eller sluten operation på ledhinnor eller ledytor i knäled";"WZZ998";F;1997/01/01
+"NGF90";"Deleted 2012/12/31 - Annan perkutan eller sluten operation på ledhinnor eller ledytor i knäled";"WZZ998";F;1997/01/01
 "NGF91";"Annan artroskopisk eller endoskopisk operation på ledhinnor eller ledytor i knäled";"NGSF91";F;1997/01/01
 "NGF92";"Annan öppen operation på ledhinnor eller ledytor i knäled";"NGSF92";F;1997/01/01
 "NGG09";"Excisionsartroplastik i knäled";"NGSG09";F;1997/01/01
@@ -6346,10 +6373,10 @@
 "NGH40";"Perkutan eller sluten extraktion av främmande eller fri kropp i knäled";"NGSH40";F;1997/01/01
 "NGH41";"Artroskopisk eller endoskopisk extraktion av främmande eller fri kropp i knäled";"NGSH41";F;1997/01/01
 "NGH42";"Öppen extraktion av främmande eller fri kropp i knäled";"NGSH42";F;1997/01/01
-"NGH50";"Deleted 2012/12/31-Perkutan eller sluten excision av intraartikulär exostos eller osteofyt i knäled";"WZZ998";F;1997/01/01
+"NGH50";"Deleted 2012/12/31 - Perkutan eller sluten excision av intraartikulär exostos eller osteofyt i knäled";"WZZ998";F;1997/01/01
 "NGH51";"Artroskopisk eller endoskopisk excision av intraartikulär exostos eller osteofyt i knäled";"NGSH51";F;1997/01/01
 "NGH52";"Öppen excision av intraartikulär exostos eller osteofyt i knäled";"NGSH52";F;1997/01/01
-"NGH70";"Deleted 2012/12/31-Perkutan eller sluten operation för recidiverande luxation i knäled";"WZZ998";F;1997/01/01
+"NGH70";"Deleted 2012/12/31 - Perkutan eller sluten operation för recidiverande luxation i knäled";"WZZ998";F;1997/01/01
 "NGH71";"Artroskopisk eller endoskopisk operation för recidiverande luxation i knäled";"NGSH71";F;1997/01/01
 "NGH72";"Öppen operation för recidiverande luxation i knäled";"NGSH72";F;1997/01/01
 "NGH90";"Annan perkutan eller sluten operation på knäled";"NGSH90";F;1997/01/01
@@ -6472,13 +6499,13 @@
 "NHE00";"Perkutan eller sluten incision i eller sutur av ledkapsel av fotled eller fot";"WZZ998";F;1997/01/01
 "NHE01";"Artroskopisk eller endoskopisk incision i eller sutur av ledkapsel av fotled eller fot";"NHSE09";F;1997/01/01
 "NHE02";"Öppen incision i eller sutur av ledkapsel av fotled eller fot";"NHSE09";F;1997/01/01
-"NHE10";"Deleted 2012/12/31-Perkutan eller sluten transcision eller excision av ligament i fotled eller fot";"WZZ998";F;1997/01/01
+"NHE10";"Deleted 2012/12/31 - Perkutan eller sluten transcision eller excision av ligament i fotled eller fot";"WZZ998";F;1997/01/01
 "NHE11";"Artroskopisk eller endoskopisk transcision eller excision av ligament i fotled eller fot";"NHSE19";F;1997/01/01
 "NHE12";"Öppen transcision eller excision av ligament i fotled eller fot";"NHSE19";F;1997/01/01
 "NHE20";"Perkutan eller sluten sutur eller replantation av ligament i fotled eller fot";"WZZ998";F;1997/01/01
 "NHE21";"Artroskopisk eller endoskopisk sutur eller replantation av ligament i fotled eller fot";"NHSE29";F;1997/01/01
 "NHE22";"Öppen sutur eller replantation av ligament i fotled eller fot";"NHSE29";F;1997/01/01
-"NHE30";"Deleted 2012/12/31-Perkutan eller sluten transposition av ligament i fotled eller fot";"WZZ998";F;1997/01/01
+"NHE30";"Deleted 2012/12/31 - Perkutan eller sluten transposition av ligament i fotled eller fot";"WZZ998";F;1997/01/01
 "NHE31";"Artroskopisk eller endoskopisk transposition av ligament i fotled eller fot";"NHSE39";F;1997/01/01
 "NHE32";"Öppen transposition av ligament i fotled eller fot";"NHSE39";F;1997/01/01
 "NHE40";"Perkutan eller sluten rekonstruktion av fotled eller fot utan främmande material";"WZZ998";F;1997/01/01
@@ -6490,7 +6517,7 @@
 "NHE90";"Annan perkutan eller sluten operation på ledkapsel eller ligament i fotled eller fot";"WZZ998";F;1997/01/01
 "NHE91";"Annan artroskopisk eller endoskopisk operation på ledkapsel eller ligament i fotled eller fot";"NHSE99";F;1997/01/01
 "NHE92";"Annan öppen operation på ledkapsel eller ligament i fotled eller fot";"NHSE99";F;1997/01/01
-"NHF00";"Deleted 2012/12/31-Perkutan eller sluten total synovektomi i fotled eller fot";"WZZ998";F;1997/01/01
+"NHF00";"Deleted 2012/12/31 - Perkutan eller sluten total synovektomi i fotled eller fot";"WZZ998";F;1997/01/01
 "NHF01";"Artroskopisk eller endoskopisk total synovektomi i fotled eller fot";"NHSF01";F;1997/01/01
 "NHF02";"Öppen total synovektomi i fotled eller fot";"NHSF00";F;1997/01/01
 "NHF10";"Perkutan eller sluten partiell synovektomi i fotled eller fot";"WZZ998";F;1997/01/01
@@ -6502,7 +6529,7 @@
 "NHF30";"Perkutan eller sluten partiell excision av ledbrosk i fotled eller fot";"NHSF30";F;1997/01/01
 "NHF31";"Partiell excision av ledbrosk i fotled eller fot";"NHSF31";F;1997/01/01
 "NHF32";"Öppen partiell excision av ledbrosk i fotled eller fot";"NHSF32";F;1997/01/01
-"NHF90";"Deleted 2012/12/31-Annan perkutan eller sluten operation på ledhinnor eller ledytor i fotled eller fot";"WZZ998";F;1997/01/01
+"NHF90";"Deleted 2012/12/31 - Annan perkutan eller sluten operation på ledhinnor eller ledytor i fotled eller fot";"WZZ998";F;1997/01/01
 "NHF91";"Annan artroskopisk eller endoskopisk operation på ledhinnor eller ledytor i fotled eller fot";"NHSF91";F;1997/01/01
 "NHF92";"Annan öppen operation på ledhinnor eller ledytor i fotled eller fot";"NHSF92";F;1997/01/01
 "NHG00";"Excisionsartroplastik i fotled eller fot, talokruralled";"NHSG00";F;1999/01/01
@@ -6590,10 +6617,10 @@
 "NHH40";"Perkutan eller sluten extraktion av främmande eller fri kropp i fotled eller fot";"WZZ998";F;1997/01/01
 "NHH41";"Artroskopisk eller endoskopisk extraktion av främmande eller fri kropp i fotled eller fot";"NHSH41";F;1997/01/01
 "NHH42";"Öppen extraktion av främmande eller fri kropp i fotled eller fot";"NHSH42";F;1997/01/01
-"NHH50";"Deleted 2012/12/31-Perkutan eller sluten excision av intraartikulär exostos eller osteofyt i fotled eller fot";"WZZ998";F;1997/01/01
+"NHH50";"Deleted 2012/12/31 - Perkutan eller sluten excision av intraartikulär exostos eller osteofyt i fotled eller fot";"WZZ998";F;1997/01/01
 "NHH51";"Artroskopisk eller endoskopisk excision av intraartikulär exostos eller osteofyt i fotled eller fot";"NHSH51";F;1997/01/01
 "NHH52";"Öppen excision av intraartikulär exostos eller osteofyt i fotled eller fot";"NHSH52";F;1997/01/01
-"NHH70";"Deleted 2012/12/31-Perkutan eller sluten operation för recidiverande luxation i fotens leder";"WZZ998";F;1997/01/01
+"NHH70";"Deleted 2012/12/31 - Perkutan eller sluten operation för recidiverande luxation i fotens leder";"WZZ998";F;1997/01/01
 "NHH71";"Artroskopisk eller endoskopisk operation för recidiverande luxation i fotens leder";"NHSH71";F;1997/01/01
 "NHH72";"Öppen operation för recidiverande luxation i fotens leder";"NHSH72";F;1997/01/01
 "NHH90";"Annan perkutan eller sluten operation på fotled eller fot";"NHSH90";F;1997/01/01
@@ -6778,39 +6805,39 @@
 "NXW79";"Reoperation för ytlig blödning i annan angiven region av muskuloskeletala systemet";"NXSW79";F;2009/01/01
 "NXW89";"Reoperation för djup blödning i annan angiven region av muskuloskeletala systemet";"NXSW89";F;2009/01/01
 "NXW99";"Annan reoperation på annan angiven region av muskuloskeletala systemet";"NXSW99";F;2009/01/01
-"P01AA";"Hydroxyquinoline derivatives";"P01AA";F;2013/09/25
-"P01AB";"Nitroimidazole derivatives";"P01AB";F;2013/09/25
-"P01AC";"Dichloroacetamide derivatives";"P01AC";F;2013/09/25
-"P01AR";"Arsenic compounds";"P01AR";F;2013/09/25
-"P01AX";"Other agents against amoebiasis and other protozoal diseases";"P01AX";F;2013/09/25
-"P01BA";"Aminoquinolines";"P01BA";F;2013/09/25
-"P01BB";"Biguanides";"P01BB";F;2013/09/25
-"P01BC";"Methanolquinolines";"P01BC";F;2013/09/25
-"P01BD";"Diaminopyrimidines";"P01BD";F;2013/09/25
-"P01BE";"Artemisinin and derivatives";"P01BE";F;2013/09/25
-"P01BX";"Other antimalarials";"P01BX";F;2013/09/25
-"P01CA";"Nitroimidazole derivatives";"P01CA";F;2013/09/25
-"P01CB";"Antimony compounds";"P01CB";F;2013/09/25
-"P01CC";"Nitrofuran derivatives";"P01CC";F;2013/09/25
-"P01CD";"Arsenic compounds";"P01CD";F;2013/09/25
-"P01CX";"Other agents against leishmaniasis and trypanosomiasis";"P01CX";F;2013/09/25
-"P02BA";"Quinoline derivatives and related substances";"P02BA";F;2013/09/25
-"P02BB";"Organophosphorous compounds";"P02BB";F;2013/09/25
-"P02BX";"Other antitrematodal agents";"P02BX";F;2013/09/25
-"P02CA";"Benzimidazole derivatives";"P02CA";F;2013/09/25
-"P02CB";"Piperazine and derivatives";"P02CB";F;2013/09/25
-"P02CC";"Tetrahydropyrimidine derivatives";"P02CC";F;2013/09/25
-"P02CE";"Imidazothiazole derivatives";"P02CE";F;2013/09/25
-"P02CF";"Avermectines";"P02CF";F;2013/09/25
-"P02CX";"Other antinematodals";"P02CX";F;2013/09/25
-"P02DA";"Salicylic acid derivatives";"P02DA";F;2013/09/25
-"P02DX";"Other anticestodals";"P02DX";F;2013/09/25
-"P03AA";"Sulfur containing products";"P03AA";F;2013/09/25
-"P03AB";"Chlorine containing products";"P03AB";F;2013/09/25
-"P03AC";"Pyrethrines, incl. synthetic compounds";"P03AC";F;2013/09/25
-"P03AX";"Other ectoparasiticides, incl. scabicides";"P03AX";F;2013/09/25
-"P03BA";"Pyrethrines";"P03BA";F;2013/09/25
-"P03BX";"Other insecticides and repellents";"P03BX";F;2013/09/25
+"P01AA";"Hydroxyquinoline derivatives";"P01AA";F;2013/11/12
+"P01AB";"Nitroimidazole derivatives";"P01AB";F;2013/11/12
+"P01AC";"Dichloroacetamide derivatives";"P01AC";F;2013/11/12
+"P01AR";"Arsenic compounds";"P01AR";F;2013/11/12
+"P01AX";"Other agents against amoebiasis and other protozoal diseases";"P01AX";F;2013/11/12
+"P01BA";"Aminoquinolines";"P01BA";F;2013/11/12
+"P01BB";"Biguanides";"P01BB";F;2013/11/12
+"P01BC";"Methanolquinolines";"P01BC";F;2013/11/12
+"P01BD";"Diaminopyrimidines";"P01BD";F;2013/11/12
+"P01BE";"Artemisinin and derivatives";"P01BE";F;2013/11/12
+"P01BX";"Other antimalarials";"P01BX";F;2013/11/12
+"P01CA";"Nitroimidazole derivatives";"P01CA";F;2013/11/12
+"P01CB";"Antimony compounds";"P01CB";F;2013/11/12
+"P01CC";"Nitrofuran derivatives";"P01CC";F;2013/11/12
+"P01CD";"Arsenic compounds";"P01CD";F;2013/11/12
+"P01CX";"Other agents against leishmaniasis and trypanosomiasis";"P01CX";F;2013/11/12
+"P02BA";"Quinoline derivatives and related substances";"P02BA";F;2013/11/12
+"P02BB";"Organophosphorous compounds";"P02BB";F;2013/11/12
+"P02BX";"Other antitrematodal agents";"P02BX";F;2013/11/12
+"P02CA";"Benzimidazole derivatives";"P02CA";F;2013/11/12
+"P02CB";"Piperazine and derivatives";"P02CB";F;2013/11/12
+"P02CC";"Tetrahydropyrimidine derivatives";"P02CC";F;2013/11/12
+"P02CE";"Imidazothiazole derivatives";"P02CE";F;2013/11/12
+"P02CF";"Avermectines";"P02CF";F;2013/11/12
+"P02CX";"Other antinematodals";"P02CX";F;2013/11/12
+"P02DA";"Salicylic acid derivatives";"P02DA";F;2013/11/12
+"P02DX";"Other anticestodals";"P02DX";F;2013/11/12
+"P03AA";"Sulfur containing products";"P03AA";F;2013/11/12
+"P03AB";"Chlorine containing products";"P03AB";F;2013/11/12
+"P03AC";"Pyrethrines, incl. synthetic compounds";"P03AC";F;2013/11/12
+"P03AX";"Other ectoparasiticides, incl. scabicides";"P03AX";F;2013/11/12
+"P03BA";"Pyrethrines";"P03BA";F;2013/11/12
+"P03BX";"Other insecticides and repellents";"P03BX";F;2013/11/12
 "PA000";"Utredning av psykiska funktioner";"AAF899";F;2009/01/01
 "PA001";"Bedömning av medvetandefunktioner";"AAF899";F;2009/01/01
 "PA002";"Bedömning av orienteringsfunktioner";"AAF899";F;2009/01/01
@@ -7464,14 +7491,14 @@
 "QA013";"Apraxiträning";"R3R130";F;2009/01/01
 "QA014";"Kroppsmedvetandeträning";"R3R120";F;2009/01/01
 "QA015";"Självbildsträning";"R3R110";F;2009/01/01
-"QAA00";"Deleted 2011/12/05-Punktion i huvud-halsregion Inkl. evakuering av hematom, serom etc.";"QASA00";F;1997/01/01
+"QAA00";"Deleted 2011/12/05 - Punktion i huvud-halsregion Inkl. evakuering av hematom, serom etc.";"QASA00";F;1997/01/01
 "QAA10";"Incision i huvud-halsregion";"QASA10";F;1997/01/01
 "QAA20";"Dermabrasion i huvud-halsregion";"QASA20";F;1997/01/01
 "QAA25";"Destruktion av hudförändring i huvud-halsregion";"QASA99";F;2012/01/01
-"QAA30";"Deleted 2011/12/05-Koagulation av hudförändring i huvud-halsregion";"QASA30";F;1997/01/01
-"QAA40";"Deleted 2011/12/05-Laserbehandling eller fotokoagulation av hudförändring i huvud-halsregion";"QASA40";F;1997/01/01
-"QAA50";"Deleted 2011/12/05-Kryoterapi av hudförändring i huvud-halsregion";"QASA50";F;1997/01/01
-"QAA99";"Deleted 2011/12/05-Annan punktion, incision eller destruktion vid hudförändring i huvud-halsregion";"QASA99";F;1997/01/01
+"QAA30";"Deleted 2011/12/05 - Koagulation av hudförändring i huvud-halsregion";"QASA30";F;1997/01/01
+"QAA40";"Deleted 2011/12/05 - Laserbehandling eller fotokoagulation av hudförändring i huvud-halsregion";"QASA40";F;1997/01/01
+"QAA50";"Deleted 2011/12/05 - Kryoterapi av hudförändring i huvud-halsregion";"QASA50";F;1997/01/01
+"QAA99";"Deleted 2011/12/05 - Annan punktion, incision eller destruktion vid hudförändring i huvud-halsregion";"QASA99";F;1997/01/01
 "QAB00";"Hudsutur i huvud-halsregion";"QASB00";F;1997/01/01
 "QAB05";"Sårrevision i huvud-halsregion";"QASB05";F;1999/01/01
 "QAB10";"Omläggning eller förbandsbyte i huvud-halsregion";"QASB10";F;1997/01/01
@@ -7510,14 +7537,14 @@
 "QB007";"Massage";"R4R110";F;2009/01/01
 "QB008";"Smärtreducerande behandling";"ACXX99";F;2009/01/01
 "QB011";"Fysikalisk behandling";"R4R110";F;2009/01/01
-"QBA00";"Deleted 2011/12/05-Punktion på bål";"QBSA00";F;1997/01/01
+"QBA00";"Deleted 2011/12/05 - Punktion på bål";"QBSA00";F;1997/01/01
 "QBA10";"Incision i bål";"QBSA10";F;1997/01/01
 "QBA20";"Dermabrasion på bål";"QBSA20";F;1997/01/01
 "QBA25";"Destruktion av hudförändring på bålen";"QBSA99";F;2012/01/01
-"QBA30";"Deleted 2011/12/05-Koagulation av hudförändring på bål";"QBSA30";F;1997/01/01
-"QBA40";"Deleted 2011/12/05-Laserbehandling eller fotokoagulation av hudförändring på bål";"QBSA40";F;1997/01/01
-"QBA50";"Deleted 2011/12/05-Kryoterapi av hudförändring på bål";"QBSA50";F;1997/01/01
-"QBA99";"Deleted 2011/12/05-Annan punktion, incision eller destruktion vid hudförändring på bål";"QBSA99";F;1997/01/01
+"QBA30";"Deleted 2011/12/05 - Koagulation av hudförändring på bål";"QBSA30";F;1997/01/01
+"QBA40";"Deleted 2011/12/05 - Laserbehandling eller fotokoagulation av hudförändring på bål";"QBSA40";F;1997/01/01
+"QBA50";"Deleted 2011/12/05 - Kryoterapi av hudförändring på bål";"QBSA50";F;1997/01/01
+"QBA99";"Deleted 2011/12/05 - Annan punktion, incision eller destruktion vid hudförändring på bål";"QBSA99";F;1997/01/01
 "QBB00";"Hudsutur på bål";"QBSB00";F;1997/01/01
 "QBB05";"Sårrevision på bål";"QBSB05";F;1999/01/01
 "QBB10";"Omläggning eller förbandsbyte på bål";"QBSB10";F;1997/01/01
@@ -7546,14 +7573,14 @@
 "QBJ99";"Annan operation av estetiska orsaker på bål";"QBSJ99";F;1997/01/01
 "QC000";"Behandling relaterad till röst- och talfunktioner";"R4R130";F;2009/01/01
 "QC001";"Behandling relaterad till röst- och talfunktioner";"R4R130";F;2009/01/01
-"QCA00";"Deleted 2011/12/05-Punktion, övre extremitet";"QCSA00";F;1997/01/01
+"QCA00";"Deleted 2011/12/05 - Punktion, övre extremitet";"QCSA00";F;1997/01/01
 "QCA10";"Incision, övre extremitet";"QCSA10";F;1997/01/01
 "QCA20";"Dermabrasion, övre extremitet";"QCSA20";F;1997/01/01
 "QCA25";"Destruktion av hudförändring på övre extremitet";"QCSA99";F;2012/01/01
-"QCA30";"Deleted 2011/12/05-Koagulation av hudförändring, övre extremitet";"QCSA30";F;1997/01/01
-"QCA40";"Deleted 2011/12/05-Laserbehandling eller fotokoagulation av hudförändring, övre extremitet";"QCSA40";F;1997/01/01
-"QCA50";"Deleted 2011/12/05-Kryoterapi av hudförändring, övre extremitet";"QCSA50";F;1997/01/01
-"QCA99";"Deleted 2011/12/05-Annan punktion, incision eller destruktion vid hudförändring, övre extremitet";"QCSA99";F;1997/01/01
+"QCA30";"Deleted 2011/12/05 - Koagulation av hudförändring, övre extremitet";"QCSA30";F;1997/01/01
+"QCA40";"Deleted 2011/12/05 - Laserbehandling eller fotokoagulation av hudförändring, övre extremitet";"QCSA40";F;1997/01/01
+"QCA50";"Deleted 2011/12/05 - Kryoterapi av hudförändring, övre extremitet";"QCSA50";F;1997/01/01
+"QCA99";"Deleted 2011/12/05 - Annan punktion, incision eller destruktion vid hudförändring, övre extremitet";"QCSA99";F;1997/01/01
 "QCB00";"Hudsutur, övre extremitet";"QCSB00";F;1997/01/01
 "QCB05";"Sårrevision, övre extremitet";"QCSB05";F;1999/01/01
 "QCB10";"Omläggning eller förbandsbyte, övre extremitet";"QCSB10";F;1997/01/01
@@ -7597,14 +7624,14 @@
 "QD014";"Syrgasbehandling";"WAA721";F;2009/01/01
 "QD015";"Träning av hostfunktion";"R4R110";F;2009/01/01
 "QD016";"Träning av fysisk prestationsförmåga";"R4R110";F;2009/01/01
-"QDA00";"Deleted 2011/12/05-Punktion, nedre extremitet";"QDSA00";F;1997/01/01
+"QDA00";"Deleted 2011/12/05 - Punktion, nedre extremitet";"QDSA00";F;1997/01/01
 "QDA10";"Incision, nedre extremitet";"QDSA10";F;1997/01/01
 "QDA20";"Dermabrasion, nedre extremitet";"QDSA20";F;1997/01/01
 "QDA25";"Destruktion av hudförändring på nedre extremitet";"QDSA99";F;2012/01/01
-"QDA30";"Deleted 2011/12/05-Koagulation av hudförändring, nedre extremitet";"QDSA30";F;1997/01/01
-"QDA40";"Deleted 2011/12/05-Laserbehandling eller fotokoagulation av hudförändring, nedre extremitet";"QDSA40";F;1997/01/01
-"QDA50";"Deleted 2011/12/05-Kryoterapi av hudförändring, nedre extremitet";"QDSA50";F;1997/01/01
-"QDA99";"Deleted 2011/12/05-Annan punktion, incision eller destruktion vid hudförändring, nedre extremitet";"QDSA99";F;1997/01/01
+"QDA30";"Deleted 2011/12/05 - Koagulation av hudförändring, nedre extremitet";"QDSA30";F;1997/01/01
+"QDA40";"Deleted 2011/12/05 - Laserbehandling eller fotokoagulation av hudförändring, nedre extremitet";"QDSA40";F;1997/01/01
+"QDA50";"Deleted 2011/12/05 - Kryoterapi av hudförändring, nedre extremitet";"QDSA50";F;1997/01/01
+"QDA99";"Deleted 2011/12/05 - Annan punktion, incision eller destruktion vid hudförändring, nedre extremitet";"QDSA99";F;1997/01/01
 "QDB00";"Hudsutur, nedre extremitet";"QDSB00";F;1997/01/01
 "QDB05";"Sårrevision, nedre extremitet";"QDSB05";F;1999/01/01
 "QDB10";"Omläggning eller förbandsbyte, nedre extremitet";"QDSB10";F;1997/01/01
@@ -7749,7 +7776,7 @@
 "QS002";"Stöd och/eller träning av fritidssysselsättning";"RTR236";F;2009/01/01
 "QT000";"Anpassning och bearbetning av omgivningsfaktorer";"RTR249";F;2009/01/01
 "QT001";"Riskreducering för immunologisk reaktion";"RNXX90";F;2009/01/01
-"QT002";"Deleted 2013/12/31-Läkemedelsdispensering";"RNXX90";F;2009/01/01
+"QT002";"Deleted 2013/12/31 - Läkemedelsdispensering";"RNXX90";F;2009/01/01
 "QT003";"Anpassning av produkter och teknik i det dagliga livet";"RTR249";F;2009/01/01
 "QT004";"Utprovning och/eller tillverkning av ortos";"RTR271";F;2009/01/01
 "QT005";"Hjälpmedelsförskrivning";"RTR274";F;2009/01/01
@@ -7783,92 +7810,92 @@
 "QWW99";"Annan reoperation på hud";"QWSW99";F;1997/01/01
 "QX001";"Prevention av smittsamma sjukdomar";"ZZZA10";F;2009/01/01
 "QX002";"Minskning av risken för att en individ skadar sig själv";"WSZB20";F;2009/01/01
-"QX003";"Deleted 2013/12/31-Tobaksavvänjning (i)";"WTXX00";F;2009/01/01
+"QX003";"Deleted 2013/12/31 - Tobaksavvänjning (i)";"WTXX00";F;2009/01/01
 "QX004";"Preoperativ förberedelse";"ZYZX82";F;2009/01/01
 "QX005";"Postoperativ övervakning";"ZYZX82";F;2009/01/01
 "QX006";"Vård i livets slutskede";"RNXX90";F;2009/01/01
 "QX007";"Omhändertagande av avliden";"WXYX90";F;2009/01/01
-"QXA10";"Deleted 2012/12/31-Incision v hud, ospecificerad region";"QXSA05";F;2012/01/01
+"QXA10";"Deleted 2012/12/31 - Incision v hud, ospecificerad region";"QXSA05";F;2012/01/01
 "QXA25";"Destruktion av hudförändring, ospecificerad region";"QXSA99";F;2012/01/01
 "QXB05";"Sårrevision, ospecificerad region";"QXSB05";F;2004/01/01
 "QXB10";"Omläggning eller förbandsbyte av större sår, ospecificerad region";"QXSB10";F;2004/01/01
 "QXC00";"Avlägsnande av subkutan främmande kropp, ospecificerad region";"QXSC00";F;2003/01/01
-"R01AA";"Sympathomimetics, plain";"R01AA";F;2013/09/25
-"R01AB";"Sympathomimetics, combinations excl. corticosteroids";"R01AB";F;2013/09/25
-"R01AC";"Antiallergic agents, excl. corticosteroids";"R01AC";F;2013/09/25
-"R01AD";"Corticosteroids";"R01AD";F;2013/09/25
-"R01AX";"Other nasal preparations";"R01AX";F;2013/09/25
-"R01BA";"Sympathomimetics";"R01BA";F;2013/09/25
-"R02AA";"Antiseptics";"R02AA";F;2013/09/25
-"R02AB";"Antibiotics";"R02AB";F;2013/09/25
-"R02AD";"Anesthetics, local";"R02AD";F;2013/09/25
-"R03AA";"Alpha- and beta-adrenoreceptor agonists";"R03AA";F;2013/09/25
-"R03AB";"Non-selective beta-adrenoreceptor agonists";"R03AB";F;2013/09/25
-"R03AC";"Selective beta-2-adrenoreceptor agonists";"R03AC";F;2013/09/25
-"R03AH";"Combinations of adrenergics";"R03AH";F;2013/09/25
-"R03AK";"Adrenergics and other drugs for obstructive airway diseases";"R03AK";F;2013/09/25
-"R03BA";"Glucocorticoids";"R03BA";F;2013/09/25
-"R03BB";"Anticholinergics";"R03BB";F;2013/09/25
-"R03BC";"Antiallergic agents, excl. corticosteroids";"R03BC";F;2013/09/25
-"R03BX";"Other drugs for obstructive airway diseases, inhalants";"R03BX";F;2013/09/25
-"R03CA";"Alpha- and beta-adrenoreceptor agonists";"R03CA";F;2013/09/25
-"R03CB";"Non-selective beta-adrenoreceptor agonists";"R03CB";F;2013/09/25
-"R03CC";"Selective beta-2-adrenoreceptor agonists";"R03CC";F;2013/09/25
-"R03CK";"Adrenergics and other drugs for obstructive airway diseases";"R03CK";F;2013/09/25
-"R03DA";"Xanthines";"R03DA";F;2013/09/25
-"R03DB";"Xanthines and adrenergics";"R03DB";F;2013/09/25
-"R03DC";"Leukotriene receptor antagonists";"R03DC";F;2013/09/25
-"R03DX";"Other systemic drugs for obstructive airway diseases";"R03DX";F;2013/09/25
-"R05CA";"Expectorants";"R05CA";F;2013/09/25
-"R05CB";"Mucolytics";"R05CB";F;2013/09/25
-"R05DA";"Opium alkaloids and derivatives";"R05DA";F;2013/09/25
-"R05DB";"Other cough suppressants";"R05DB";F;2013/09/25
-"R05FA";"Opium derivatives and expectorants";"R05FA";F;2013/09/25
-"R05FB";"Other cough suppressants and expectorants";"R05FB";F;2013/09/25
-"R06AA";"Aminoalkyl ethers";"R06AA";F;2013/09/25
-"R06AB";"Substituted alkylamines";"R06AB";F;2013/09/25
-"R06AC";"Substituted ethylene diamines";"R06AC";F;2013/09/25
-"R06AD";"Phenothiazine derivatives";"R06AD";F;2013/09/25
-"R06AE";"Piperazine derivatives";"R06AE";F;2013/09/25
-"R06AK";"Combinations of antihistamines";"R06AK";F;2013/09/25
-"R06AX";"Other antihistamines for systemic use";"R06AX";F;2013/09/25
-"R07AA";"Lung surfactants";"R07AA";F;2013/09/25
-"R07AB";"Respiratory stimulants";"R07AB";F;2013/09/25
-"R07AX";"Other respiratory system products";"R07AX";F;2013/09/25
-"S01AA";"Antibiotics";"S01AA";F;2013/09/25
-"S01AB";"Sulfonamides";"S01AB";F;2013/09/25
-"S01AD";"Antivirals";"S01AD";F;2013/09/25
-"S01AX";"Other antiinfectives";"S01AX";F;2013/09/25
-"S01BA";"Corticosteroids, plain";"S01BA";F;2013/09/25
-"S01BB";"Corticosteroids and mydriatics in combination";"S01BB";F;2013/09/25
-"S01BC";"Antiinflammatory agents, non-steroids";"S01BC";F;2013/09/25
-"S01CA";"Corticosteroids and antiinfectives in combination";"S01CA";F;2013/09/25
-"S01CB";"Corticosteroids/antiinfectives/mydriatics in combination";"S01CB";F;2013/09/25
-"S01CC";"Antiinflammatory agents, non-steroids and antiinfectives in combination";"S01CC";F;2013/09/25
-"S01EA";"Sympathomimetics in glaucoma therapy";"S01EA";F;2013/09/25
-"S01EB";"Parasympathomimetics";"S01EB";F;2013/09/25
-"S01EC";"Carbonic anhydrase inhibitors";"S01EC";F;2013/09/25
-"S01ED";"Beta blocking agents";"S01ED";F;2013/09/25
-"S01EE";"Prostaglandin analogues";"S01EE";F;2013/09/25
-"S01EX";"Other antiglaucoma preparations";"S01EX";F;2013/09/25
-"S01FA";"Anticholinergics";"S01FA";F;2013/09/25
-"S01FB";"Sympathomimetics excl. antiglaucoma preparations";"S01FB";F;2013/09/25
-"S01GA";"Sympathomimetics used as decongestants";"S01GA";F;2013/09/25
-"S01GX";"Other antiallergics";"S01GX";F;2013/09/25
-"S01HA";"Local anesthetics";"S01HA";F;2013/09/25
-"S01JA";"Colouring agents";"S01JA";F;2013/09/25
-"S01JX";"Other ophthalmological diagnostic agents";"S01JX";F;2013/09/25
-"S01KA";"Viscoelastic substances";"S01KA";F;2013/09/25
-"S01KX";"Other surgical aids";"S01KX";F;2013/09/25
-"S01XA";"Other ophthalmologicals";"S01XA";F;2013/09/25
-"S02AA";"Antiinfectives";"S02AA";F;2013/09/25
-"S02BA";"Corticosteroids";"S02BA";F;2013/09/25
-"S02CA";"Corticosteroids and antiinfectives in combination";"S02CA";F;2013/09/25
-"S02DA";"Analgesics and anesthetics";"S02DA";F;2013/09/25
-"S02DC";"Indifferent preparations";"S02DC";F;2013/09/25
-"S03AA";"Antiinfectives";"S03AA";F;2013/09/25
-"S03BA";"Corticosteroids";"S03BA";F;2013/09/25
-"S03CA";"Corticosteroids and antiinfectives in combination";"S03CA";F;2013/09/25
+"R01AA";"Sympathomimetics, plain";"R01AA";F;2013/11/12
+"R01AB";"Sympathomimetics, combinations excl. corticosteroids";"R01AB";F;2013/11/12
+"R01AC";"Antiallergic agents, excl. corticosteroids";"R01AC";F;2013/11/12
+"R01AD";"Corticosteroids";"R01AD";F;2013/11/12
+"R01AX";"Other nasal preparations";"R01AX";F;2013/11/12
+"R01BA";"Sympathomimetics";"R01BA";F;2013/11/12
+"R02AA";"Antiseptics";"R02AA";F;2013/11/12
+"R02AB";"Antibiotics";"R02AB";F;2013/11/12
+"R02AD";"Anesthetics, local";"R02AD";F;2013/11/12
+"R03AA";"Alpha- and beta-adrenoreceptor agonists";"R03AA";F;2013/11/12
+"R03AB";"Non-selective beta-adrenoreceptor agonists";"R03AB";F;2013/11/12
+"R03AC";"Selective beta-2-adrenoreceptor agonists";"R03AC";F;2013/11/12
+"R03AH";"Combinations of adrenergics";"R03AH";F;2013/11/12
+"R03AK";"Adrenergics and other drugs for obstructive airway diseases";"R03AK";F;2013/11/12
+"R03BA";"Glucocorticoids";"R03BA";F;2013/11/12
+"R03BB";"Anticholinergics";"R03BB";F;2013/11/12
+"R03BC";"Antiallergic agents, excl. corticosteroids";"R03BC";F;2013/11/12
+"R03BX";"Other drugs for obstructive airway diseases, inhalants";"R03BX";F;2013/11/12
+"R03CA";"Alpha- and beta-adrenoreceptor agonists";"R03CA";F;2013/11/12
+"R03CB";"Non-selective beta-adrenoreceptor agonists";"R03CB";F;2013/11/12
+"R03CC";"Selective beta-2-adrenoreceptor agonists";"R03CC";F;2013/11/12
+"R03CK";"Adrenergics and other drugs for obstructive airway diseases";"R03CK";F;2013/11/12
+"R03DA";"Xanthines";"R03DA";F;2013/11/12
+"R03DB";"Xanthines and adrenergics";"R03DB";F;2013/11/12
+"R03DC";"Leukotriene receptor antagonists";"R03DC";F;2013/11/12
+"R03DX";"Other systemic drugs for obstructive airway diseases";"R03DX";F;2013/11/12
+"R05CA";"Expectorants";"R05CA";F;2013/11/12
+"R05CB";"Mucolytics";"R05CB";F;2013/11/12
+"R05DA";"Opium alkaloids and derivatives";"R05DA";F;2013/11/12
+"R05DB";"Other cough suppressants";"R05DB";F;2013/11/12
+"R05FA";"Opium derivatives and expectorants";"R05FA";F;2013/11/12
+"R05FB";"Other cough suppressants and expectorants";"R05FB";F;2013/11/12
+"R06AA";"Aminoalkyl ethers";"R06AA";F;2013/11/12
+"R06AB";"Substituted alkylamines";"R06AB";F;2013/11/12
+"R06AC";"Substituted ethylene diamines";"R06AC";F;2013/11/12
+"R06AD";"Phenothiazine derivatives";"R06AD";F;2013/11/12
+"R06AE";"Piperazine derivatives";"R06AE";F;2013/11/12
+"R06AK";"Combinations of antihistamines";"R06AK";F;2013/11/12
+"R06AX";"Other antihistamines for systemic use";"R06AX";F;2013/11/12
+"R07AA";"Lung surfactants";"R07AA";F;2013/11/12
+"R07AB";"Respiratory stimulants";"R07AB";F;2013/11/12
+"R07AX";"Other respiratory system products";"R07AX";F;2013/11/12
+"S01AA";"Antibiotics";"S01AA";F;2013/11/12
+"S01AB";"Sulfonamides";"S01AB";F;2013/11/12
+"S01AD";"Antivirals";"S01AD";F;2013/11/12
+"S01AX";"Other antiinfectives";"S01AX";F;2013/11/12
+"S01BA";"Corticosteroids, plain";"S01BA";F;2013/11/12
+"S01BB";"Corticosteroids and mydriatics in combination";"S01BB";F;2013/11/12
+"S01BC";"Antiinflammatory agents, non-steroids";"S01BC";F;2013/11/12
+"S01CA";"Corticosteroids and antiinfectives in combination";"S01CA";F;2013/11/12
+"S01CB";"Corticosteroids/antiinfectives/mydriatics in combination";"S01CB";F;2013/11/12
+"S01CC";"Antiinflammatory agents, non-steroids and antiinfectives in combination";"S01CC";F;2013/11/12
+"S01EA";"Sympathomimetics in glaucoma therapy";"S01EA";F;2013/11/12
+"S01EB";"Parasympathomimetics";"S01EB";F;2013/11/12
+"S01EC";"Carbonic anhydrase inhibitors";"S01EC";F;2013/11/12
+"S01ED";"Beta blocking agents";"S01ED";F;2013/11/12
+"S01EE";"Prostaglandin analogues";"S01EE";F;2013/11/12
+"S01EX";"Other antiglaucoma preparations";"S01EX";F;2013/11/12
+"S01FA";"Anticholinergics";"S01FA";F;2013/11/12
+"S01FB";"Sympathomimetics excl. antiglaucoma preparations";"S01FB";F;2013/11/12
+"S01GA";"Sympathomimetics used as decongestants";"S01GA";F;2013/11/12
+"S01GX";"Other antiallergics";"S01GX";F;2013/11/12
+"S01HA";"Local anesthetics";"S01HA";F;2013/11/12
+"S01JA";"Colouring agents";"S01JA";F;2013/11/12
+"S01JX";"Other ophthalmological diagnostic agents";"S01JX";F;2013/11/12
+"S01KA";"Viscoelastic substances";"S01KA";F;2013/11/12
+"S01KX";"Other surgical aids";"S01KX";F;2013/11/12
+"S01XA";"Other ophthalmologicals";"S01XA";F;2013/11/12
+"S02AA";"Antiinfectives";"S02AA";F;2013/11/12
+"S02BA";"Corticosteroids";"S02BA";F;2013/11/12
+"S02CA";"Corticosteroids and antiinfectives in combination";"S02CA";F;2013/11/12
+"S02DA";"Analgesics and anesthetics";"S02DA";F;2013/11/12
+"S02DC";"Indifferent preparations";"S02DC";F;2013/11/12
+"S03AA";"Antiinfectives";"S03AA";F;2013/11/12
+"S03BA";"Corticosteroids";"S03BA";F;2013/11/12
+"S03CA";"Corticosteroids and antiinfectives in combination";"S03CA";F;2013/11/12
 "SA000";"Generell anestesi och sedering. Induktion: Intravenös utan relaxation. Luftvägskontroll med: Spontanandning utan tillskott av oxygen. Huvudsakligt und";"WAA408";F;2008/01/01
 "SA001";"Generell anestesi och sedering. Induktion: Intravenös utan relaxation. Luftvägskontroll med: Spontanandning utan tillskott av oxygen. Huvudsakligt und";"WAA408";F;2008/01/01
 "SA004";"Generell anestesi och sedering. Induktion: Intravenös utan relaxation. Luftvägskontroll med: Spontanandning utan tillskott av oxygen. Huvudsakligt und";"WAA408";F;2008/01/01
@@ -9940,90 +9967,90 @@
 "ULC05";"Hysteroskopi med biopsi";"LCE005";F;1997/01/01
 "ULC12";"Mikrohysteroskopi";"LCE012";F;1997/01/01
 "ULC15";"Mikrohysteroskopi med biopsi";"LCE015";F;1997/01/01
-"V01AA";"Allergen extracts";"V01AA";F;2013/09/25
-"V03AB";"Antidotes";"V03AB";F;2013/09/25
-"V03AC";"Iron chelating agents";"V03AC";F;2013/09/25
-"V03AE";"Drugs for treatment of hyperkalemia and hyperphosphatemia";"V03AE";F;2013/09/25
-"V03AF";"Detoxifying agents for antineoplastic treatment";"V03AF";F;2013/09/25
-"V03AG";"Drugs for treatment of hypercalcemia";"V03AG";F;2013/09/25
-"V03AH";"Drugs for treatment of hypoglycemia";"V03AH";F;2013/09/25
-"V03AK";"Tissue adhesives";"V03AK";F;2013/09/25
-"V03AM";"Drugs for embolisation";"V03AM";F;2013/09/25
-"V03AN";"Medical gases";"V03AN";F;2013/09/25
-"V03AX";"Other therapeutic products";"V03AX";F;2013/09/25
-"V03AZ";"Nerve depressants";"V03AZ";F;2013/09/25
-"V04CA";"Tests for diabetes";"V04CA";F;2013/09/25
-"V04CB";"Tests for fat absorption";"V04CB";F;2013/09/25
-"V04CC";"Tests for bile duct patency";"V04CC";F;2013/09/25
-"V04CD";"Tests for pituitary function";"V04CD";F;2013/09/25
-"V04CE";"Tests for liver functional capacity";"V04CE";F;2013/09/25
-"V04CF";"Tuberculosis diagnostics";"V04CF";F;2013/09/25
-"V04CG";"Tests for gastric secretion";"V04CG";F;2013/09/25
-"V04CH";"Tests for renal function";"V04CH";F;2013/09/25
-"V04CJ";"Tests for thyreoidea function";"V04CJ";F;2013/09/25
-"V04CK";"Tests for pancreatic function";"V04CK";F;2013/09/25
-"V04CL";"Tests for allergic diseases";"V04CL";F;2013/09/25
-"V04CM";"Tests for fertility disturbances";"V04CM";F;2013/09/25
-"V04CX";"Other diagnostic agents";"V04CX";F;2013/09/25
-"V06AA";"Low-energy diets";"V06AA";F;2013/09/25
-"V06CA";"Nutrients without phenylalanine";"V06CA";F;2013/09/25
-"V06DA";"Carbohydrates/proteins/minerals/vitamins, combinations";"V06DA";F;2013/09/25
-"V06DB";"Fat/carbohydrates/proteins/minerals/vitamins, combinations";"V06DB";F;2013/09/25
-"V06DC";"Carbohydrates";"V06DC";F;2013/09/25
-"V06DD";"Amino acids, incl. combinations with polypeptides";"V06DD";F;2013/09/25
-"V06DE";"Amino acids/carbohydrates/minerals/vitamins, combinations";"V06DE";F;2013/09/25
-"V06DF";"Milk substitutes";"V06DF";F;2013/09/25
-"V06DX";"Other combinations of nutrients";"V06DX";F;2013/09/25
-"V07AA";"Plasters";"V07AA";F;2013/09/25
-"V07AB";"Solvents and diluting agents, incl. irrigating solutions";"V07AB";F;2013/09/25
-"V07AC";"Blood transfusion, auxiliary products";"V07AC";F;2013/09/25
-"V07AD";"Blood tests, auxiliary products";"V07AD";F;2013/09/25
-"V07AN";"Incontinence equipment";"V07AN";F;2013/09/25
-"V07AR";"Sensitivity tests, discs and tablets";"V07AR";F;2013/09/25
-"V07AS";"Stomi equipment";"V07AS";F;2013/09/25
-"V07AT";"Cosmetics";"V07AT";F;2013/09/25
-"V07AV";"Technical disinfectants";"V07AV";F;2013/09/25
-"V07AX";"Washing agents etc.";"V07AX";F;2013/09/25
-"V07AY";"Other non-therapeutic auxiliary products";"V07AY";F;2013/09/25
-"V07AZ";"Chemicals and reagents for analysis";"V07AZ";F;2013/09/25
-"V08AA";"Watersoluble, nephrotropic, high osmolar X-ray contrast media";"V08AA";F;2013/09/25
-"V08AB";"Watersoluble, nephrotropic, low osmolar X-ray contrast media";"V08AB";F;2013/09/25
-"V08AC";"Watersoluble, hepatotropic X-ray contrast media";"V08AC";F;2013/09/25
-"V08AD";"Non-watersoluble X-ray contrast media";"V08AD";F;2013/09/25
-"V08BA";"Barium sulfate containing X-ray contrast media";"V08BA";F;2013/09/25
-"V08CA";"Paramagnetic contrast media";"V08CA";F;2013/09/25
-"V08CB";"Superparamagnetic contrast media";"V08CB";F;2013/09/25
-"V08CX";"Other magnetic resonance imaging contrast media";"V08CX";F;2013/09/25
-"V08DA";"Ultrasound contrast media";"V08DA";F;2013/09/25
-"V09AA";"Technetium (99mTc) compounds";"V09AA";F;2013/09/25
-"V09AB";"Iodine (123I) compounds";"V09AB";F;2013/09/25
-"V09AX";"Other central nervous system diagnostic radiopharmaceuticals";"V09AX";F;2013/09/25
-"V09BA";"Technetium (99mTc) compounds";"V09BA";F;2013/09/25
-"V09CA";"Technetium (99mTc) compounds";"V09CA";F;2013/09/25
-"V09CX";"Other renal system diagnostic radiopharmaceuticals";"V09CX";F;2013/09/25
-"V09DA";"Technetium (99mTc) compounds";"V09DA";F;2013/09/25
-"V09DB";"Technetium (99mTc), particles and colloids";"V09DB";F;2013/09/25
-"V09DX";"Other hepatic and reticulo endothelial system diagnostic radiopharmaceuticals";"V09DX";F;2013/09/25
-"V09EA";"Technetium (99mTc), inhalants";"V09EA";F;2013/09/25
-"V09EB";"Technetium (99mTc), particles for injection";"V09EB";F;2013/09/25
-"V09EX";"Other respiratory system diagnostic radiopharmaceuticals";"V09EX";F;2013/09/25
-"V09FX";"Various thyroid diagnostic radiopharmaceuticals";"V09FX";F;2013/09/25
-"V09GA";"Technetium (99mTc) compounds";"V09GA";F;2013/09/25
-"V09GB";"Iodine (125I) compounds";"V09GB";F;2013/09/25
-"V09GX";"Other cardiovascular system diagnostic radiopharmaceuticals";"V09GX";F;2013/09/25
-"V09HA";"Technetium (99mTc) compounds";"V09HA";F;2013/09/25
-"V09HB";"Indium (111In) compounds";"V09HB";F;2013/09/25
-"V09HX";"Other diagnostic radiopharmaceuticals for inflammation and infection detection";"V09HX";F;2013/09/25
-"V09IA";"Technetium (99mTc) compounds";"V09IA";F;2013/09/25
-"V09IB";"Indium (111In) compounds";"V09IB";F;2013/09/25
-"V09IX";"Other diagnostic radiopharmaceuticals for tumour detection";"V09IX";F;2013/09/25
-"V09XA";"Iodine (131I) compounds";"V09XA";F;2013/09/25
-"V09XX";"Various diagnostic radiopharmaceuticals";"V09XX";F;2013/09/25
-"V10AA";"Yttrium (90Y) compounds";"V10AA";F;2013/09/25
-"V10AX";"Other antiinflammatory therapeutic radiopharmaceuticals";"V10AX";F;2013/09/25
-"V10BX";"Various pain palliation radiopharmaceuticals";"V10BX";F;2013/09/25
-"V10XA";" Iodine (131I) compounds";"V10XA";F;2013/09/25
-"V10XX";"Various therapeutic radiopharmaceuticals";"V10XX";F;2013/09/25
+"V01AA";"Allergen extracts";"V01AA";F;2013/11/12
+"V03AB";"Antidotes";"V03AB";F;2013/11/12
+"V03AC";"Iron chelating agents";"V03AC";F;2013/11/12
+"V03AE";"Drugs for treatment of hyperkalemia and hyperphosphatemia";"V03AE";F;2013/11/12
+"V03AF";"Detoxifying agents for antineoplastic treatment";"V03AF";F;2013/11/12
+"V03AG";"Drugs for treatment of hypercalcemia";"V03AG";F;2013/11/12
+"V03AH";"Drugs for treatment of hypoglycemia";"V03AH";F;2013/11/12
+"V03AK";"Tissue adhesives";"V03AK";F;2013/11/12
+"V03AM";"Drugs for embolisation";"V03AM";F;2013/11/12
+"V03AN";"Medical gases";"V03AN";F;2013/11/12
+"V03AX";"Other therapeutic products";"V03AX";F;2013/11/12
+"V03AZ";"Nerve depressants";"V03AZ";F;2013/11/12
+"V04CA";"Tests for diabetes";"V04CA";F;2013/11/12
+"V04CB";"Tests for fat absorption";"V04CB";F;2013/11/12
+"V04CC";"Tests for bile duct patency";"V04CC";F;2013/11/12
+"V04CD";"Tests for pituitary function";"V04CD";F;2013/11/12
+"V04CE";"Tests for liver functional capacity";"V04CE";F;2013/11/12
+"V04CF";"Tuberculosis diagnostics";"V04CF";F;2013/11/12
+"V04CG";"Tests for gastric secretion";"V04CG";F;2013/11/12
+"V04CH";"Tests for renal function";"V04CH";F;2013/11/12
+"V04CJ";"Tests for thyreoidea function";"V04CJ";F;2013/11/12
+"V04CK";"Tests for pancreatic function";"V04CK";F;2013/11/12
+"V04CL";"Tests for allergic diseases";"V04CL";F;2013/11/12
+"V04CM";"Tests for fertility disturbances";"V04CM";F;2013/11/12
+"V04CX";"Other diagnostic agents";"V04CX";F;2013/11/12
+"V06AA";"Low-energy diets";"V06AA";F;2013/11/12
+"V06CA";"Nutrients without phenylalanine";"V06CA";F;2013/11/12
+"V06DA";"Carbohydrates/proteins/minerals/vitamins, combinations";"V06DA";F;2013/11/12
+"V06DB";"Fat/carbohydrates/proteins/minerals/vitamins, combinations";"V06DB";F;2013/11/12
+"V06DC";"Carbohydrates";"V06DC";F;2013/11/12
+"V06DD";"Amino acids, incl. combinations with polypeptides";"V06DD";F;2013/11/12
+"V06DE";"Amino acids/carbohydrates/minerals/vitamins, combinations";"V06DE";F;2013/11/12
+"V06DF";"Milk substitutes";"V06DF";F;2013/11/12
+"V06DX";"Other combinations of nutrients";"V06DX";F;2013/11/12
+"V07AA";"Plasters";"V07AA";F;2013/11/12
+"V07AB";"Solvents and diluting agents, incl. irrigating solutions";"V07AB";F;2013/11/12
+"V07AC";"Blood transfusion, auxiliary products";"V07AC";F;2013/11/12
+"V07AD";"Blood tests, auxiliary products";"V07AD";F;2013/11/12
+"V07AN";"Incontinence equipment";"V07AN";F;2013/11/12
+"V07AR";"Sensitivity tests, discs and tablets";"V07AR";F;2013/11/12
+"V07AS";"Stomi equipment";"V07AS";F;2013/11/12
+"V07AT";"Cosmetics";"V07AT";F;2013/11/12
+"V07AV";"Technical disinfectants";"V07AV";F;2013/11/12
+"V07AX";"Washing agents etc.";"V07AX";F;2013/11/12
+"V07AY";"Other non-therapeutic auxiliary products";"V07AY";F;2013/11/12
+"V07AZ";"Chemicals and reagents for analysis";"V07AZ";F;2013/11/12
+"V08AA";"Watersoluble, nephrotropic, high osmolar X-ray contrast media";"V08AA";F;2013/11/12
+"V08AB";"Watersoluble, nephrotropic, low osmolar X-ray contrast media";"V08AB";F;2013/11/12
+"V08AC";"Watersoluble, hepatotropic X-ray contrast media";"V08AC";F;2013/11/12
+"V08AD";"Non-watersoluble X-ray contrast media";"V08AD";F;2013/11/12
+"V08BA";"Barium sulfate containing X-ray contrast media";"V08BA";F;2013/11/12
+"V08CA";"Paramagnetic contrast media";"V08CA";F;2013/11/12
+"V08CB";"Superparamagnetic contrast media";"V08CB";F;2013/11/12
+"V08CX";"Other magnetic resonance imaging contrast media";"V08CX";F;2013/11/12
+"V08DA";"Ultrasound contrast media";"V08DA";F;2013/11/12
+"V09AA";"Technetium (99mTc) compounds";"V09AA";F;2013/11/12
+"V09AB";"Iodine (123I) compounds";"V09AB";F;2013/11/12
+"V09AX";"Other central nervous system diagnostic radiopharmaceuticals";"V09AX";F;2013/11/12
+"V09BA";"Technetium (99mTc) compounds";"V09BA";F;2013/11/12
+"V09CA";"Technetium (99mTc) compounds";"V09CA";F;2013/11/12
+"V09CX";"Other renal system diagnostic radiopharmaceuticals";"V09CX";F;2013/11/12
+"V09DA";"Technetium (99mTc) compounds";"V09DA";F;2013/11/12
+"V09DB";"Technetium (99mTc), particles and colloids";"V09DB";F;2013/11/12
+"V09DX";"Other hepatic and reticulo endothelial system diagnostic radiopharmaceuticals";"V09DX";F;2013/11/12
+"V09EA";"Technetium (99mTc), inhalants";"V09EA";F;2013/11/12
+"V09EB";"Technetium (99mTc), particles for injection";"V09EB";F;2013/11/12
+"V09EX";"Other respiratory system diagnostic radiopharmaceuticals";"V09EX";F;2013/11/12
+"V09FX";"Various thyroid diagnostic radiopharmaceuticals";"V09FX";F;2013/11/12
+"V09GA";"Technetium (99mTc) compounds";"V09GA";F;2013/11/12
+"V09GB";"Iodine (125I) compounds";"V09GB";F;2013/11/12
+"V09GX";"Other cardiovascular system diagnostic radiopharmaceuticals";"V09GX";F;2013/11/12
+"V09HA";"Technetium (99mTc) compounds";"V09HA";F;2013/11/12
+"V09HB";"Indium (111In) compounds";"V09HB";F;2013/11/12
+"V09HX";"Other diagnostic radiopharmaceuticals for inflammation and infection detection";"V09HX";F;2013/11/12
+"V09IA";"Technetium (99mTc) compounds";"V09IA";F;2013/11/12
+"V09IB";"Indium (111In) compounds";"V09IB";F;2013/11/12
+"V09IX";"Other diagnostic radiopharmaceuticals for tumour detection";"V09IX";F;2013/11/12
+"V09XA";"Iodine (131I) compounds";"V09XA";F;2013/11/12
+"V09XX";"Various diagnostic radiopharmaceuticals";"V09XX";F;2013/11/12
+"V10AA";"Yttrium (90Y) compounds";"V10AA";F;2013/11/12
+"V10AX";"Other antiinflammatory therapeutic radiopharmaceuticals";"V10AX";F;2013/11/12
+"V10BX";"Various pain palliation radiopharmaceuticals";"V10BX";F;2013/11/12
+"V10XA";" Iodine (131I) compounds";"V10XA";F;2013/11/12
+"V10XX";"Various therapeutic radiopharmaceuticals";"V10XX";F;2013/11/12
 "XAA00";"Endoskopisk intrakraniell undersökning";"AASA50";F;1997/01/01
 "XAB00";"Endoskopisk intraspinal undersökning";"ABFB00";F;1997/01/01
 "XAB10";"Diagnostisk rotblockad";"ABFB10";F;1997/01/01
@@ -10129,14 +10156,14 @@
 "XS925";"Barnmorska";"ZZ2232";F;2013/01/01
 "XT001";"Remiss UNS";"ZZZA30";F;2006/01/01
 "XU001";"Fastspänning upp till och med 4 timmar";"ZYZD00";F;2009/01/01
-"XU002";"Deleted 2010/12/31-Fastspänning i mer än 4 timmar";"ZYZD00";F;2009/01/01
+"XU002";"Deleted 2010/12/31 - Fastspänning i mer än 4 timmar";"ZYZD00";F;2009/01/01
 "XU003";"Fastspänning i mer än 4 timmar men mindre än 72 timmar";"ZYZD00";F;2011/01/01
 "XU004";"Fastspänning i 72 timmar eller mer";"ZYZD00";F;2011/01/01
 "XU011";"Avskiljande upp till och med 8 timmar";"ZYZD00";F;2009/01/01
 "XU012";"Avskiljande i mer än 8 timmar men mindre än 72 timmar";"ZYZD00";F;2009/01/01
 "XU013";"Avskiljande i 72 timmar eller mer";"ZYZD00";F;2011/01/01
-"XU020";"Deleted 2010/09/30-Tvångsmedicinering, parenteral";"ZYZD00";F;2009/01/01
-"XU021";"Deleted 2011/12/05-Medicinering utförd under fastspänning eller fasthållande";"ZYZD00";F;2011/01/01
+"XU020";"Deleted 2010/09/30 - Tvångsmedicinering, parenteral";"ZYZD00";F;2009/01/01
+"XU021";"Deleted 2011/12/05 - Medicinering utförd under fastspänning eller fasthållande";"ZYZD00";F;2011/01/01
 "XU030";"Inskränkande av elektronisk kommunikation vid tvångsvård";"ZYZD00";F;2009/01/01
 "XU039";"Övervakat urinprov";"XXXC00";F;2012/01/01
 "XU040";"Övervakning av försändelser vid tvångsvård";"ZYZD00";F;2009/01/01
@@ -10147,8 +10174,11 @@
 "XU045";"Upprättande av samordnad individuell plan (i)";"R1R220";F;2014/01/01
 "XU046";"Upprättande av samordnad plan vid utskrivning (i)";"R1R220";F;2014/01/01
 "XU047";"Kvarhållning enligt lagen om psykiatrisk tvångsvård (i)";"ZYZD00";F;2014/01/01
-"XU050";"Deleted 2011/12/05-Fastspänning";"ZYZD00";F;2011/01/01
-"XU051";"Deleted 2011/12/05-Permission vid tvångsvård, 1 dygn - 1 vecka";"WRZB99";F;2009/01/01
+"XU050";"Deleted 2011/12/05 - Fastspänning";"ZYZD00";F;2011/01/01
+"XU051";"Deleted 2011/12/05 - Permission vid tvångsvård, 1 dygn - 1 vecka";"WRZB99";F;2009/01/01
+"XU052";"Deleted 2009/12/31 - Permission vid tvångsvård, 1 - 3 veckor";"WRZB99";F;2009/01/01
+"XU053";"Deleted 2009/12/31 - Permission vid tvångsvård, 3 veckor eller mer";"WRZB99";F;2009/01/01
+"XU059";"Deleted 2009/12/31 - Permission vid tvångsvård, UNS";"WRZB99";F;2009/01/01
 "XV001";"Bassängträning";"R3R120";F;2006/01/01
 "XV002";"Inhämtande av råd av annan hälso- och sjukvårdspersonal UNS";"ZZZA30";F;2006/01/01
 "XV003";"Inskrivningssamtal";"ZYZX90";F;2006/01/01
@@ -10160,7 +10190,7 @@
 "XV009";"Uttagning av en njure från levande donator till transplantation, laparoskopisk";"YKSA01";F;2006/01/01
 "XV010";"Uttagning av en njure från levande donator till transplantation, öppen operation";"YKSA00";F;2006/01/01
 "XV011";"Visning av avliden";"ZYZX94";F;2006/01/01
-"XV012";"Deleted 2013/12/31-Läkemedelsgenomgång (i)";"WZZ999";F;2009/01/01
+"XV012";"Deleted 2013/12/31 - Läkemedelsgenomgång (i)";"WZZ999";F;2009/01/01
 "XV013";"Vård av avliden inför eventuell organdonation";"WXYX90";F;2010/01/01
 "XV014";"Ständigt närvarande personal (extravak) i 8 timmar eller mer";"ZZZB00";F;2012/01/01
 "XV015";"Läkemedelsgenomgång, enkel (i)";"WVXB00";F;2014/01/01
@@ -10236,6 +10266,22 @@
 "ZPA10";"Intraoperativ användning av skleroserande skum";"ZPXA10";F;2008/01/01
 "ZPA15";"Intraoperativ användning av andra skleroserande läkemedel";"ZPXA19";F;2008/01/01
 "ZPA20";"Intraoperativ användning av ockluderande material";"ZPXA20";F;2008/01/01
+"ZQ005";"Deleted 2009/12/31 - Excisionsbredd  0-5 mm";"ZQXW00";F;2010/01/01
+"ZQ010";"Deleted 2009/12/31 - Excisionsbredd  6-10 mm";"ZQXW00";F;2010/01/01
+"ZQ015";"Deleted 2009/12/31 - Excisionsbredd 11-15 mm";"ZQXX01";F;2010/01/01
+"ZQ020";"Deleted 2009/12/31 - Excisionsbredd 16-20 mm";"ZQXX01";F;2010/01/01
+"ZQ025";"Deleted 2009/12/31 - Excisionsbredd 21-25 mm";"ZQXX01";F;2010/01/01
+"ZQ030";"Deleted 2009/12/31 - Excisionsbredd 26-30 mm";"ZQXX01";F;2010/01/01
+"ZQ035";"Deleted 2009/12/31 - Excisionsbredd 31-35 mm";"ZQXX01";F;2010/01/01
+"ZQ040";"Deleted 2009/12/31 - Excisionsbredd 36-40 mm";"ZQXX01";F;2010/01/01
+"ZQ045";"Deleted 2009/12/31 - Excisionsbredd 41-45 mm";"ZQXX01";F;2010/01/01
+"ZQ050";"Deleted 2009/12/31 - Excisionsbredd 46-50 mm";"ZQXX01";F;2010/01/01
+"ZQ060";"Deleted 2009/12/31 - Excisionsbredd 51-60 mm";"ZQXX01";F;2010/01/01
+"ZQ070";"Deleted 2009/12/31 - Excisionsbredd 61-70 mm";"ZQXX01";F;2010/01/01
+"ZQ080";"Deleted 2009/12/31 - Excisionsbredd 71-80 mm";"ZQXX01";F;2010/01/01
+"ZQ090";"Deleted 2009/12/31 - Excisionsbredd 81-90 mm";"ZQXX01";F;2010/01/01
+"ZQ100";"Deleted 2009/12/31 - Excisionsbredd 91-100 mm";"ZQXX01";F;2010/01/01
+"ZQ101";"Deleted 2009/12/31 - Excisionsbredd över100 mm";"ZQXX01";F;2010/01/01
 "ZQL01";"Längd på ingrepp i hud och subkutan vävnad upp till och med 1 cm";"ZQXW00";F;2010/01/01
 "ZQL02";"Längd på ingrepp i hud och subkutan vävnad större än 1 cm, upp till och med 2 cm";"ZQXW00";F;2010/01/01
 "ZQL03";"Längd på ingrepp i hud och subkutan vävnad större än 2 cm, upp till och med 3 cm";"ZQXW00";F;2010/01/01
@@ -10265,6 +10311,22 @@
 "ZQW25";"Bredd på ingrepp i hud och subkutan vävnad större än 20 cm, upp till och med 25 cm";"ZQXX01";F;2010/01/01
 "ZQW29";"Bredd på ingrepp i hud och subkutan vävnad större än 25 cm";"ZQXX01";F;2010/01/01
 "ZQX00";"Upprepande teknik för excision av hudförändringar";"ZQXA00";F;2008/01/01
+"ZR005";"Deleted 2009/12/31 - Excisionslängd  0-5 mm";"ZQXW00";F;2010/01/01
+"ZR010";"Deleted 2009/12/31 - Excisionslängd  6-10 mm";"ZQXW00";F;2010/01/01
+"ZR015";"Deleted 2009/12/31 - Excisionslängd 11-15 mm";"ZQXW00";F;2010/01/01
+"ZR020";"Deleted 2009/12/31 - Excisionslängd 16-20 mm";"ZQXW00";F;2010/01/01
+"ZR025";"Deleted 2009/12/31 - Excisionslängd 21-25 mm";"ZQXW00";F;2010/01/01
+"ZR030";"Deleted 2009/12/31 - Excisionslängd 26-30 mm";"ZQXW00";F;2010/01/01
+"ZR035";"Deleted 2009/12/31 - Excisionslängd 31-35 mm";"ZQXW00";F;2010/01/01
+"ZR040";"Deleted 2009/12/31 - Excisionslängd 36-40 mm";"ZQXW00";F;2010/01/01
+"ZR045";"Deleted 2009/12/31 - Excisionslängd 41-45 mm";"ZQXW00";F;2010/01/01
+"ZR050";"Deleted 2009/12/31 - Excisionslängd 46-50 mm";"ZQXW00";F;2010/01/01
+"ZR060";"Deleted 2009/12/31 - Excisionslängd 51-60 mm";"ZQXW00";F;2010/01/01
+"ZR070";"Deleted 2009/12/31 - Excisionslängd 61-70 mm";"ZQXW00";F;2010/01/01
+"ZR080";"Deleted 2009/12/31 - Excisionslängd 71-80 mm";"ZQXW00";F;2010/01/01
+"ZR090";"Deleted 2009/12/31 - Excisionslängd 81-90 mm";"ZQXW00";F;2010/01/01
+"ZR100";"Deleted 2009/12/31 - Excisionslängd 91-100 mm";"ZQXW00";F;2010/01/01
+"ZR101";"Deleted 2009/12/31 - Excisionslängd över100 mm";"ZQXW00";F;2010/01/01
 "ZSA00";"Operation relaterad till tidigare operation klassificerad i kapitel A";"ZSXA00";F;1997/01/01
 "ZSB00";"Operation relaterad till tidigare operation klassificerad i kapitel B";"ZSXB00";F;1997/01/01
 "ZSC00";"Operation relaterad till tidigare operation klassificerad i kapitel C";"ZSXC00";F;1997/01/01
@@ -10304,6 +10366,7 @@
 "ZV031";"Kurativ radioterapi";"ZXOA00";F;2006/01/01
 "ZV032";"MIBG";"ZXID00";F;2006/01/01
 "ZV033";"Palliativ radioterapi";"ZXOA01";F;2006/01/01
+"ZV034";"Deleted 2009/12/31 - Palliativ vård";"ZYZX90";F;2006/01/01
 "ZV035";"Radiofosfor";"ZXIB00";F;2006/01/01
 "ZV036";"Radiojod (Isotop, Jod 123, Jod 131)";"ZXIB10";F;2006/01/01
 "ZV037";"Radiologisk undersökning i narkos";"WAA419";F;2006/01/01
@@ -10340,7 +10403,7 @@
 "ZV229";"Åtgärd utförd under fasthållande eller fastspänning (i)";"ZYZD00";F;2011/01/01
 "ZV300";"Åtgärd utförd i algologiskt syfte";"ZXZA00";F;2008/01/01
 "ZV400";"Åtgärd utförd med palliativ avsikt";"ZXZA10";F;2008/01/01
-"ZV501";"Deleted 2013/12/31-Medverkan av företrädare för kommunen (i)";"ZZZA14";F;2011/01/01
+"ZV501";"Deleted 2013/12/31 - Medverkan av företrädare för kommunen (i)";"ZZZA14";F;2011/01/01
 "ZV502";"Medverkan av företrädare för arbetsförmedlingen";"ZZZA14";F;2011/01/01
 "ZV503";"Medverkan av företrädare för försäkringskassan";"ZZZA14";F;2011/01/01
 "ZV504";"Medverkan av närstående";"ZZZA12";F;2011/01/01
@@ -10540,9 +10603,9 @@
 "ZZT00";"Fritt bentransplantat";"ZTXH29";F;1999/01/01
 "ZZU00";"Fritt slemhinnetransplantat";"ZTXU00";F;2000/01/01
 "ZZU10";"Fritt transplantat av bindehinna";"ZTXU10";F;2010/01/01
-"xx1DH";"Doribax 1g";"xx1DH";F;2013/09/25
-"xx1EB";"Firazyr 30 mg inj (ikatibantti)";"xx1EB";F;2013/09/25
-"xx1XX";"Nipent, Glivec & Iressa";"xx1XX";F;2013/09/25
-"xx2BD";"Wilfactin lääkeannos laskimoon 1000 IU (von Willebrandt-tekijä)";"xx2BD";F;2013/09/25
-"xx5VM";"5VM18ZX120";"xx5VM";F;2013/09/25
-"xxB06";"Normosang lääkeannos laskimoon (hemiini)";"xxB06";F;2013/09/25
+"xx1DH";"Doribax 1g";"xx1DH";F;2013/11/12
+"xx1EB";"Firazyr 30 mg inj (ikatibantti)";"xx1EB";F;2013/11/12
+"xx1XX";"Nipent, Glivec & Iressa";"xx1XX";F;2013/11/12
+"xx2BD";"Wilfactin lääkeannos laskimoon 1000 IU (von Willebrandt-tekijä)";"xx2BD";F;2013/11/12
+"xx5VM";"5VM18ZX120";"xx5VM";F;2013/11/12
+"xxB06";"Normosang lääkeannos laskimoon (hemiini)";"xxB06";F;2013/11/12
